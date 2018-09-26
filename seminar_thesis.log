@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  21 SEP 2018 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  26 SEP 2018 16:51
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -430,9 +430,8 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 LaTeX Warning: Unused global option(s):
     [titlepage].
 
-(seminar_thesis.aux (abstract.aux) (motivation.aux)
-(thematisch_verwandte_arbeiten.aux) (related_work.aux) (study_setting.aux)
-(conclusion.aux) (motorlearning.aux) (paperiread.aux))
+(seminar_thesis.aux (abstract.aux) (introduction.aux) (scope.aux) (theory.aux)
+(related_work.aux) (study_setting.aux) (outlook.aux))
 \openout1 = `seminar_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -518,80 +517,94 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/stefa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 \openout2 = `abstract.aux'.
 
- (abstract.tex) [2
-
-]
-\openout2 = `motivation.aux'.
+ (abstract.tex [2
 
 
-(motivation.tex) [3
+]) [3]
+\openout2 = `introduction.aux'.
 
 
-]
-\openout2 = `thematisch_verwandte_arbeiten.aux'.
+(introduction.tex [4
 
- (thematisch_verwandte_arbeiten.tex) [4
 
 
 ]
-\openout2 = `related_work.aux'.
-
- (related_work.tex) [5
-
-
-]
-\openout2 = `study_setting.aux'.
-
- (study_setting.tex) [6
-
-
-]
-\openout2 = `conclusion.aux'.
-
- (conclusion.tex) [7
-
-
-]
-\openout2 = `motorlearning.aux'.
-
- (motorlearning.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) [8
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+
+[5]) [6]
+\openout2 = `scope.aux'.
+
+ (scope.tex) [7
+
 
 
 ]
-\openout2 = `paperiread.aux'.
+\openout2 = `theory.aux'.
 
- (paperiread.tex)
-[9
+ (theory.tex [8
 
 
-] (seminar_thesis.aux (abstract.aux) (motivation.aux)
-(thematisch_verwandte_arbeiten.aux) (related_work.aux) (study_setting.aux)
-(conclusion.aux) (motorlearning.aux) (paperiread.aux)) ) 
+
+]) [9]
+\openout2 = `related_work.aux'.
+
+ (related_work.tex [10
+
+
+
+]
+! Undefined control sequence.
+l.5 \secion
+           {Ego/exo perspective work - if exists}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [11]
+\openout2 = `study_setting.aux'.
+
+ (study_setting.tex [12
+
+
+
+]
+Overfull \hbox (51.67377pt too wide) in paragraph at lines 4--12
+ [] 
+ []
+
+) [13]
+\openout2 = `outlook.aux'.
+
+ (outlook.tex [14
+
+
+
+]) [15] (seminar_thesis.aux (abstract.aux)
+(introduction.aux) (scope.aux) (theory.aux) (related_work.aux)
+(study_setting.aux) (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5780 strings out of 492972
- 79616 string characters out of 3135883
- 177620 words of memory out of 3000000
- 9555 multiletter control sequences out of 15000+200000
- 12748 words of font info for 49 fonts, out of 3000000 for 9000
+ 5775 strings out of 492972
+ 79059 string characters out of 3135883
+ 176772 words of memory out of 3000000
+ 9557 multiletter control sequences out of 15000+200000
+ 13354 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,10n,25p,483b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on seminar_thesis.pdf (9 pages, 72431 bytes).
+ 43i,10n,25p,668b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on seminar_thesis.pdf (15 pages, 76900 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
