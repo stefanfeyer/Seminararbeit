@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  26 SEP 2018 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  27 SEP 2018 16:22
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -539,63 +539,188 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 [5]) [6]
 \openout2 = `scope.aux'.
 
- (scope.tex) [7
+ (scope.tex [7
 
 
 
 ]
+Overfull \hbox (20.4093pt too wide) in paragraph at lines 32--33
+[]$[]$\OT1/cmr/m/n/12 : in-con-cis-tency in move-ment er-ror: $\OML/cmm/m/it/12
+ VE \OT1/cmr/m/n/12 = []$.
+ []
+
+
+Overfull \hbox (5.8135pt too wide) in paragraph at lines 35--36
+[]$[]$\OT1/cmr/m/n/12 : mea-sure of over-all ac-cu-racy in per-for-mance. $\OML
+/cmm/m/it/12 AE \OT1/cmr/m/n/12 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 		\item \underleftarrow{AE vs. E}
+                                      : \todo
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.36 		\item \underleftarrow{AE vs. E}: \todo
+                                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 		\item
+             \underleftarrow{Absolute Constant Error}: $=|CE|$. if half pos ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 		\item \underleftarrow
+                            {Absolute Constant Error}: $=|CE|$. if half pos ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 		\item \underleftarrow
+                            {Absolute Constant Error}: $=|CE|$. if half pos ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 		\item
+             these measures can be applied to other movements. like pursuit ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 		\item t
+              hese measures can be applied to other movements. like pursuit ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.38 		\item t
+              hese measures can be applied to other movements. like pursuit ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (214.21423pt too wide) in paragraph at lines 36--38
+[]$[] \OT1/cmr/m/n/12 : [] :$=|CE|$\OML/cmm/m/it/12 :ifhalfposandhalfnegcouldca
+nceleachotherout:whenmean:[][]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.38 		\item t
+              hese measures can be applied to other movements. like pursuit ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[8] [9]) [10]
 \openout2 = `theory.aux'.
 
- (theory.tex [8
+ (theory.tex) [11
 
 
 
-]) [9]
+]
 \openout2 = `related_work.aux'.
 
- (related_work.tex [10
+ (related_work.tex [12
 
 
 
-] [11])
-[12]
+] [13]) [14]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex
+
+(study_setting.tex
 Overfull \hbox (51.67377pt too wide) in paragraph at lines 4--12
  [] 
  []
 
-) [13
+) [15
 
 
 
 ]
 \openout2 = `outlook.aux'.
 
- (outlook.tex [14
+ (outlook.tex [16
 
 
 
-]) [15] (seminar_thesis.aux (abstract.aux)
+]) [17] (seminar_thesis.aux (abstract.aux)
 (introduction.aux) (scope.aux) (theory.aux) (related_work.aux)
 (study_setting.aux) (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5775 strings out of 492972
- 79059 string characters out of 3135883
- 176772 words of memory out of 3000000
- 9557 multiletter control sequences out of 15000+200000
- 13354 words of font info for 51 fonts, out of 3000000 for 9000
+ 5777 strings out of 492972
+ 79089 string characters out of 3135883
+ 179774 words of memory out of 3000000
+ 9559 multiletter control sequences out of 15000+200000
+ 13661 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,10n,25p,668b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,14n,25p,668b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on seminar_thesis.pdf (15 pages, 79839 bytes).
+fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+extra/cmex8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb>
+Output written on seminar_thesis.pdf (17 pages, 160397 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
