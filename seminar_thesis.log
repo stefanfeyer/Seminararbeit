@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  9 OCT 2018 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  17 OCT 2018 16:11
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -576,11 +576,20 @@ Overfull \hbox (5.8135pt too wide) in paragraph at lines 35--36
 
 
 
-] [13]) [14]
+]
+Overfull \hbox (5.85568pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/12 scientific work, how to mea-sure move-ments: hachimura et al,
+ yoshimura
+ []
+
+[13] [14]) [15]
 \openout2 = `study_setting.aux'.
 
+ (study_setting.tex [16
 
-(study_setting.tex
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 7--7
 \OT1/cmr/m/n/12 asyn-chronous move-
  []
@@ -630,28 +639,24 @@ Overfull \hbox (54.12285pt too wide) in paragraph at lines 4--12
  [] 
  []
 
-) [15
-
-
-
-]
+) [17]
 \openout2 = `outlook.aux'.
 
- (outlook.tex [16
+ (outlook.tex [18
 
 
 
-]) [17] (seminar_thesis.aux (abstract.aux)
+]) [19] (seminar_thesis.aux (abstract.aux)
 (introduction.aux) (scope.aux) (theory.aux) (related_work.aux)
 (study_setting.aux) (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5829 strings out of 492972
- 79888 string characters out of 3135883
- 180681 words of memory out of 3000000
- 9606 multiletter control sequences out of 15000+200000
+ 5830 strings out of 492972
+ 79896 string characters out of 3135883
+ 180682 words of memory out of 3000000
+ 9607 multiletter control sequences out of 15000+200000
  13661 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,25p,668b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,27p,668b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
@@ -665,9 +670,9 @@ e1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb>
-Output written on seminar_thesis.pdf (17 pages, 155877 bytes).
+Output written on seminar_thesis.pdf (19 pages, 158263 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

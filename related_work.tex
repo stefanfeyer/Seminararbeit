@@ -18,14 +18,17 @@ wie wurden die variablen untersucht $\rightarrow$ studiensetting
 %----------------------------------------------------
 \subsection{Task}
 \begin{itemize}
-	\item Onebody: artificial postures not from but like: tai chi, matial arts
-	\item VR Dance Trainer: dance movements
+	\item Onebody: 16 artificial postures not from but like: tai chi, matial arts
+	\item VR Dance Trainer: dance movements, 15 min for each move
+	\item you move: various movements to perform. using a whip, baseball, boxing, ballet, dance moves
 \end{itemize}
 %----------------------------------------------------
 \subsection{Measures}
 \begin{itemize}
-	\item onebody
-	\item VR Dance trainer
+	\item scientific work, how to measure movements: hachimura et al, yoshimura et al, qian et al, kwon et al, all use joint angles,  (mentioned in: vr dance trainer)
+	\item onebody: skeletal tracking, how much percent do the postures match? 3d positions of limbs measured: wrist, elbow, shoulder, hip knee ankle. so angle between bones is the main measure for accuracy. additionally a subjective instructor score was recorded. And, completion time, topped by 2 min.
+	\item VR Dance trainer: there are 3 common features for measuring hte difference between movements: joint position, velocity, angle. they tested which feature descibes movements best: joint position. base line vs post training movements are compared.
+	\item you move: in each keyframe, score based on the joint with the maximum error, measured in euclidean distance. but only "important joints" are measured. timing errors: 0.5s error on each side of the frame for matching posture. is timing important, the window is reduced to 0.25s. max eucl. distance is linear mapped to a score. 0 error is 10 (max), 10cm is 7.5 what is the score to pass. if precision is important, 10cm needed for pass.
 \end{itemize}
 %----------------------------------------------------
 \section{Body parts included}
