@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  18 OCT 2018 21:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.20)  23 OCT 2018 15:22
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -442,18 +442,18 @@ LaTeX Warning: Unused global option(s):
 (related_work.aux) (study_setting.aux) (outlook.aux))
 \openout1 = `seminar_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -511,12 +511,12 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -586,98 +586,53 @@ Overfull \hbox (5.85568pt too wide) in paragraph at lines 38--39
 \openout2 = `study_setting.aux'.
 
  (study_setting.tex
-Overfull \hbox (414.66951pt too wide) in paragraph at lines 2--3
-\OT1/cmr/m/n/12 um $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 asyn-chronous move-
- []
-
-
-Overfull \hbox (54.12285pt too wide) in paragraph at lines 4--12
+Overfull \hbox (54.12285pt too wide) in paragraph at lines 22--30
  [] 
  []
 
-) [17
+[17
 
 
 
-]
+])
+Overfull \hbox (414.66951pt too wide) in paragraph at lines 44--23
+\OT1/cmr/m/n/12 um $[]$
+ []
+
+[18]
 \openout2 = `outlook.aux'.
 
- (outlook.tex [18
+ (outlook.tex) [19
 
 
 
-]) [19] (seminar_thesis.aux (abstract.aux)
-(introduction.aux) (scope.aux) (theory.aux) (related_work.aux)
-(study_setting.aux) (outlook.aux)) ) 
+] (seminar_thesis.aux (abstract.aux) (introduction.aux)
+(scope.aux) (theory.aux) (related_work.aux) (study_setting.aux) (outlook.aux)) 
+) 
 Here is how much of TeX's memory you used:
- 5830 strings out of 492972
- 79896 string characters out of 3135883
- 180908 words of memory out of 3000000
- 9607 multiletter control sequences out of 15000+200000
- 13661 words of font info for 52 fonts, out of 3000000 for 9000
+ 5835 strings out of 492972
+ 79923 string characters out of 3135883
+ 180951 words of memory out of 3000000
+ 9611 multiletter control sequences out of 15000+200000
+ 14008 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,11n,25p,668b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-extra/cmex8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
-8.pfb>
-Output written on seminar_thesis.pdf (19 pages, 162685 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (19 pages, 174227 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
