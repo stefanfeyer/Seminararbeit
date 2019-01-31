@@ -1,0 +1,33 @@
+\contentsline {chapter}{Contents}{2}% 
+\contentsline {section}{\numberline {0.1}Abstract}{3}% 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{5}% 
+\contentsline {section}{\numberline {1.1}Motivation}{5}% 
+\contentsline {section}{\numberline {1.2}Problem definition and RQ}{6}% 
+\contentsline {section}{\numberline {1.3}Approach}{6}% 
+\contentsline {section}{\numberline {1.4}outline}{6}% 
+\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{7}% 
+\contentsline {section}{\numberline {2.1}How do we learn movements}{7}% 
+\contentsline {section}{\numberline {2.2}Movement types}{7}% 
+\contentsline {section}{\numberline {2.3}How to quantify movements}{7}% 
+\contentsline {section}{\numberline {2.4}How to measure movements}{8}% 
+\contentsline {section}{\numberline {2.5}Perspectives}{10}% 
+\contentsline {chapter}{\chapternumberline {3}Scope}{11}% 
+\contentsline {section}{\numberline {3.1}Motor Learning}{11}% 
+\contentsline {section}{\numberline {3.2}Mixed Reality}{11}% 
+\contentsline {section}{\numberline {3.3}Perspective}{11}% 
+\contentsline {section}{\numberline {3.4}Misc}{11}% 
+\contentsline {chapter}{\chapternumberline {4}Related Work}{13}% 
+\contentsline {section}{\numberline {4.1}Aggregated overview about paper describing MR learning systems}{13}% 
+\contentsline {subsection}{Tasks}{13}% 
+\contentsline {subsection}{Measures}{13}% 
+\contentsline {subsection}{Method}{13}% 
+\contentsline {subsection}{Variables}{13}% 
+\contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{13}% 
+\contentsline {section}{\numberline {4.3}Conclusion (and research questions/hypothesises?)}{13}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{15}% 
+\contentsline {section}{\numberline {5.1}Preliminary Study design}{15}% 
+\contentsline {subsection}{Aim of the Study}{15}% 
+\contentsline {subsection}{process}{15}% 
+\contentsline {subsection}{Independent variables}{16}% 
+\contentsline {subsection}{measures}{16}% 
+\contentsline {section}{\numberline {5.2}Timetable}{16}% 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  23 JAN 2019 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 15:25
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -449,8 +449,9 @@ Package color Info: Driver file: pdftex.def on input line 147.
 LaTeX Warning: Unused global option(s):
     [titlepage].
 
-(seminar_thesis.aux (abstract.aux) (introduction.aux) (scope.aux)
-(related_work.aux) (study_setting.aux) (outlook.aux))
+(seminar_thesis.aux (abstract.aux) (introduction.aux)
+(theoreticalbackground.aux) (scope.aux) (related_work.aux) (study_setting.aux)
+(outlook.aux))
 \openout1 = `seminar_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -529,80 +530,119 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Stefan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Stefan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (seminar_t
+hesis.toc)
+[2]
 \openout2 = `abstract.aux'.
 
  (abstract.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) [2
+)
+[3
 
 ]
 \openout2 = `introduction.aux'.
 
- (introduction.tex
-Overfull \hbox (1.70851pt too wide) in paragraph at lines 15--16
-\OT1/cmr/m/n/12 Beschreiben wie wir generell be-we-gun-gen er-ler-nen nicht unb
-e-d-ingt mit bezug
+ (introduction.tex [4
+
+
+
+] [5]) [6]
+\openout2 = `theoreticalbackground.aux'.
+
+ (theoreticalbackground.tex
+Underfull \hbox (badness 1776) in paragraph at lines 11--11
+[][] [][]\OT1/cmr/m/n/10 Brockhaus, Rudolf La-ban. http://www.brockhaus.de/ecs/
+enzy/article/laban-
  []
 
-[3
-
-
-
-]) [4]
-\openout2 = `scope.aux'.
-
- (scope.tex) [5
+[7
 
 
 
 ]
+Overfull \hbox (20.4093pt too wide) in paragraph at lines 31--32
+[]$[]$\OT1/cmr/m/n/12 : in-con-cis-tency in move-ment er-ror: $\OML/cmm/m/it/12
+ VE \OT1/cmr/m/n/12 = []$.
+ []
+
+[8]
+Overfull \hbox (5.8135pt too wide) in paragraph at lines 34--35
+[]$[]$\OT1/cmr/m/n/12 : mea-sure of over-all ac-cu-racy in per-for-mance. $\OML
+/cmm/m/it/12 AE \OT1/cmr/m/n/12 =
+ []
+
+[9]) [10]
+\openout2 = `scope.aux'.
+
+ (scope.tex [11
+
+
+
+]) [12]
 \openout2 = `related_work.aux'.
 
- (related_work.tex [6
+ (related_work.tex) [13
 
 
 
-]) [7]
+]
 \openout2 = `study_setting.aux'.
 
  (study_setting.tex)
 \openout2 = `outlook.aux'.
 
 
-(outlook.tex [8
+(outlook.tex [14
 
 
 
 
 
-]) [9] (seminar_thesis.aux (abstract.aux) (introduction.aux)
-(scope.aux) (related_work.aux) (study_setting.aux) (outlook.aux)) ) 
+]
+Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
+ [] 
+ []
+
+[15]) [16]
+\tf@toc=\write4
+\openout4 = `seminar_thesis.toc'.
+
+ (seminar_thesis.aux (abstract.aux) (introduction.aux)
+(theoreticalbackground.aux) (scope.aux) (related_work.aux) (study_setting.aux)
+(outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5859 strings out of 492946
- 80430 string characters out of 3135524
- 177925 words of memory out of 3000000
- 9654 multiletter control sequences out of 15000+200000
- 14307 words of font info for 55 fonts, out of 3000000 for 9000
+ 5873 strings out of 492946
+ 81021 string characters out of 3135524
+ 181818 words of memory out of 3000000
+ 9657 multiletter control sequences out of 15000+200000
+ 14961 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,25p,883b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on seminar_thesis.pdf (9 pages, 99473 bytes).
+ 43i,11n,25p,906b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (16 pages, 207576 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
