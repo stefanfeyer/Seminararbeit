@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  5 FEB 2019 17:08
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -577,17 +577,25 @@ Overfull \hbox (5.8135pt too wide) in paragraph at lines 34--35
 /cmm/m/it/12 AE \OT1/cmr/m/n/12 =
  []
 
-[9]) [10]
+[9]
+<img/ego_exo_continuum_bigger.PNG, id=47, 1178.68929pt x 480.50946pt>
+File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
+<use img/ego_exo_continuum_bigger.PNG>
+Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 6
+8.
+(pdftex.def)             Requested size: 383.0pt x 156.13438pt.
+ [10]) [11 <./img/ego_exo_continuum_bigger.PNG>]
 \openout2 = `scope.aux'.
 
- (scope.tex [11
+ (scope.tex [12
 
 
 
-]) [12]
+] [13])
+[14]
 \openout2 = `related_work.aux'.
 
- (related_work.tex) [13
+ (related_work.tex) [15
 
 
 
@@ -597,8 +605,7 @@ Overfull \hbox (5.8135pt too wide) in paragraph at lines 34--35
  (study_setting.tex)
 \openout2 = `outlook.aux'.
 
-
-(outlook.tex [14
+ (outlook.tex [16
 
 
 
@@ -609,7 +616,7 @@ Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
  [] 
  []
 
-[15]) [16]
+[17]) [18]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -617,13 +624,13 @@ Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
 (theoreticalbackground.aux) (scope.aux) (related_work.aux) (study_setting.aux)
 (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5873 strings out of 492946
- 81021 string characters out of 3135524
- 181818 words of memory out of 3000000
- 9657 multiletter control sequences out of 15000+200000
+ 5885 strings out of 492946
+ 81269 string characters out of 3135524
+ 181896 words of memory out of 3000000
+ 9666 multiletter control sequences out of 15000+200000
  14961 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,25p,906b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,25p,1516b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
@@ -640,9 +647,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (16 pages, 207576 bytes).
+Output written on seminar_thesis.pdf (18 pages, 323109 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
