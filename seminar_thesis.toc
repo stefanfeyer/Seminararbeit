@@ -12,8 +12,11 @@
 \contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{7}% 
 \contentsline {subsubsection}{Open and Closed Skills}{8}% 
 \contentsline {subsection}{How to quantify movements}{8}% 
-\contentsline {section}{\numberline {2.2}How to measure movements}{10}% 
-\contentsline {section}{\numberline {2.3}Perspectives}{11}% 
+\contentsline {subsection}{How to measure movements}{10}% 
+\contentsline {subsubsection}{Measures of Error for a Single Subject}{10}% 
+\contentsline {subsubsection}{Measures of Time and Speed}{11}% 
+\contentsline {subsubsection}{Measures of Movement Magnitude}{11}% 
+\contentsline {section}{\numberline {2.2}Perspectives}{12}% 
 \contentsline {chapter}{\chapternumberline {3}Scope}{13}% 
 \contentsline {section}{\numberline {3.1}Motor Learning}{13}% 
 \contentsline {section}{\numberline {3.2}Mixed Reality}{13}% 
