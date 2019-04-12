@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  11 APR 2019 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  12 APR 2019 18:01
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -528,23 +528,133 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-! I can't write on file `seminar_thesis.pdf'.
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \endgroup \set@typeset@protect 
-l.19 	\newpage
-              
-*** (job aborted, file error in nonstop mode)
+) [1
 
- 
+{C:/Users/Stefan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (seminar_t
+hesis.toc)
+[2]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
+)
+[3
+
+]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex [4
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5])
+[6]
+\openout2 = `theoreticalbackground.aux'.
+
+ (theoreticalbackground.tex
+<img/movements_cont.jpg, id=28, 3636.58624pt x 1851.91875pt>
+File: img/movements_cont.jpg Graphic file (type jpg)
+<use img/movements_cont.jpg>
+Package pdftex.def Info: img/movements_cont.jpg  used on input line 13.
+(pdftex.def)             Requested size: 383.0pt x 195.0365pt.
+ [7
+
+
+
+]
+<img/skills_cont.jpg, id=35, 3219.02625pt x 1679.27374pt>
+File: img/skills_cont.jpg Graphic file (type jpg)
+<use img/skills_cont.jpg>
+Package pdftex.def Info: img/skills_cont.jpg  used on input line 28.
+(pdftex.def)             Requested size: 383.0pt x 199.78737pt.
+
+Underfull \hbox (badness 1776) in paragraph at lines 38--38
+[][] [][]\OT1/cmr/m/n/10 Brockhaus, Rudolf La-ban. http://www.brockhaus.de/ecs/
+enzy/article/laban-
+ []
+
+[8 <./img/movements_cont.jpg>] [9 <./img/skills_cont.jpg>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<img/ego_exo_continuum_bigger.PNG, id=49, 1178.68929pt x 480.50946pt>
+File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
+<use img/ego_exo_continuum_bigger.PNG>
+Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 1
+02.
+(pdftex.def)             Requested size: 383.0pt x 156.13438pt.
+[11]) [12 <./img/ego_exo_continuum_bigger.PNG>]
+\openout2 = `scope.aux'.
+
+ (scope.tex [13
+
+
+
+]) [14]
+\openout2 = `related_work.aux'.
+
+
+(related_work.tex [15
+
+
+
+]) [16]
+\openout2 = `study_setting.aux'.
+
+ (study_setting.tex)
+\openout2 = `outlook.aux'.
+
+ (outlook.tex
+Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
+ [] 
+ []
+
+[17
+
+
+
+
+
+]) [18]
+\tf@toc=\write4
+\openout4 = `seminar_thesis.toc'.
+
+ (seminar_thesis.aux (abstract.aux) (introduction.aux)
+(theoreticalbackground.aux) (scope.aux) (related_work.aux) (study_setting.aux)
+(outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5757 strings out of 492946
- 78230 string characters out of 3135524
- 176991 words of memory out of 3000000
- 9592 multiletter control sequences out of 15000+200000
- 7136 words of font info for 28 fonts, out of 3000000 for 9000
+ 5901 strings out of 492946
+ 81587 string characters out of 3135524
+ 182991 words of memory out of 3000000
+ 9678 multiletter control sequences out of 15000+200000
+ 15320 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,25p,267b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 43i,12n,25p,1523b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (18 pages, 4466173 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
