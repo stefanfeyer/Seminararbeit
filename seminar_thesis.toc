@@ -29,11 +29,13 @@
 \contentsline {subsection}{Tasks}{15}% 
 \contentsline {subsection}{Measures and variables}{16}% 
 \contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{16}% 
-\contentsline {section}{\numberline {4.3}Conclusion (and research questions/hypothesises?)}{16}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{17}% 
-\contentsline {section}{\numberline {5.1}Preliminary Study design}{17}% 
-\contentsline {subsection}{Aim of the Study}{17}% 
-\contentsline {subsection}{process}{17}% 
-\contentsline {subsection}{Independent variables}{18}% 
-\contentsline {subsection}{measures}{18}% 
-\contentsline {section}{\numberline {5.2}Timetable}{18}% 
+\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{16}% 
+\contentsline {section}{\numberline {4.3}Research Gap}{17}% 
+\contentsline {section}{\numberline {4.4}Conclusion (and research questions/hypothesises?)}{17}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{19}% 
+\contentsline {section}{\numberline {5.1}Preliminary Study design}{19}% 
+\contentsline {subsection}{Aim of the Study}{19}% 
+\contentsline {subsection}{process}{19}% 
+\contentsline {subsection}{Independent variables}{20}% 
+\contentsline {subsection}{measures}{20}% 
+\contentsline {section}{\numberline {5.2}Timetable}{20}% 

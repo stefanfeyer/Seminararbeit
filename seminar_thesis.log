@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  12 APR 2019 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.23)  30 APR 2019 18:56
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -582,7 +582,7 @@ enzy/article/laban-
  []
 
 [8 <./img/movements_cont.jpg>] [9 <./img/skills_cont.jpg>] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
@@ -590,7 +590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
 <use img/ego_exo_continuum_bigger.PNG>
 Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 1
-02.
+03.
 (pdftex.def)             Requested size: 383.0pt x 156.13438pt.
 [11]) [12 <./img/ego_exo_continuum_bigger.PNG>]
 \openout2 = `scope.aux'.
@@ -607,24 +607,40 @@ Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 1
 
 
 
-]) [16]
+]
+<img/onebody1.png, id=68, 215.08928pt x 215.08928pt>
+File: img/onebody1.png Graphic file (type png)
+<use img/onebody1.png>
+Package pdftex.def Info: img/onebody1.png  used on input line 37.
+(pdftex.def)             Requested size: 86.17734pt x 86.17531pt.
+<img/onebody2.png, id=69, 151.85304pt x 179.81464pt>
+File: img/onebody2.png Graphic file (type png)
+<use img/onebody2.png>
+Package pdftex.def Info: img/onebody2.png  used on input line 38.
+(pdftex.def)             Requested size: 86.17734pt x 102.04543pt.
+<img/onebody3.png, id=70, 285.20839pt x 166.04893pt>
+File: img/onebody3.png Graphic file (type png)
+<use img/onebody3.png>
+Package pdftex.def Info: img/onebody3.png  used on input line 39.
+(pdftex.def)             Requested size: 172.34883pt x 100.34209pt.
+ [16]) [17 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png>]
 \openout2 = `study_setting.aux'.
 
  (study_setting.tex)
 \openout2 = `outlook.aux'.
 
- (outlook.tex
+ (outlook.tex [18
+
+
+
+
+
+]
 Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
  [] 
  []
 
-[17
-
-
-
-
-
-]) [18]
+[19]) [20]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -632,13 +648,13 @@ Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
 (theoreticalbackground.aux) (scope.aux) (related_work.aux) (study_setting.aux)
 (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 5901 strings out of 492946
- 81587 string characters out of 3135524
- 182991 words of memory out of 3000000
- 9678 multiletter control sequences out of 15000+200000
+ 5919 strings out of 492946
+ 81903 string characters out of 3135524
+ 183197 words of memory out of 3000000
+ 9692 multiletter control sequences out of 15000+200000
  15320 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,25p,1523b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,12n,25p,1523b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Pr
@@ -652,9 +668,9 @@ m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (18 pages, 4466173 bytes).
+Output written on seminar_thesis.pdf (20 pages, 4802801 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

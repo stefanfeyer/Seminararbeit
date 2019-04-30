@@ -5,20 +5,45 @@
 nur gedankenstütze: "In order to create a study design to evaluate the perspective and learning we here take a look on how other researchers conducted their studies"
 
 \subsection{Method}
-Jacky Chan et al. \todo created a VR dance training system using an optical motion capturing system to compare the movements performed by the student with movements from the avatar. The student can choose between A-go-go or Hip-Hop moves. These movements are presented to the student as a 3D rendering on large screen. The movements of the students are visualised on the same screen as a coloured stick figure. The student mimics these movements and gets instant feedback as well as a feedback as a summary.
+Jacky Chan et al. \todo created a VR dance training system using an optical motion capturing system to compare the movements performed by the student with movements from the avatar. These movements are presented to the student as a 3D rendering on large screen. The movements of the students are visualised on the same screen as a coloured stick figure. The student mimics these movements and gets instant feedback as well as a feedback as a summary.
+
 In contrast, Onebody by Hoang et al. \todo use a VR headset for a first person remote posture guidance system. 
 
 \subsection{Tasks}
 In Chan et al. \todo the dance student is presented a virtual avatar performing dance moves of A-go-go or Hip-Hop style. The avatars movement is based on the motion capturing data of a professional dancer. Onebody \todo is not only restricted to dance moves but also include other posture based sports or physical activities like Yoga or Mixed Martial Arts.
 
+Onebody \todo uses a number of martial arts postures or stances.
+
 \subsection{Measures and variables}
 Jacky Chan et al. \todo defined 19 body parts that are considered in the measure of the performance of the dancing student. They name three features to compare the difference between two motions common: joint position, joint velocity and joint angle. Chan investigated which of these features suits most to judge the two dancing motions. The outcome of this investigation names the joint position to have the highest discriminative power. Hence, the joint position suits them best for their evaluation, Chan et al. calculate a score of the position error for each of the defined body parts, as well as an overall score. 
 
 Onebody \todo uses skeletal of the instructor and the student
+"Posture accuracy is determined by the extend to which the student can replicate the final posture as instructed and demonstrated as by the instructor." Independent variable: mothods for posture training. dependent variables: performance factors of posture accuracy, completion time, subjective instructor rating, users preference.
 
 
 \section{Detailed description of 6-10 papers incl. Table}
-hier werden die paper detailiert vorgestellt von denen ich dann meine tasks, measures, methode und variablen ableite. am ende zusammenfassung in einer tabelle
+%hier werden die paper detailiert vorgestellt von denen ich dann meine tasks, measures, methode und variablen ableite. am ende zusammenfassung in einer tabelle
+\subsection{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}
+\begin{itemize}
+	\item[Hardware:] Kinect, Oculus Rift
+	\item[Task:] sports, dance, martial arts, yoga
+	\item[Perspectives:] First Person of the teacher
+	\item[Measures:] Position - skeletal matching with 5cm threshold
+	\item[investigation:] comparing different remote guidance systems: onebody, pre recorded video, video conference, VR third person
+\end{itemize}
+Onebody by Hoang et al. \todo is a VR system for remote posture guidance. Onebody is designed for sports or physical activity training like yoga, dance or martial arts. The student and the teacher are both tracked by skeletal tracking. The visualisation of this tracking are shown via a VR headset, allowing the student to follow the instruction of the teacher in first person view of the teacher - which means the student "stands inside the body of the teacher". Both, the student and the teacher are visualised by stick figures. The teachers avatar is red, the students blue and matching joints are green like shown in figure \ref{fig:ob1} left. Figure \ref{fig:ob1} right shows the scene from the first person perspective.
+\begin{figure}
+	\centering
+	\includegraphics[width=0.225\textwidth]{img/onebody1.png}
+	\includegraphics[width=0.225\textwidth]{img/onebody2.png}
+	\includegraphics[width=0.45\textwidth]{img/onebody3.png}
+	\caption{Left: student avatar (blue) and teacher avatar (red). Green limbs are matching limbs. Right: students view on the scene.\todo}
+	\label{fig:ob1}
+\end{figure}
+When the teacher moves his limbs, the student can see the movement emerging from himself. Now the student can move his own limbs to mimic the movement till the teachers posture is matched. The teacher sees the students limbs likewise allowing him to give instant feedback to the student. Thus, "Onebody provides a medium to deliver body movement instructions for non-collocated instructor and learner." \todo. The visualisations are attached to the hip but keeps the mapping between the user and corresponding avatar. To overcome different body sizes, the avatars are normalised and scaled to the size of the person seeing the avatars.\\
+For transfering data, both the teacher and the student are clients in a server-client system. The clients are sending the their tracking data to the server which is broadcasting it to the clients. The comparison of the limbs for colour coding is performed on the client side. The matching of the limbs is calculated by the position of the single limbs (see equation \eqref{eq:constanterror}) with a threshold of 5cm to reduce jitter and tracking errors. The feedback with colour codes is provided in realtime.
+
+\section{Research Gap}
 
 \section{Conclusion (and research questions/hypothesises?)}
 hier wird zusammengefasst was ich abgeleitet habe und direkt in das studien design einfließt. danach folgen die genauen RQ und hypothesen.
