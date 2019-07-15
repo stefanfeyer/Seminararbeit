@@ -1,41 +1,43 @@
-\contentsline {chapter}{Contents}{2}% 
-\contentsline {section}{\numberline {0.1}Abstract}{3}% 
-\contentsline {chapter}{\chapternumberline {1}Introduction}{5}% 
-\contentsline {section}{\numberline {1.1}Motivation}{5}% 
-\contentsline {section}{\numberline {1.2}Problem definition and RQ}{6}% 
-\contentsline {section}{\numberline {1.3}Approach}{6}% 
-\contentsline {section}{\numberline {1.4}outline}{6}% 
-\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{7}% 
-\contentsline {section}{\numberline {2.1}Movements}{7}% 
-\contentsline {subsection}{How do we learn movements}{7}% 
-\contentsline {subsection}{Movement classification}{7}% 
-\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{7}% 
-\contentsline {subsubsection}{Open and Closed Skills}{8}% 
-\contentsline {subsection}{How to quantify movements}{8}% 
-\contentsline {subsection}{How to measure movements}{10}% 
-\contentsline {subsubsection}{Measures of Error for a Single Subject}{10}% 
-\contentsline {subsubsection}{Measures of Time and Speed}{11}% 
-\contentsline {subsubsection}{Measures of Movement Magnitude}{11}% 
-\contentsline {subsection}{Movement Classification}{11}% 
-\contentsline {section}{\numberline {2.2}Perspectives}{12}% 
-\contentsline {chapter}{\chapternumberline {3}Scope}{13}% 
-\contentsline {section}{\numberline {3.1}Motor Learning}{13}% 
-\contentsline {section}{\numberline {3.2}Mixed Reality}{13}% 
-\contentsline {section}{\numberline {3.3}Perspective}{13}% 
-\contentsline {section}{\numberline {3.4}Misc}{13}% 
-\contentsline {chapter}{\chapternumberline {4}Related Work}{15}% 
-\contentsline {section}{\numberline {4.1}Aggregated overview about paper describing MR learning systems}{15}% 
-\contentsline {subsection}{Method}{15}% 
-\contentsline {subsection}{Tasks}{15}% 
-\contentsline {subsection}{Measures and variables}{16}% 
-\contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{16}% 
-\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{16}% 
-\contentsline {section}{\numberline {4.3}Research Gap}{17}% 
-\contentsline {section}{\numberline {4.4}Conclusion (and research questions/hypothesises?)}{17}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{19}% 
-\contentsline {section}{\numberline {5.1}Preliminary Study design}{19}% 
-\contentsline {subsection}{Aim of the Study}{19}% 
-\contentsline {subsection}{process}{19}% 
-\contentsline {subsection}{Independent variables}{20}% 
-\contentsline {subsection}{measures}{20}% 
-\contentsline {section}{\numberline {5.2}Timetable}{20}% 
+\contentsline {chapter}{Contents}{ii}% 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}% 
+\contentsline {section}{\numberline {1.1}Motivation}{1}% 
+\contentsline {section}{\numberline {1.2}Problem definition and RQ}{1}% 
+\contentsline {section}{\numberline {1.3}Approach}{2}% 
+\contentsline {section}{\numberline {1.4}outline}{2}% 
+\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{3}% 
+\contentsline {section}{\numberline {2.1}Movements}{3}% 
+\contentsline {subsection}{How do we learn movements}{3}% 
+\contentsline {subsection}{Movement classification}{3}% 
+\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{3}% 
+\contentsline {subsubsection}{Open and Closed Skills}{4}% 
+\contentsline {subsection}{How to quantify movements}{4}% 
+\contentsline {subsection}{How to measure movements}{6}% 
+\contentsline {subsubsection}{Measures of Error for a Single Subject}{6}% 
+\contentsline {subsubsection}{Measures of Time and Speed}{7}% 
+\contentsline {subsubsection}{Measures of Movement Magnitude}{7}% 
+\contentsline {subsection}{Movement Classification}{7}% 
+\contentsline {section}{\numberline {2.2}Perspectives}{8}% 
+\contentsline {chapter}{\chapternumberline {3}Scope}{9}% 
+\contentsline {section}{\numberline {3.1}Motor Learning}{9}% 
+\contentsline {section}{\numberline {3.2}Mixed Reality}{9}% 
+\contentsline {section}{\numberline {3.3}Perspective}{9}% 
+\contentsline {section}{\numberline {3.4}Misc}{9}% 
+\contentsline {chapter}{\chapternumberline {4}Related Work}{11}% 
+\contentsline {section}{\numberline {4.1}Aggregated overview about paper describing MR learning systems}{11}% 
+\contentsline {subsection}{Method}{11}% 
+\contentsline {subsection}{Tasks}{11}% 
+\contentsline {subsection}{Measures and variables}{12}% 
+\contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{12}% 
+\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{12}% 
+\contentsline {section}{\numberline {4.3}Research Gap}{13}% 
+\contentsline {section}{\numberline {4.4}Conclusion (and research questions/hypothesises?)}{13}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{15}% 
+\contentsline {section}{\numberline {5.1}Preliminary Study design}{15}% 
+\contentsline {subsection}{Aim of the Study}{15}% 
+\contentsline {subsection}{process}{15}% 
+\contentsline {subsection}{Independent variables}{16}% 
+\contentsline {subsection}{measures}{16}% 
+\contentsline {section}{\numberline {5.2}Timetable}{16}% 
+\contentsline {chapter}{Bibliography}{17}% 
+\contentsline {chapter}{List of Figures}{18}% 
+\contentsline {chapter}{List of Tables}{18}% 

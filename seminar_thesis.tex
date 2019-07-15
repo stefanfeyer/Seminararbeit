@@ -6,6 +6,10 @@
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage{tabularx}
+\usepackage{cite}
+\chapterstyle{section}
+%\setcounter{chapter}{+1}
+%\counterwithout{section}{chapter}
 \newcommand{\todo}{\textcolor{red}{\textbf{TODO}}}
 \newcommand{\UB}{\textit{upper body}}
 \newcommand{\LB}{\textit{lower body}}
@@ -16,9 +20,10 @@
 \author{Stefan Paul Feyer\\ HCI Group, University of Konstanz}
 \begin{document}
 	\maketitle
-	\newpage
-	\tableofcontents
+	\frontmatter
 	\include{abstract}
+	\tableofcontents
+	\mainmatter
 	\include{introduction}
 	\include{theoreticalbackground}
 	\include{scope}
@@ -31,4 +36,8 @@
 	%\include{conclusion}
 	%\include{motorlearning}
 	%\include{paperiread}
+	\bibliography{bib/lit}
+	\bibliographystyle{plain}
+	\listoffigures
+	\listoftables
 \end{document}
