@@ -1,12 +1,17 @@
 \chapter{Related Work}
 %----------------------------------------------------
+Researchers utilised the theory of the last chapter to design MR Motor Learning systems in various ways. They differ in the technology, tasks, perspectives measures etc. In this chapter we analyse these systems to extract valuable insights to design a MR Motor learning System. First we analyse the aspects of MRML systems. After that we take a close look on some systems how they conducted their investigation and their outcome.
 
-\section{Aggregated overview about paper describing MR learning systems}
-nur gedankenstütze: "In order to create a study design to evaluate the perspective and learning we here take a look on how other researchers conducted their studies"
+\section{Aspects of MR Motor Learning systems}
+paper to come:
 \begin{itemize}
-	\item Cyclone uppercut
-	\item 
+	\item Cruz: Cyclone uppercut
+	\item Davcev: AR Environment for Dance Learning
+	\item Chan: Immersive Performance training Tools Using Motion Capture Technology
+	\item Han: AR-Arm: Augmented Visualization for Guiding Arm Movment in the First-Person Perspective
+	\item han: My Tai-Chi Coaches: An Augmented-Learning Tool for Practicing Tai-Chi Chuan
 \end{itemize}
+
 \subsection{Method}
 Jacky Chan et al. \todo created a VR dance training system using an optical motion capturing system to compare the movements performed by the student with movements from the avatar. These movements are presented to the student as a 3D rendering on large screen. The movements of the students are visualised on the same screen as a coloured stick figure. The student mimics these movements and gets instant feedback as well as a feedback as a summary.
 
@@ -16,6 +21,12 @@ In contrast, Onebody by Hoang et al. \todo use a VR headset for a first person r
 In Chan et al. \todo the dance student is presented a virtual avatar performing dance moves of A-go-go or Hip-Hop style. The avatars movement is based on the motion capturing data of a professional dancer. Onebody \todo is not only restricted to dance moves but also include other posture based sports or physical activities like Yoga or Mixed Martial Arts.
 
 Onebody \todo uses a number of martial arts postures or stances.
+\begin{itemize}
+	\item Onebody: 16 artificial postures not from but like: tai chi, matial arts
+	\item VR Dance Trainer: dance movements, 15 min for each move
+	\item you move: various movements to perform. using a whip, baseball, boxing, ballet, dance moves
+	\item training archived physical skills IVE: physical skills in sport activities, especially baseball pitching
+\end{itemize}
 
 \subsection{Measures and variables}
 Jacky Chan et al. \todo defined 19 body parts that are considered in the measure of the performance of the dancing student. They name three features to compare the difference between two motions common: joint position, joint velocity and joint angle. Chan investigated which of these features suits most to judge the two dancing motions. The outcome of this investigation names the joint position to have the highest discriminative power. Hence, the joint position suits them best for their evaluation, Chan et al. calculate a score of the position error for each of the defined body parts, as well as an overall score. 
@@ -23,6 +34,17 @@ Jacky Chan et al. \todo defined 19 body parts that are considered in the measure
 Onebody \todo uses skeletal of the instructor and the student
 "Posture accuracy is determined by the extend to which the student can replicate the final posture as instructed and demonstrated as by the instructor." Independent variable: mothods for posture training. dependent variables: performance factors of posture accuracy, completion time, subjective instructor rating, users preference.
 
+\begin{itemize}
+	\item scientific work, how to measure movements: hachimura et al, yoshimura et al, qian et al, kwon et al, all use joint angles,  (mentioned in: vr dance trainer)
+	\item onebody: skeletal tracking, how much percent do the postures match? 3d positions of limbs measured: wrist, elbow, shoulder, hip knee ankle. so angle between bones is the main measure for accuracy. additionally a subjective instructor score was recorded. And, completion time, topped by 2 min.
+	\item VR Dance trainer: there are 3 common features for measuring hte difference between movements: joint position, velocity, angle. they tested which feature descibes movements best: joint position. base line vs post training movements are compared.
+	\item you move: in each keyframe, score based on the joint with the maximum error, measured in euclidean distance. but only "important joints" are measured. timing errors: 0.5s error on each side of the frame for matching posture. is timing important, the window is reduced to 0.25s. max eucl. distance is linear mapped to a score. 0 error is 10 (max), 10cm is 7.5 what is the score to pass. if precision is important, 10cm needed for pass.
+\end{itemize}
+
+\subsection{Considered Body Parts}
+scientific work, how to measure movements: hachimura et al, yoshimura et al, qian et al, kwon et al, all use joint angles
+
+error prevention \todo
 
 \section{Detailed description of 6-10 papers incl. Table}
 %hier werden die paper detailiert vorgestellt von denen ich dann meine tasks, measures, methode und variablen ableite. am ende zusammenfassung in einer tabelle
@@ -58,11 +80,22 @@ To test the hypothesis, Onebody was compared with three other remote posture tra
 The study was a 4x4 within subject. Each participant stated with a training session in which the not collocated instructor teach a posture physically and verbally. Verbal feedback was given the training repeated until the student was confident. After that the final posture was recorded. A set of four of postures with every system were performed with different complexities.\\
 The results show a significant difference in accuracy. Onebody performed significantly better in over video conference, 3rd person VR and pre recorded video. Furthermore, the completion time was significantly higher with Onebody as in the other three systems. The subjective score of the instructor showed no significant differences. A post questionnaire indicated that Onebody is harder to understand and use than the other systems, but at the same time it also indicated that Onebody was perceived to be more exact. Participants rated video conference as their most preferred system over Onebody and 3rd person VR.
 
+\subsection{Training for Physical Tasks in Virtual Environments: Tai Chi}
+\begin{itemize}
+	\item[Hardware:] HMD, Optical motion tracking
+	\item[Task:] Tai Chi
+	\item[Perspectives:] Ego-centric, exo-centric, combined
+	\item[Measures:] position
+	\item[investigation:] different perspectives on virtual avatar(s)
+	\item[variables:] independent: perspectives, dependent: precision
+	\item[Outcome:] None representation proved to be significantly better than traditional virtual Tai Chi teacher 
+\end{itemize}
+
 \subsection{A VR Dance Training System Using Motion Capture Technology}
 \begin{itemize}
 	\item[Hardware:] Optical Motion tracking, 3D screen
 	\item[Task:] Dance moves
-	\item[Perspectives:] exo centric
+	\item[Perspectives:] exo-centric
 	\item[Measures:] position
 	\item[investigation:] Comparing video based learning with VR learning with feedback
 	\item[variables:] independent: training method, dependent: precision
@@ -80,12 +113,33 @@ The results show a significant difference in accuracy. Onebody performed signifi
 	\item[Outcome:] learning and short-term retention better than traditional video representation
 \end{itemize}
 
-\section{Research Gap}
+\subsection{Generic Heading, input? \todo}
+\begin{itemize}
+	\item[Hardware:] 
+	\item[Task:] 
+	\item[Perspectives:] 
+	\item[Measures:] 
+	\item[investigation:] 
+	\item[variables:] 
+	\item[Outcome:] 
+\end{itemize}
 
-\section{Conclusion (and research questions/hypothesises?)}
-hier wird zusammengefasst was ich abgeleitet habe und direkt in das studien design einfließt. danach folgen die genauen RQ und hypothesen.
+\subsection{Generic Heading, any ideas? \todo}
+\begin{itemize}
+	\item[Hardware:] 
+	\item[Task:] 
+	\item[Perspectives:] 
+	\item[Measures:] 
+	\item[investigation:] 
+	\item[variables:] 
+	\item[Outcome:] 
+\end{itemize}
+
+\section{Research Gap}
+lücken in der aktuellen forschung die sich lohnen zu untersuchen. \todo
 
 \subsection{Conclusion of VR motor learning systems}
+to conclude we have a look a Table \ref{table:ConclusionVRSystems}
 \begin{table}[]
 	\begin{tabular}{|l|l|l|l|l|l|}
 		\hline
@@ -97,102 +151,10 @@ hier wird zusammengefasst was ich abgeleitet habe und direkt in das studien desi
 		&  &  &  &  &  \\ \hline
 		&  &  &  &  &  \\ \hline
 	\end{tabular}
+	\caption{Summary of proposed MR learning systems}
+	\label{table:ConclusionVRSystems}
 \end{table}
 
-\begin{comment}
-\begin{itemize}
-	\item task is xyz because of abc
-	\item measures are xyz because of abc
-	\item variables are...
-\end{itemize}
 
-
-\section{MR learning systems}
-\begin{itemize}
-	\item one body:
-	\item vr dance trainer:
-	\item you move:
-	\item training archived physical skills:
-	\item
-	\item teaching traditional dance using e-learning tools, bakogianni
-\end{itemize}
-
-%----------------------------------------------------
-\section{Ego/exo perspective work - if exists}
-\begin{itemize}
-	\item training archived physical skill: seamless change from first to third person
-\end{itemize}
-%----------------------------------------------------
-\section{variables}
-\begin{itemize}
-	\item independent/dependent variables
-	\item measures
-	\item task: reuse or adapt existing task
-\end{itemize}
-%----------------------------------------------------
-\subsection{Task}
-\begin{itemize}
-	\item Onebody: 16 artificial postures not from but like: tai chi, matial arts
-	\item VR Dance Trainer: dance movements, 15 min for each move
-	\item you move: various movements to perform. using a whip, baseball, boxing, ballet, dance moves
-	\item training archived physical skills IVE: physical skills in sport activities, especially baseball pitching
-\end{itemize}
-%----------------------------------------------------
-\subsection{Measures}
-\begin{itemize}
-	\item scientific work, how to measure movements: hachimura et al, yoshimura et al, qian et al, kwon et al, all use joint angles,  (mentioned in: vr dance trainer)
-	\item onebody: skeletal tracking, how much percent do the postures match? 3d positions of limbs measured: wrist, elbow, shoulder, hip knee ankle. so angle between bones is the main measure for accuracy. additionally a subjective instructor score was recorded. And, completion time, topped by 2 min.
-	\item VR Dance trainer: there are 3 common features for measuring hte difference between movements: joint position, velocity, angle. they tested which feature descibes movements best: joint position. base line vs post training movements are compared.
-	\item you move: in each keyframe, score based on the joint with the maximum error, measured in euclidean distance. but only "important joints" are measured. timing errors: 0.5s error on each side of the frame for matching posture. is timing important, the window is reduced to 0.25s. max eucl. distance is linear mapped to a score. 0 error is 10 (max), 10cm is 7.5 what is the score to pass. if precision is important, 10cm needed for pass.
-\end{itemize}
-%----------------------------------------------------
-\section{Body parts included}
-\begin{itemize}
-	\item onebody
-	\item vr dance trainer
-	\item you move: full body
-	\item training archived physical skill: full body
-\end{itemize}
-%----------------------------------------------------
-\subsection{training method}
-\begin{itemize}
-	\item one body:
-	\item vr dance trainer:
-	\item you move: 
-	\item training archived physical skill: key frame method
-\end{itemize}
-%----------------------------------------------------
-\subsection{tracking technology}
-\begin{itemize}
-	\item 
-	\item 
-	\item 
-	\item training archived physical skills: kinect
-\end{itemize}
-%----------------------------------------------------
-\subsection{display technology}
-\begin{itemize}
-	\item
-	\item 
-	\item 
-	\item training archived physical skills: low res HMD (oculus rift dk1/dk2)
-\end{itemize}
-%----------------------------------------------------
-\subsection{Independent and Dependent Variables}
-\subsubsection{Dependent Variables}
-\begin{itemize}
-	\item VR
-	\item bilateral movements
-	\item Movement types: synchronous  / asynchronous 
-\end{itemize}
-\subsubsection{Independent Variables}
-\begin{itemize}
-	\item Body parts: upper body (UB), lower body (LB), full body (FB)
-	\item Perspective: Ego, Exo, Ego/Exo combined
-	\item Movement types: synchronous  / asynchronous 
-\end{itemize}
-%----------------------------------------------------
-
-
-
-\end{comment}
+Research questions?\\
+Hypothesis?\\

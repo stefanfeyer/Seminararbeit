@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  18 JUL 2019 00:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  21 JUL 2019 22:25
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -462,18 +462,18 @@ LaTeX Warning: Label `fig:ego-exo-cont' multiply defined.
 ) (scope.aux) (related_work.aux) (study_setting.aux) (outlook.aux))
 \openout1 = `seminar_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -527,12 +527,12 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -544,20 +544,20 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `abstract.aux'.
 
  (abstract.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 ) [1
 
 
 ]
-(seminar_thesis.toc [2
+(seminar_thesis.toc) [2
 
-]) [3] [4
+] [3] [4
 
 ]
 \openout2 = `introduction.aux'.
@@ -570,15 +570,15 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 (theoreticalbackground.tex
-Overfull \hbox (1.85017pt too wide) in paragraph at lines 5--7
-\OT1/cmr/m/n/12 We MR by mim-ick-ing oth-ers, fol-low tex-tual de-scrip-tions, 
-videos etc. []\OT1/cmr/bx/n/12 TODO[] 
+Overfull \hbox (7.89584pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/12 We learn by mim-ick-ing oth-ers, fol-low tex-tual de-scrip-tion
+s, videos etc. []\OT1/cmr/bx/n/12 TODO[] 
  []
 
 <img/movements_cont.jpg, id=36, 3636.58624pt x 1851.91875pt>
 File: img/movements_cont.jpg Graphic file (type jpg)
 <use img/movements_cont.jpg>
-Package pdftex.def Info: img/movements_cont.jpg  used on input line 14.
+Package pdftex.def Info: img/movements_cont.jpg  used on input line 16.
 (pdftex.def)             Requested size: 383.0pt x 195.0365pt.
 [3
 
@@ -588,108 +588,115 @@ Package pdftex.def Info: img/movements_cont.jpg  used on input line 14.
 <img/skills_cont.jpg, id=42, 3219.02625pt x 1679.27374pt>
 File: img/skills_cont.jpg Graphic file (type jpg)
 <use img/skills_cont.jpg>
-Package pdftex.def Info: img/skills_cont.jpg  used on input line 29.
+Package pdftex.def Info: img/skills_cont.jpg  used on input line 31.
 (pdftex.def)             Requested size: 383.0pt x 199.78737pt.
-
-Underfull \hbox (badness 1776) in paragraph at lines 39--39
+ [4 <./img/movements_cont.jpg>]
+Underfull \hbox (badness 1776) in paragraph at lines 41--41
 [][] [][]\OT1/cmr/m/n/10 Brockhaus, Rudolf La-ban. http://www.brockhaus.de/ecs/
 enzy/article/laban-
  []
 
-[4 <./img/movements_cont.jpg>] [5 <./img/skills_cont.jpg>] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[5 <./img/skills_cont.jpg>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-<img/milgram_continuum.png, id=55, 340.27126pt x 81.30376pt>
+[7]
+<img/milgram_continuum.png, id=59, 340.27126pt x 81.30376pt>
 File: img/milgram_continuum.png Graphic file (type png)
 <use img/milgram_continuum.png>
-Package pdftex.def Info: img/milgram_continuum.png  used on input line 104.
+Package pdftex.def Info: img/milgram_continuum.png  used on input line 106.
 (pdftex.def)             Requested size: 383.0pt x 91.51859pt.
-[7]
 <img/ego_exo_continuum_bigger.PNG, id=60, 1178.68929pt x 480.50946pt>
 File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
 <use img/ego_exo_continuum_bigger.PNG>
 Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 1
-13.
+15.
 (pdftex.def)             Requested size: 383.0pt x 156.13438pt.
-) [8 <./img/milgram_continuum.png>] [9 <./img/ego_exo_continuum_bigger.PNG>]
+ [8 <./img/milgram_continuum.png>] [9 <./img/ego_exo_continuum_bigger.PNG>]) [1
+0]
 \openout2 = `scope.aux'.
 
-(scope.tex [10
+ (scope.tex [11
 
 
 
-]) [11] [12]
+]) [12]
 \openout2 = `related_work.aux'.
 
- (related_work.tex
-Underfull \vbox (badness 3118) has occurred while \output is active []
-
- [13
+ (related_work.tex [13
 
 
 
 ]
-<img/onebody1.png, id=82, 215.08928pt x 215.08928pt>
+Overfull \hbox (5.85568pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/12 scientific work, how to mea-sure move-ments: hachimura et al,
+ yoshimura
+ []
+
+[14] [15]
+<img/onebody1.png, id=88, 215.08928pt x 215.08928pt>
 File: img/onebody1.png Graphic file (type png)
 <use img/onebody1.png>
-Package pdftex.def Info: img/onebody1.png  used on input line 38.
+Package pdftex.def Info: img/onebody1.png  used on input line 64.
 (pdftex.def)             Requested size: 86.17734pt x 86.17531pt.
-<img/onebody2.png, id=83, 151.85304pt x 179.81464pt>
+<img/onebody2.png, id=89, 151.85304pt x 179.81464pt>
 File: img/onebody2.png Graphic file (type png)
 <use img/onebody2.png>
-Package pdftex.def Info: img/onebody2.png  used on input line 39.
+Package pdftex.def Info: img/onebody2.png  used on input line 65.
 (pdftex.def)             Requested size: 86.17734pt x 102.04543pt.
-<img/onebody3.png, id=84, 285.20839pt x 166.04893pt>
+<img/onebody3.png, id=90, 285.20839pt x 166.04893pt>
 File: img/onebody3.png Graphic file (type png)
 <use img/onebody3.png>
-Package pdftex.def Info: img/onebody3.png  used on input line 40.
+Package pdftex.def Info: img/onebody3.png  used on input line 66.
 (pdftex.def)             Requested size: 172.34883pt x 100.34209pt.
-<img/onebody_training_methods.PNG, id=85, 557.08125pt x 231.11343pt>
+<img/onebody_training_methods.PNG, id=91, 557.08125pt x 231.11343pt>
 File: img/onebody_training_methods.PNG Graphic file (type png)
 <use img/onebody_training_methods.PNG>
-Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 5
-0.
+Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 7
+6.
 (pdftex.def)             Requested size: 191.5pt x 79.44504pt.
+ [16 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[14]
-Underfull \vbox (badness 2027) has occurred while \output is active []
-
- [15 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png>] [16 <./img
-/onebody_training_methods.PNG>]
+ [17 <./img/onebody_training_methods.PNG>] [18]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 75.
+               Default added (so using `tbp') on input line 143.
 
 
-Overfull \hbox (12.35507pt too wide) in paragraph at lines 76--86
+Overfull \hbox (12.35507pt too wide) in paragraph at lines 144--154
 [][] 
  []
 
-) [17]
+)
+Underfull \hbox (badness 10000) in paragraph at lines 159--32
+
+ []
+
+[19] [20]
 \openout2 = `study_setting.aux'.
 
  (study_setting.tex)
 \openout2 = `outlook.aux'.
 
- (outlook.tex [18
-
-
-
-
-
-]
-Overfull \hbox (54.12291pt too wide) in paragraph at lines 24--32
+ (outlook.tex
+Overfull \hbox (54.12291pt too wide) in paragraph at lines 26--35
  [] 
  []
 
-[19]) [20] (seminar_thesis.bbl
+[21
+
+
+
+
+
+]) [22] (seminar_thesis.bbl
 bibitemlist
-) (seminar_thesis.lof [21
+) (seminar_thesis.lof [23
 
 
-]) (seminar_thesis.lot) [22]
+]) (seminar_thesis.lot) [24]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -707,13 +714,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6040 strings out of 492895
- 83857 string characters out of 3133480
- 187653 words of memory out of 3000000
- 9818 multiletter control sequences out of 15000+200000
+ 6043 strings out of 492895
+ 83911 string characters out of 3133480
+ 184647 words of memory out of 3000000
+ 9821 multiletter control sequences out of 15000+200000
  15320 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,27p,1533b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,12n,27p,1533b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
@@ -727,9 +734,9 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (28 pages, 4853853 bytes).
+Output written on seminar_thesis.pdf (30 pages, 4856495 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
+ 165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
