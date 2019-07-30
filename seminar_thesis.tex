@@ -14,12 +14,25 @@
 \newcommand{\UB}{\textit{upper body}}
 \newcommand{\LB}{\textit{lower body}}
 \newcommand{\FB}{\textit{full body}}
+
+\newcommand{\markIt}{\strut\vadjust{\domark}}
+\newcommand{\domark}{%
+	\vbox to 1pt{
+		\kern-\dp\strutbox
+		\smash{\llap{***\kern1em}}
+		\vss
+	}
+}
+
+\newcommand{\markme}{\marginpar[*]{}}
+\usepackage[marginparsep=-1.8cm]{geometry}
 %alt: Investigating the influence of perspectives on a virtual avatar for motor learning
 %\title{Investigating the influence of avatar positioning on motor learning in MR}
 \title{Motor learning in Mixed Reality}
 \date{\today}
 \author{Stefan Paul Feyer\\ HCI Group, University of Konstanz}
 \begin{document}
+	\reversemarginpar%maring left
 	\maketitle
 	\frontmatter
 	\include{abstract}
@@ -27,7 +40,7 @@
 	\mainmatter
 	\include{introduction}
 	\include{theoreticalbackground}
-	\include{scope}
+	%\include{scope}
 	%\include{theory}
 	\include{related_work}
 	\include{study_setting}
