@@ -1,52 +1,52 @@
 \contentsline {chapter}{Contents}{ii}% 
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}% 
 \contentsline {section}{\numberline {1.1}Motivation}{1}% 
-\contentsline {section}{\numberline {1.2}Outline}{1}% 
-\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{3}% 
-\contentsline {section}{\numberline {2.1}Movements}{3}% 
-\contentsline {subsection}{How do we learn movements}{3}% 
-\contentsline {subsection}{Movement classification}{3}% 
-\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{3}% 
-\contentsline {subsubsection}{Open and Closed Skills}{4}% 
-\contentsline {subsection}{How to quantify movements}{5}% 
-\contentsline {subsection}{How to measure movements}{6}% 
-\contentsline {subsubsection}{Measures of Error for a Single Subject}{6}% 
-\contentsline {subsubsection}{Measures of Time and Speed}{7}% 
-\contentsline {subsubsection}{Measures of Movement Magnitude}{8}% 
-\contentsline {subsection}{Movement Classification}{8}% 
-\contentsline {section}{\numberline {2.2}Mixed Reality}{8}% 
-\contentsline {section}{\numberline {2.3}Perspectives}{8}% 
-\contentsline {section}{\numberline {2.4}VR Technologies}{9}% 
-\contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{9}% 
-\contentsline {section}{\numberline {2.6}asynchron vs synchron}{9}% 
-\contentsline {section}{\numberline {2.7}Application}{9}% 
-\contentsline {chapter}{\chapternumberline {3}Scope}{11}% 
-\contentsline {section}{\numberline {3.1}Motor Learning}{11}% 
-\contentsline {section}{\numberline {3.2}Mixed Reality}{11}% 
-\contentsline {section}{\numberline {3.3}Perspective}{11}% 
-\contentsline {section}{\numberline {3.4}Misc}{11}% 
-\contentsline {chapter}{\chapternumberline {4}Related Work}{13}% 
-\contentsline {section}{\numberline {4.1}Aspects of MR Motor Learning systems}{13}% 
-\contentsline {subsection}{Method}{13}% 
-\contentsline {subsection}{Tasks}{14}% 
-\contentsline {subsection}{Measures and variables}{14}% 
-\contentsline {subsection}{Considered Body Parts}{15}% 
-\contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{15}% 
-\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{15}% 
-\contentsline {subsection}{Training for Physical Tasks in Virtual Environments: Tai Chi}{18}% 
-\contentsline {subsection}{A VR Dance Training System Using Motion Capture Technology}{18}% 
-\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{18}% 
-\contentsline {subsection}{Generic Heading, input? \leavevmode {\color {red}\textbf {TODO}}}{19}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{19}% 
-\contentsline {section}{\numberline {4.3}Research Gap}{19}% 
-\contentsline {subsection}{Conclusion of VR motor learning systems}{20}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{21}% 
-\contentsline {section}{\numberline {5.1}Preliminary Study design}{21}% 
-\contentsline {subsection}{Aim of the Study}{21}% 
-\contentsline {subsection}{process}{21}% 
-\contentsline {subsection}{Independent variables}{22}% 
-\contentsline {subsection}{measures}{22}% 
-\contentsline {section}{\numberline {5.2}Timetable}{22}% 
-\contentsline {chapter}{Bibliography}{23}% 
-\contentsline {chapter}{List of Figures}{24}% 
-\contentsline {chapter}{List of Tables}{24}% 
+\contentsline {section}{\numberline {1.2}Outline}{2}% 
+\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{5}% 
+\contentsline {section}{\numberline {2.1}Movements}{5}% 
+\contentsline {subsection}{How do we learn movements}{5}% 
+\contentsline {subsection}{Movement classification}{5}% 
+\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{5}% 
+\contentsline {subsubsection}{Open and Closed Skills}{6}% 
+\contentsline {subsection}{How to quantify movements}{7}% 
+\contentsline {subsection}{How to measure movements}{8}% 
+\contentsline {subsubsection}{Measures of Error for a Single Subject}{8}% 
+\contentsline {subsubsection}{Measures of Time and Speed}{9}% 
+\contentsline {subsubsection}{Measures of Movement Magnitude}{10}% 
+\contentsline {subsection}{Movement Classification}{10}% 
+\contentsline {section}{\numberline {2.2}Mixed Reality}{10}% 
+\contentsline {section}{\numberline {2.3}Perspectives}{10}% 
+\contentsline {section}{\numberline {2.4}VR Technologies}{11}% 
+\contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{11}% 
+\contentsline {section}{\numberline {2.6}asynchron vs synchron}{11}% 
+\contentsline {section}{\numberline {2.7}Application}{11}% 
+\contentsline {chapter}{\chapternumberline {3}Scope}{13}% 
+\contentsline {section}{\numberline {3.1}Motor Learning}{13}% 
+\contentsline {section}{\numberline {3.2}Mixed Reality}{13}% 
+\contentsline {section}{\numberline {3.3}Perspective}{13}% 
+\contentsline {section}{\numberline {3.4}Misc}{13}% 
+\contentsline {chapter}{\chapternumberline {4}Related Work}{15}% 
+\contentsline {section}{\numberline {4.1}Aspects of MR Motor Learning systems}{15}% 
+\contentsline {subsection}{Method}{15}% 
+\contentsline {subsection}{Tasks}{16}% 
+\contentsline {subsection}{Measures and variables}{16}% 
+\contentsline {subsection}{Considered Body Parts}{17}% 
+\contentsline {section}{\numberline {4.2}Detailed description of 6-10 papers incl. Table}{17}% 
+\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{17}% 
+\contentsline {subsection}{Training for Physical Tasks in Virtual Environments: Tai Chi}{20}% 
+\contentsline {subsection}{A VR Dance Training System Using Motion Capture Technology}{20}% 
+\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{20}% 
+\contentsline {subsection}{Generic Heading, input? \leavevmode {\color {red}\textbf {TODO}}}{21}% 
+\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{21}% 
+\contentsline {section}{\numberline {4.3}Research Gap}{21}% 
+\contentsline {subsection}{Conclusion of VR motor learning systems}{22}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{23}% 
+\contentsline {section}{\numberline {5.1}Preliminary Study design}{23}% 
+\contentsline {subsection}{Aim of the Study}{23}% 
+\contentsline {subsection}{process}{23}% 
+\contentsline {subsection}{Independent variables}{24}% 
+\contentsline {subsection}{measures}{24}% 
+\contentsline {section}{\numberline {5.2}Timetable}{24}% 
+\contentsline {chapter}{Bibliography}{25}% 
+\contentsline {chapter}{List of Figures}{26}% 
+\contentsline {chapter}{List of Tables}{26}% 
