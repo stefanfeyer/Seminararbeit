@@ -5,45 +5,61 @@
 \contentsline {chapter}{\chapternumberline {2}Theoretical Background}{5}% 
 \contentsline {section}{\numberline {2.1}Movements}{5}% 
 \contentsline {subsection}{How do we learn movements}{5}% 
+\contentsline {subsubsection}{In the real world}{5}% 
+\contentsline {subsubsection}{In the digital world}{5}% 
 \contentsline {subsection}{Movement classification}{5}% 
 \contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{5}% 
 \contentsline {subsubsection}{Open and Closed Skills}{6}% 
 \contentsline {subsection}{How to quantify movements \leavevmode {\color {red}\textbf {TODO}}or out}{7}% 
 \contentsline {subsection}{How to measure movements}{8}% 
-\contentsline {subsubsection}{Measures of Error for a Single Subject}{8}% 
-\contentsline {subsubsection}{Measures of Time and Speed}{9}% 
+\contentsline {subsubsection}{Measures of Error for a Single Subject}{9}% 
+\contentsline {subsubsection}{Measures of Time and Speed}{10}% 
 \contentsline {subsubsection}{Measures of Movement Magnitude}{10}% 
 \contentsline {subsection}{Movement Classification}{10}% 
 \contentsline {section}{\numberline {2.2}Mixed Reality}{10}% 
 \contentsline {section}{\numberline {2.3}Perspectives}{10}% 
 \contentsline {section}{\numberline {2.4}VR Technologies}{11}% 
 \contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{11}% 
-\contentsline {section}{\numberline {2.6}asynchron vs synchron}{11}% 
-\contentsline {section}{\numberline {2.7}Verhalten der instruktion}{11}% 
-\contentsline {section}{\numberline {2.8}realismusgrad}{11}% 
-\contentsline {section}{\numberline {2.9}Conclusion}{11}% 
+\contentsline {section}{\numberline {2.6}asynchron vs synchron}{12}% 
+\contentsline {section}{\numberline {2.7}realismusgrad}{12}% 
+\contentsline {section}{\numberline {2.8}Conclusion}{12}% 
 \contentsline {chapter}{\chapternumberline {3}Related Work}{13}% 
-\contentsline {section}{\numberline {3.1}Aspects of MR Motor Learning systems}{13}% 
-\contentsline {subsection}{Method}{13}% 
-\contentsline {subsection}{Tasks}{14}% 
-\contentsline {subsection}{Measures and variables}{14}% 
-\contentsline {subsection}{Considered Body Parts}{15}% 
-\contentsline {section}{\numberline {3.2}Detailed description of 6-10 papers incl. Table}{15}% 
-\contentsline {subsection}{Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{15}% 
-\contentsline {subsection}{Training for Physical Tasks in Virtual Environments: Tai Chi}{17}% 
-\contentsline {subsection}{A VR Dance Training System Using Motion Capture Technology}{18}% 
-\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{18}% 
-\contentsline {subsection}{Generic Heading, input? \leavevmode {\color {red}\textbf {TODO}}}{19}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{19}% 
-\contentsline {section}{\numberline {3.3}Research Gap}{19}% 
-\contentsline {subsection}{Conclusion of VR motor learning systems}{19}% 
-\contentsline {chapter}{\chapternumberline {4}Outlook}{21}% 
-\contentsline {section}{\numberline {4.1}Preliminary Study design}{21}% 
-\contentsline {subsection}{Aim of the Study}{21}% 
-\contentsline {subsection}{process}{21}% 
-\contentsline {subsection}{Independent variables}{22}% 
-\contentsline {subsection}{measures}{22}% 
-\contentsline {section}{\numberline {4.2}Timetable}{22}% 
-\contentsline {chapter}{Bibliography}{23}% 
-\contentsline {chapter}{List of Figures}{24}% 
-\contentsline {chapter}{List of Tables}{24}% 
+\contentsline {section}{\numberline {3.1}Exo-Centric}{13}% 
+\contentsline {subsection}{Task}{13}% 
+\contentsline {subsection}{MR tech}{13}% 
+\contentsline {subsection}{tracking tech}{13}% 
+\contentsline {subsection}{behaviour of instruction}{13}% 
+\contentsline {subsection}{measures (for dependent vars)}{13}% 
+\contentsline {subsection}{considered body parts}{13}% 
+\contentsline {subsection}{one paper in detail}{14}% 
+\contentsline {subsection}{conclusion}{14}% 
+\contentsline {section}{\numberline {3.2}Ego-Centric}{14}% 
+\contentsline {subsection}{Task}{14}% 
+\contentsline {subsection}{MR tech}{14}% 
+\contentsline {subsection}{tracking tech}{14}% 
+\contentsline {subsection}{behaviour of instruction}{14}% 
+\contentsline {subsection}{measures (for dependent vars)}{14}% 
+\contentsline {subsection}{considered body parts}{14}% 
+\contentsline {subsection}{one paper in detail}{15}% 
+\contentsline {subsection}{conclusion}{15}% 
+\contentsline {section}{\numberline {3.3}Ego-Exo Combined}{15}% 
+\contentsline {subsection}{Task}{15}% 
+\contentsline {subsection}{MR tech}{15}% 
+\contentsline {subsection}{tracking tech}{15}% 
+\contentsline {subsection}{behaviour of instruction}{15}% 
+\contentsline {subsection}{measures (for dependent vars)}{15}% 
+\contentsline {subsection}{considered body parts}{15}% 
+\contentsline {subsection}{one paper in detail}{16}% 
+\contentsline {subsection}{conclusion}{16}% 
+\contentsline {section}{\numberline {3.4}Conclusion}{16}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{17}% 
+\contentsline {section}{\numberline {4.1}Preliminary Study design}{17}% 
+\contentsline {subsection}{Aim of the Study}{17}% 
+\contentsline {subsection}{process}{17}% 
+\contentsline {subsection}{Independent variables}{18}% 
+\contentsline {subsection}{measures}{18}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{19}% 
+\contentsline {section}{\numberline {5.1}Timetable}{19}% 
+\contentsline {chapter}{Bibliography}{21}% 
+\contentsline {chapter}{List of Figures}{22}% 
+\contentsline {chapter}{List of Tables}{22}% 

@@ -5,6 +5,9 @@ Motor learning in MR builds on many aspects, eg. suitable technology for MR repr
 \section{Movements}
 If not other indicated, adopted from the book Motor Learning and Skills\cite{Schmidt2011}.
 \subsection{How do we learn movements}
+\subsubsection{In the real world}
+\subsubsection{In the digital world}
+\markAonefiveFeedback
 We learn by mimicking others, follow textual descriptions, videos etc. \todo 
 %Beschreiben wie wir generell bewegungen erlernen nicht unbedingt mit bezug auf lernen in MR
 
@@ -21,11 +24,11 @@ For a simplified discussion a classification of movements is provided in the fol
 \textit{\textbf{Discrete movements}} are located on the one end of the continuum. These are movements with a recognisable beginning and end. The end of a discrete movement is defined by the task itself and can be very rapid like blinking or longer like making the signing. Examples are kicking a ball, shifting gears in a car or striking a match\\
 \textit{\textbf{Continuous movements}} are located on the other end of the continuum. These movements don't have a recognisable start and end, with behaviour continuing till the movement arbitrarily stopped. Continuous tasks tend to be longer than discrete tasks. Examples are swimming, running or steering a car.\\
 \textit{\textbf{Serial movements}} are located in the middle part of the continuum. Following the nature of a continuum these movements are neither discrete nor continuous. They can consist of smaller movements tied together. Furthermore, discrete movements can be rather long but are not stopped arbitrarily. Serial tasks can be seen as many discrete tasks strung together and the order (and sometimes timing) is important. Examples are starting a car or preparing and lighting a wood fireplace.\\
-The nature of \textit{Continuous movements} having no recognizable beginning and end makes it hard to describe a distinctive task for a study design while \tektit{discrete movements} are to short for a proper task, \textit{serial movements} are choose for the study task\markme.
+The nature of \textit{Continuous movements} having no recognizable beginning and end makes it hard to describe a distinctive task for a study design while \textit{discrete movements} are to short for a proper task, \textit{serial movements} are choose for the study task \markAthreeMovClass.
 
 \subsubsection{Open and Closed Skills}
 \textit{\textbf{Open skills:}} The environment is constantly, unpredictably changing, so the performer cannot plan his activity effectively in advance. Own movements depend on the environment. For example, if a ice hockey player shoots a shot in ice hockey, his own movement is dependent on the movement of the keeper. Another example is  driving on a free way. The driver needs to adjust his own driving dependent on the behaviour of the other cars. Success in open skills is largely determined by the extend to which a individual can adapt the planned motor behaviour to the changing environment.\\
-\textit{\textbf{Closed skills:}} The environment is predictable, mainly because it is stable. This means that the performer can plan his activity in advance. Examples are bowling, archery or singing. To evaluate only the motor learning and not environmental influences the study is conducted in a controlled environment in a laboratory. Thus only \textit{closed skills} are taken into consideration\markme.
+\textit{\textbf{Closed skills:}} The environment is predictable, mainly because it is stable. This means that the performer can plan his activity in advance. Examples are bowling, archery or singing. To evaluate only the motor learning and not environmental influences the study is conducted in a controlled environment in a laboratory. Thus only \textit{closed skills} are taken into consideration \markAfourSkills.
 
 \begin{figure}
 	\centering
@@ -45,10 +48,11 @@ The nature of \textit{Continuous movements} having no recognizable beginning and
 	\caption{Laban notation. Generated through automatic movement interpretation by Choensawat \cite{Choensawat2015}}
 	\label{fig:movements_cont}
 \end{figure}
-Judging motions and matching them to a given motion is not a trivial task. One approach follows Rudolph von Laban - a professional dancer. Von Laban developed a broadly used dance notation. His work lead to the \textit{Laban Movement Analysis} with which human movements could be quantized.\footnote{Brockhaus, Rudolf Laban. http://www.brockhaus.de/ecs/enzy/article/laban-rudolf (accessed 2018-10-25)} There are four main components to systematically describe movements in the \textit{Laban Movement Analysis}: body, effort, shape and space. Each component can describe movements independently or combined. Hachimura et al. \cite{Hachimura2005} used the methodology  of \textit{Laban Movement Analysis} and adopted it to for digital movements.\\
+Judging motions and matching them to a given motion is not a trivial task. Since eg. dancing is a pure physical task, movements must be recognised, digitalised and judged. One approach is to use a analog descriptions for dancing and translate them in the digital world. Choensawat \cite{Choensawat2015} began with Rudolph von Laban - a professional dancer. Von Laban developed a broadly used dance notation. His work lead to the \textit{Laban Movement Analysis} with which human movements could be quantized.\footnote{Brockhaus, Rudolf Laban. http://www.brockhaus.de/ecs/enzy/article/laban-rudolf (accessed 2018-10-25)} There are four main components to systematically describe movements in the \textit{Laban Movement Analysis}: body, effort, shape and space. Each component can describe movements independently or combined. Hachimura et al. \cite{Hachimura2005} used the methodology  of \textit{Laban Movement Analysis} and adopted it to for digital movements.\\
 Yoshimura et al. \cite{Yoshimura2005} followed a similar approach from another dance movement description theory called \textit{furi}. \textit{Furi} is also described by four so called \textit{indices}: \textit{kamae}, \textit{jyu-shin}, \textit{koshi}, \textit{uchiwa}. Yoshimura at all could map these indices to concrete markers on the body of a performer.
 %They showed that there was a significant difference between movements by an expert and a beginner.
-Qian et al. \cite{GangQian2005} developed a gesture recognition system for performing arts. To match the motions ten body parts were defined: head, torso, upper arms, forearms, upper legs and lower legs. For each body part the Mahalanobis distance is calculated to an ideal point. The Mahalonobis distance describes the distance between point \textit{p} and distribution \textit{D}. 
+Qian et al. \cite{GangQian2005} developed a gesture recognition system for performing arts. To match the motions ten body parts were defined: head, torso, upper arms, forearms, upper legs and lower legs. For each body part the Mahalanobis distance is calculated to an ideal point. The Mahalonobis distance describes the distance between point \textit{p} and distribution \textit{D}.\\
+So the takeaway message is, there is a need to digitalise movement and then apply suitable algorithms to judge these movements. The algorithms will be discussed in the Masters project.
 
 \begin{comment}
 Kwon et al. \cite{Kwon2005} \todo 
@@ -111,7 +115,7 @@ eg. Postural, Transport, Manipulation. p4 in motor learning, principles and prac
 \todo after analysis
 
 \section{Mixed Reality}
-Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is better. \todo
+Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is better. \todo \markAsevenMR
 
 \begin{figure}
 	\centering
@@ -121,6 +125,7 @@ Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is 
 \end{figure}
 
 \section{Perspectives}
+\markAoneIndependent
 Wang and Milgram \cite{Wang2001} describe the perspectives on the centricity continuum see figure \ref{fig:ego-exo-cont}. On the most left hand side of the continuum the egocentric perspective is located. Egocentric means that the anchor of the viewport camera is located inside the object to control - for simplicity, this object in question is referred as avatar. On the left hand side the exocentric perspective is located. This viewport camera is a fixed camera in the scene not to be controllable. The exocentric perspective gives the user the possibility to examine the scene from a bird's-eye view. The movement or angle of the avatar has no influence on the cameras position or angle. So the main difference is the so called tether distance and the degree of freedom of the camera. Milgarm and Wang investigated on tethered cameras and define it as the distance between the avatar and the camera which is following the avatar. This describes the middle part of the continuum. Zero-distance camera describes the egocentric perspective. The longer the tether distance the more the perspective is located on the right of the scale to the exocentric perspective. They also distinguish between dynamic and rigid tethering relation ships. A dynamic tethered camera is controlled by the user in all six dofs (\todo) while a rigid stands like a pole and can only be controlled in 3 dofs. Rigid tethered cameras are common in modern 3rd person computer games.
 \begin{figure}
 	\centering
@@ -128,7 +133,7 @@ Wang and Milgram \cite{Wang2001} describe the perspectives on the centricity con
 	\caption{Centricity continuum by Wang and Milgram 2001 \cite{Wang2001}}
 	\label{fig:ego-exo-cont}
 \end{figure}
-
+\markAsixPerspective
 \section{VR Technologies}
 HMD,3D screens, tablets
 
@@ -136,6 +141,7 @@ HMD,3D screens, tablets
 External vs. internal tracking. Drift problem, accuracy
 
 \section{asynchron vs synchron}
-\section{Verhalten der instruktion}
+decide \markAtenSync
 \section{realismusgrad}
+decide \markAonefourRealism
 \section{Conclusion}
