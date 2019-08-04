@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  31 JUL 2019 18:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  4 AUG 2019 21:06
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -715,42 +715,68 @@ Underfull \vbox (badness 1019) has occurred while \output is active []
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 20.
+               Default added (so using `tbp') on input line 29.
 
 [14]
+<img/onebody1.png, id=90, 215.08928pt x 215.08928pt>
+File: img/onebody1.png Graphic file (type png)
+<use img/onebody1.png>
+Package pdftex.def Info: img/onebody1.png  used on input line 67.
+(pdftex.def)             Requested size: 94.10962pt x 94.10788pt.
+<img/onebody2.png, id=91, 151.85304pt x 179.81464pt>
+File: img/onebody2.png Graphic file (type png)
+<use img/onebody2.png>
+Package pdftex.def Info: img/onebody2.png  used on input line 68.
+(pdftex.def)             Requested size: 94.10962pt x 111.43727pt.
+<img/onebody3.png, id=92, 285.20839pt x 166.04893pt>
+File: img/onebody3.png Graphic file (type png)
+<use img/onebody3.png>
+Package pdftex.def Info: img/onebody3.png  used on input line 69.
+(pdftex.def)             Requested size: 188.21288pt x 109.57742pt.
+<img/onebody_training_methods.PNG, id=93, 557.08125pt x 231.11343pt>
+File: img/onebody_training_methods.PNG Graphic file (type png)
+<use img/onebody_training_methods.PNG>
+Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 7
+9.
+(pdftex.def)             Requested size: 209.12683pt x 86.759pt.
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 45.
+               Default added (so using `tbp') on input line 87.
 
-[15]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 71.
-
+[17 <./img/onebody_training_methods.PNG>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 88.
+               Default added (so using `tbp') on input line 123.
 
-) [16]
+[18]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 141.
+
+) [19]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex
+ (study_setting.tex [20
+
+
+
+]
 Overfull \hbox (18.86923pt too wide) in paragraph at lines 23--32
  [] 
  []
 
-[17
-
-
-
-]) [18]
+[21]) [22]
 \openout2 = `outlook.aux'.
 
- (outlook.tex) [19
+ (outlook.tex) [23
 
 
 
-] (seminar_thesis.bbl [20
+] (seminar_thesis.bbl [24
 
 
 ]
@@ -764,13 +790,13 @@ s://www.eonreality.com/use-
 
 Underfull \vbox (badness 2495) has occurred while \output is active []
 
- [21]
+ [25]
 Overfull \hbox (141.55447pt too wide) in paragraph at lines 3--3
  \OT1/cmr/m/n/12 green hints to re-solve a mis-wiring, taken from https://www.y
 outube.com/watch?v=1QFMPo5k6p0, 
  []
 
-) (seminar_thesis.lot) [22]
+) (seminar_thesis.lot) [26]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -788,10 +814,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6526 strings out of 492895
- 90767 string characters out of 3133480
- 198410 words of memory out of 3000000
- 10303 multiletter control sequences out of 15000+200000
+ 6548 strings out of 492895
+ 91245 string characters out of 3133480
+ 201668 words of memory out of 3000000
+ 10321 multiletter control sequences out of 15000+200000
  15320 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,27p,1533b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -808,9 +834,9 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (28 pages, 7248018 bytes).
+Output written on seminar_thesis.pdf (32 pages, 7622828 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -28,38 +28,38 @@
 \contentsline {subsection}{Task}{13}% 
 \contentsline {subsection}{MR tech}{13}% 
 \contentsline {subsection}{tracking tech}{13}% 
-\contentsline {subsection}{behaviour of instruction}{13}% 
-\contentsline {subsection}{measures (for dependent vars)}{13}% 
-\contentsline {subsection}{considered body parts}{13}% 
-\contentsline {subsection}{one paper in detail}{14}% 
-\contentsline {subsection}{conclusion}{14}% 
-\contentsline {section}{\numberline {3.2}Ego-Centric}{14}% 
-\contentsline {subsection}{Task}{14}% 
-\contentsline {subsection}{MR tech}{14}% 
-\contentsline {subsection}{tracking tech}{14}% 
 \contentsline {subsection}{behaviour of instruction}{14}% 
 \contentsline {subsection}{measures (for dependent vars)}{14}% 
 \contentsline {subsection}{considered body parts}{14}% 
-\contentsline {subsection}{one paper in detail}{15}% 
-\contentsline {subsection}{conclusion}{15}% 
-\contentsline {section}{\numberline {3.3}Ego-Exo Combined}{15}% 
+\contentsline {subsection}{In detail - A VR Dance Training System Using Motion Capture Technology}{14}% 
+\contentsline {subsection}{conclusion}{14}% 
+\contentsline {section}{\numberline {3.2}Ego-Centric}{14}% 
 \contentsline {subsection}{Task}{15}% 
 \contentsline {subsection}{MR tech}{15}% 
 \contentsline {subsection}{tracking tech}{15}% 
 \contentsline {subsection}{behaviour of instruction}{15}% 
 \contentsline {subsection}{measures (for dependent vars)}{15}% 
 \contentsline {subsection}{considered body parts}{15}% 
-\contentsline {subsection}{one paper in detail}{16}% 
-\contentsline {subsection}{conclusion}{16}% 
-\contentsline {section}{\numberline {3.4}Conclusion}{16}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{17}% 
-\contentsline {section}{\numberline {4.1}Preliminary Study design}{17}% 
-\contentsline {subsection}{Aim of the Study}{17}% 
-\contentsline {subsection}{process}{17}% 
-\contentsline {subsection}{Independent variables}{18}% 
-\contentsline {subsection}{measures}{18}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{19}% 
-\contentsline {section}{\numberline {5.1}Timetable}{19}% 
-\contentsline {chapter}{Bibliography}{21}% 
-\contentsline {chapter}{List of Figures}{22}% 
-\contentsline {chapter}{List of Tables}{22}% 
+\contentsline {subsection}{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{15}% 
+\contentsline {subsection}{conclusion}{17}% 
+\contentsline {section}{\numberline {3.3}Ego-Exo Combined}{17}% 
+\contentsline {subsection}{Task}{18}% 
+\contentsline {subsection}{MR tech}{18}% 
+\contentsline {subsection}{tracking tech}{18}% 
+\contentsline {subsection}{behaviour of instruction}{18}% 
+\contentsline {subsection}{measures (for dependent vars)}{18}% 
+\contentsline {subsection}{considered body parts}{18}% 
+\contentsline {subsection}{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}{18}% 
+\contentsline {subsection}{conclusion}{19}% 
+\contentsline {section}{\numberline {3.4}Conclusion}{19}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{21}% 
+\contentsline {section}{\numberline {4.1}Preliminary Study design}{21}% 
+\contentsline {subsection}{Aim of the Study}{21}% 
+\contentsline {subsection}{process}{21}% 
+\contentsline {subsection}{Independent variables}{22}% 
+\contentsline {subsection}{measures}{22}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{23}% 
+\contentsline {section}{\numberline {5.1}Timetable}{23}% 
+\contentsline {chapter}{Bibliography}{25}% 
+\contentsline {chapter}{List of Figures}{26}% 
+\contentsline {chapter}{List of Tables}{26}% 
