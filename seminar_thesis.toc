@@ -2,7 +2,7 @@
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}% 
 \contentsline {section}{\numberline {1.1}Motivation}{1}% 
 \contentsline {section}{\numberline {1.2}Outline}{3}% 
-\contentsline {chapter}{\chapternumberline {2}Theoretical Background}{5}% 
+\contentsline {chapter}{\chapternumberline {2}Theory and Scope}{5}% 
 \contentsline {section}{\numberline {2.1}Movements}{5}% 
 \contentsline {subsection}{Learning movements}{5}% 
 \contentsline {subsection}{Movement classification}{6}% 
@@ -12,51 +12,51 @@
 \contentsline {subsection}{How to measure movements}{9}% 
 \contentsline {subsubsection}{Measures of Error for a Single Subject}{9}% 
 \contentsline {subsubsection}{Measures of Time and Speed}{10}% 
-\contentsline {subsubsection}{Measures of Movement Magnitude}{10}% 
+\contentsline {subsubsection}{Measures of Movement Magnitude}{11}% 
 \contentsline {section}{\numberline {2.2}Mixed Reality}{11}% 
 \contentsline {section}{\numberline {2.3}Perspectives}{11}% 
-\contentsline {section}{\numberline {2.4}VR Technologies}{11}% 
+\contentsline {section}{\numberline {2.4}VR Technologies}{12}% 
 \contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{12}% 
-\contentsline {section}{\numberline {2.6}asynchron vs synchron}{12}% 
-\contentsline {section}{\numberline {2.7}realismusgrad}{12}% 
-\contentsline {section}{\numberline {2.8}Conclusion}{12}% 
-\contentsline {chapter}{\chapternumberline {3}Related Work}{13}% 
-\contentsline {section}{\numberline {3.1}Exo-Centric}{13}% 
-\contentsline {subsection}{Task}{13}% 
-\contentsline {subsection}{MR tech}{13}% 
-\contentsline {subsection}{tracking tech}{13}% 
-\contentsline {subsection}{behaviour of instruction}{14}% 
-\contentsline {subsection}{measures (for dependent vars)}{14}% 
-\contentsline {subsection}{considered body parts}{14}% 
-\contentsline {subsection}{In detail - A VR Dance Training System Using Motion Capture Technology}{14}% 
-\contentsline {subsection}{conclusion}{14}% 
-\contentsline {section}{\numberline {3.2}Ego-Centric}{14}% 
+\contentsline {section}{\numberline {2.6}Degree of realism of teacher avatar}{12}% 
+\contentsline {section}{\numberline {2.7}Feedback and instruction behaviour}{12}% 
+\contentsline {section}{\numberline {2.8}Conclusion}{13}% 
+\contentsline {chapter}{\chapternumberline {3}Related Work}{15}% 
+\contentsline {section}{\numberline {3.1}Exo-Centric}{15}% 
 \contentsline {subsection}{Task}{15}% 
 \contentsline {subsection}{MR tech}{15}% 
 \contentsline {subsection}{tracking tech}{15}% 
-\contentsline {subsection}{behaviour of instruction}{15}% 
-\contentsline {subsection}{measures (for dependent vars)}{15}% 
-\contentsline {subsection}{considered body parts}{15}% 
-\contentsline {subsection}{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{15}% 
-\contentsline {subsection}{conclusion}{17}% 
-\contentsline {section}{\numberline {3.3}Ego-Exo Combined}{17}% 
-\contentsline {subsection}{Task}{18}% 
-\contentsline {subsection}{MR tech}{18}% 
-\contentsline {subsection}{tracking tech}{18}% 
-\contentsline {subsection}{behaviour of instruction}{18}% 
-\contentsline {subsection}{measures (for dependent vars)}{18}% 
-\contentsline {subsection}{considered body parts}{18}% 
-\contentsline {subsection}{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}{18}% 
+\contentsline {subsection}{behaviour of instruction}{16}% 
+\contentsline {subsection}{measures (for dependent vars)}{16}% 
+\contentsline {subsection}{considered body parts}{16}% 
+\contentsline {subsection}{In detail - A VR Dance Training System Using Motion Capture Technology}{16}% 
+\contentsline {subsection}{conclusion}{16}% 
+\contentsline {section}{\numberline {3.2}Ego-Centric}{16}% 
+\contentsline {subsection}{Task}{17}% 
+\contentsline {subsection}{MR tech}{17}% 
+\contentsline {subsection}{tracking tech}{17}% 
+\contentsline {subsection}{behaviour of instruction}{17}% 
+\contentsline {subsection}{measures (for dependent vars)}{17}% 
+\contentsline {subsection}{considered body parts}{17}% 
+\contentsline {subsection}{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{17}% 
 \contentsline {subsection}{conclusion}{19}% 
-\contentsline {section}{\numberline {3.4}Conclusion}{19}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{21}% 
-\contentsline {section}{\numberline {4.1}Preliminary Study design}{21}% 
-\contentsline {subsection}{Aim of the Study}{21}% 
-\contentsline {subsection}{process}{21}% 
-\contentsline {subsection}{Independent variables}{22}% 
-\contentsline {subsection}{measures}{22}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{23}% 
-\contentsline {section}{\numberline {5.1}Timetable}{23}% 
-\contentsline {chapter}{Bibliography}{25}% 
-\contentsline {chapter}{List of Figures}{26}% 
-\contentsline {chapter}{List of Tables}{26}% 
+\contentsline {section}{\numberline {3.3}Ego-Exo Combined}{19}% 
+\contentsline {subsection}{Task}{20}% 
+\contentsline {subsection}{MR tech}{20}% 
+\contentsline {subsection}{tracking tech}{20}% 
+\contentsline {subsection}{behaviour of instruction}{20}% 
+\contentsline {subsection}{measures (for dependent vars)}{20}% 
+\contentsline {subsection}{considered body parts}{20}% 
+\contentsline {subsection}{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}{20}% 
+\contentsline {subsection}{conclusion}{21}% 
+\contentsline {section}{\numberline {3.4}Conclusion}{21}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{23}% 
+\contentsline {section}{\numberline {4.1}Preliminary Study design}{23}% 
+\contentsline {subsection}{Aim of the Study}{23}% 
+\contentsline {subsection}{process}{23}% 
+\contentsline {subsection}{Independent variables}{24}% 
+\contentsline {subsection}{measures}{24}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{25}% 
+\contentsline {section}{\numberline {5.1}Timetable}{25}% 
+\contentsline {chapter}{Bibliography}{27}% 
+\contentsline {chapter}{List of Figures}{27}% 
+\contentsline {chapter}{List of Tables}{28}% 
