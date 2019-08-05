@@ -4,22 +4,19 @@
 \contentsline {section}{\numberline {1.2}Outline}{3}% 
 \contentsline {chapter}{\chapternumberline {2}Theoretical Background}{5}% 
 \contentsline {section}{\numberline {2.1}Movements}{5}% 
-\contentsline {subsection}{How do we learn movements}{5}% 
-\contentsline {subsubsection}{In the real world}{5}% 
-\contentsline {subsubsection}{In the digital world}{5}% 
-\contentsline {subsection}{Movement classification}{5}% 
-\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{5}% 
-\contentsline {subsubsection}{Open and Closed Skills}{6}% 
-\contentsline {subsection}{How to quantify movements \leavevmode {\color {red}\textbf {TODO}}or out}{7}% 
-\contentsline {subsection}{How to measure movements}{8}% 
+\contentsline {subsection}{Learning movements}{5}% 
+\contentsline {subsection}{Movement classification}{6}% 
+\contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{6}% 
+\contentsline {subsubsection}{Open and Closed Skills}{7}% 
+\contentsline {subsection}{Quantify movements \leavevmode {\color {red}\textbf {TODO}}or out}{7}% 
+\contentsline {subsection}{How to measure movements}{9}% 
 \contentsline {subsubsection}{Measures of Error for a Single Subject}{9}% 
 \contentsline {subsubsection}{Measures of Time and Speed}{10}% 
 \contentsline {subsubsection}{Measures of Movement Magnitude}{10}% 
-\contentsline {subsection}{Movement Classification}{10}% 
-\contentsline {section}{\numberline {2.2}Mixed Reality}{10}% 
-\contentsline {section}{\numberline {2.3}Perspectives}{10}% 
+\contentsline {section}{\numberline {2.2}Mixed Reality}{11}% 
+\contentsline {section}{\numberline {2.3}Perspectives}{11}% 
 \contentsline {section}{\numberline {2.4}VR Technologies}{11}% 
-\contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{11}% 
+\contentsline {section}{\numberline {2.5}Motion Tracking Technologies}{12}% 
 \contentsline {section}{\numberline {2.6}asynchron vs synchron}{12}% 
 \contentsline {section}{\numberline {2.7}realismusgrad}{12}% 
 \contentsline {section}{\numberline {2.8}Conclusion}{12}% 
