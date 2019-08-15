@@ -1,9 +1,26 @@
 \chapter{Theory and Scope}
 
-Motor learning in MR builds on many aspects, eg. suitable technology for MR representations and what perspectives to use. Furthermore, human motor learning must be suitably transfered in the digital world. And eventually, we need to match movements and measure the error correctly to derive adequate from the performance of a learner. In this chapter we take a look into these topics. 
+Motor learning in MR builds on many aspects, eg. suitable technology for MR representations and what perspectives to use. Furthermore, human motor learning must be suitably transfered in the digital world. And eventually, we need to match movements and measure the error correctly to derive adequate from the performance of a learner. In this chapter we take a look into these topics. If not other indicated, adopted from the book Motor Learning and Skills\cite{Schmidt2011}.
 
-\section{Movements}
-If not other indicated, adopted from the book Motor Learning and Skills\cite{Schmidt2011}.
+\section{Visual Perspectives}
+\markAoneIndependent
+Wang and Milgram \cite{Wang2001} describe the perspectives on the centricity continuum see figure \ref{fig:ego-exo-cont}. On the most left hand side of the continuum the egocentric perspective is located. Egocentric means that the anchor of the viewport camera is located inside the object to control - for simplicity, this object in question is referred as avatar. On the left hand side the exocentric perspective is located. This viewport camera is a fixed camera in the scene not to be controllable. The exocentric perspective gives the user the possibility to examine the scene from a bird's-eye view. The movement or angle of the avatar has no influence on the cameras position or angle. So the main difference is the so called tether distance and the degree of freedom of the camera. Milgarm and Wang investigated on tethered cameras and define it as the distance between the avatar and the camera which is following the avatar. This describes the middle part of the continuum. Zero-distance camera describes the egocentric perspective. The longer the tether distance the more the perspective is located on the right of the scale to the exocentric perspective. They also distinguish between dynamic and rigid tethering relation ships. A dynamic tethered camera is controlled by the user in all six dofs (\todo) while a rigid stands like a pole and can only be controlled in 3 dofs. Rigid tethered cameras are common in modern 3rd person computer games.
+\begin{figure}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/ego_exo_continuum_bigger.PNG}
+	\caption{Centricity continuum by Wang and Milgram 2001 \cite{Wang2001}}
+	\label{fig:ego-exo-cont}
+\end{figure}
+\markAsixPerspective
+
+\subsection{Degree of realism of teacher avatar}
+first some paper collection about how the virtual avatar looked like, and then decide for what rebeccas work proposes. its a lot about related work, so maybe this should go in the next chapter. what would be more work. \markAonefourRealism
+
+\subsection{Feedback and instruction behaviour}
+feedback \todo can be given verbally, in MR visually ... example 1,2 and 3, but in the end: we do not want to evaluate feedback so there will be none in the study \markAonefiveFeedback. In addition, for high validity instructions must be the same, so a pre recorded instructions necessary \markAelevenBehav partly answered, but lets look in next chapter about continuity in instruction.
+
+\section{Motor Learning}
+
 \subsection{Learning movements}
 \textbf{In the real world} Motor learning takes place by instruction, trying, imitation or a combination of two or all three. A learner can observe another person and imitate the movement, try to accomplish a task by themself or can follow instructions. Instructions can be written, visual or verbal. Written instructions are not bound to words solely, eg. Rudolf van Laban developed a dace notation system, compare section "quantify movements" \ref{quantifymovements} and figure \ref{fig:laban}. Visual or verbal instruction include a trainer, teaching the student movements. In this case verbal and physical feedback also plays a role in the learning process. The process of motor learning is divided in three parts. Once a student starts learning using what ever technique, it starts in the \textit{cognitive} state. In this stage the students tries to figure out what is to be done to achieve the task. For this high cognitive activity is required, strategies are evaluated. The performance gains dramatically and is larger than in any other stage, but also inconsistent. The use of instructions and other training techniques are most effective. The next stage is the \textit{fixation}. It begins when the student had determined the most effective way of doing the task. Performance increases more gradually but becomes more consistent. In the last \textit{autonomous} stage, the performer gains proficiency and other tasks are less likely to interfere. Since the use of training techniques and the high performance gain in the \textit{cognitive} state, tasks in this stage are best suited for the study. This will be considered in the next chapter, too.\\
 \textbf{In the digital world} most of this remains like it is in the real world. But with computational power new learning techniques can be used to teach motor learning. Instructions can be given visually by a teacher without the teacher being physically in the room, eg. by video instructions or virtual avatars. Also remote instructions become more practical eg. in video conferences. 
@@ -37,7 +54,7 @@ The nature of \textit{Continuous movements} having no recognizable beginning and
 
 %gespiegelte, ungespiegelt, synchron, asynchron -> max fragen
 
-\subsection{Quantify movements \todo or out} \label{quantifymovements}
+\subsection{Quantify movements \todo in measures} \label{quantifymovements}
 %Wie können bewegungen überhaupt quantifiziert werden
 \begin{figure}
 	\centering
@@ -66,7 +83,7 @@ Kwon et al. \cite{Kwon2005} \todo
 \end{comment}
 
 
-\subsection{How to measure movements}
+\subsection{Measuring movements}
 %Welche messmethoden gibt es um bewegungen zu messen
 In order to judge if a movement is performed correctly methods need to be applied to measure the error of a performed action. In literature, three main categories are listed: \textit{error of a single subject}, \textit{measures of time and speed} and \textit{measures of movement magnitude}. As chapter 3 will show, \textit{error of a single object} is most commonly used, the latter two are only discussed in short. 
 \subsubsection{Measures of Error for a Single Subject}
@@ -119,27 +136,14 @@ Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is 
 	\label{fig:MRcont}
 \end{figure}
 
-\section{Perspectives}
-\markAoneIndependent
-Wang and Milgram \cite{Wang2001} describe the perspectives on the centricity continuum see figure \ref{fig:ego-exo-cont}. On the most left hand side of the continuum the egocentric perspective is located. Egocentric means that the anchor of the viewport camera is located inside the object to control - for simplicity, this object in question is referred as avatar. On the left hand side the exocentric perspective is located. This viewport camera is a fixed camera in the scene not to be controllable. The exocentric perspective gives the user the possibility to examine the scene from a bird's-eye view. The movement or angle of the avatar has no influence on the cameras position or angle. So the main difference is the so called tether distance and the degree of freedom of the camera. Milgarm and Wang investigated on tethered cameras and define it as the distance between the avatar and the camera which is following the avatar. This describes the middle part of the continuum. Zero-distance camera describes the egocentric perspective. The longer the tether distance the more the perspective is located on the right of the scale to the exocentric perspective. They also distinguish between dynamic and rigid tethering relation ships. A dynamic tethered camera is controlled by the user in all six dofs (\todo) while a rigid stands like a pole and can only be controlled in 3 dofs. Rigid tethered cameras are common in modern 3rd person computer games.
-\begin{figure}
-	\centering
-		\includegraphics[width=1.0\textwidth]{img/ego_exo_continuum_bigger.PNG}
-	\caption{Centricity continuum by Wang and Milgram 2001 \cite{Wang2001}}
-	\label{fig:ego-exo-cont}
-\end{figure}
-\markAsixPerspective
-\section{VR Technologies}
+
+\subsection{VR Technologies}
 HMD,3D screens, tablets.... \todo or in project
 
-\section{Motion Tracking Technologies}
+\subsection{Motion Tracking Technologies}
 External vs. internal tracking. Drift problem, accuracy... \todo or in project.
 
-\section{Degree of realism of teacher avatar}
-first some paper collection about how the virtual avatar looked like, and then decide for what rebeccas work proposes. its a lot about related work, so maybe this should go in the next chapter. what would be more work. \markAonefourRealism
 
-\section{Feedback and instruction behaviour}
-feedback \todo can be given verbally, in MR visually ... example 1,2 and 3, but in the end: we do not want to evaluate feedback so there will be none in the study \markAonefiveFeedback. In addition, for high validity instructions must be the same, so a pre recorded instructions necessary \markAelevenBehav partly answered, but lets look in next chapter about continuity in instruction.
 
 \section{Conclusion}
 we dicided for A1 A2 ... will be used in study ... some aspects missing, lets have a look how other researchers choose there, what we do in the next chapter.
