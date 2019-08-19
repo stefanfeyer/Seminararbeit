@@ -3,6 +3,11 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: theoreticalbackground.aux
 A level-1 auxiliary file: related_work.aux
+Case mismatch error between cite keys chua and Chua
+---line 17 of file related_work.aux
+ : \citation{chua
+ :               }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: study_setting.aux
 A level-1 auxiliary file: outlook.aux
 The style file: plain.bst
@@ -11,6 +16,7 @@ Warning--I didn't find a database entry for "Choensawat2015"
 Warning--I didn't find a database entry for "Yoshimura2005"
 Warning--I didn't find a database entry for "GangQian2005"
 Warning--I didn't find a database entry for "Milgram1994"
-Warning--empty journal in Reinoso2016
+Warning--empty journal in Chua
+Warning--empty year in Chua
 Warning--empty publisher in Schmidt2011
-(There were 6 warnings)
+(There was 1 error message)

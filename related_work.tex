@@ -30,11 +30,11 @@ aggregated overview
 \begin{itemize}
 	\item[Hardware:] HMD, Optical motion tracking
 	\item[Task:] Tai Chi
-	\item[Perspectives:] Ego-centric, exo-centric, combined
+	\item[Perspectives:] Ego-centric, exo-centric \& egocentric combined
 	\item[Measures:] position
 	\item[investigation:] different perspectives on virtual avatar(s)
 	\item[variables:] independent: perspectives, dependent: precision
-	\item[Outcome:] None representation proved to be significantly better than traditional virtual Tai Chi teacher 
+	\item[Outcome:] None representation proved to be significantly better than the other representations
 \end{itemize}
 
 \subsection{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}
@@ -42,7 +42,7 @@ aggregated overview
 	\item[Hardware:] Augmented reality mirror, Kinect
 	\item[Task:] dance moves, sport moves
 	\item[Perspectives:] exo-centric
-	\item[Measures:] postition
+	\item[Measures:] position matching
 	\item[investigation:] Comparing video based learning with YouMove
 	\item[variables:] independent: training method, dependent: precision
 	\item[Outcome:] learning and short-term retention better than traditional video representation
@@ -104,26 +104,89 @@ aggregated overview
 \end{itemize}
 
 \section{Study task}
+%---
+The task in Chua's \cite{Chua} Tai Chi trainer is \--- as the name indicates \--- a Tai Chi motion. A professional Tai Chi trainer was invited to perform a so called \textit{Tai Chi form} and recorded offline. This \textit{form} was segmented in four ca. 20 seconds long sequences (Motion 1-4). "Motion 1 featured simple hand movements and a 90 degree turn to the right; motion 2 had little hand motion, a 180 degree turn of the feet, and some turning of the upper body; motion 3 featured slow hand motions, large movement of the feet, and some turning of the thorax; and motion 4 featured swift hand movement and turning of the thorax and hips but little movement of the feet." \cite{Chua}. Error measurements indicated that all motion but motion 1 had the same difficulty, being significantly easier. This movements can be classified as \textit{sequential movements} according to chapter 2 \todo ref. 40 volunteers conducted the movements in a study to evaluate their system. They randomized the condition (described in next chapter, compare figure \ref{fig:taichiperspectives} condition a-e) and the motion to minimize learning effects. For each motion and condition pair, the Tai Chi student were asked to match the Tai Chi Teachers demonstration during twelve repetitions.
+%---
+%---
+%---
+%---
+%---
+%---
+%---
+
 \subsection{Conclusion}
 variation in speed and difficulty
 
 \section{Implemented Perspective}
+%---
+Chua et al. \cite{chua} implemented five different perspectives to teach Tai Chi, compare \ref{fig:taichiperspectives}. There are three exo-centric perspectives (a-c, further called conditions a-c) and two ego-centric perspectives combined with exocentric (d,e, further called conditions d,e). In \textbf{One on One} the student stand next to one teacher, which is closest to a real world training scenario \ref{fig:taichiperspectives}(a). In con \--- \textbf{Four Teachers} \--- the student is surrounded by four teachers, with the student in the middle \ref{fig:taichiperspectives}(b). The \textbf{Side by Side} \ref{fig:taichiperspectives}(c) condition shows four pairs of teacher and student in the same formation as in condition (b). The first ego-centric\&combined condition is called \textbf{Superimposition 1} \ref{fig:taichiperspectives}(d). Here the formation still remains, but the student in the middle is surrounded by four more students. On each of the student a red wireframe teacher is superimposed. \textbf{Superimposition 2} \ref{fig:taichiperspectives}(e), is similar to Superimposition one and differs only in the visual representation: the student is now a green, transparent wireframe. Chua et al. use no pure ego-centric perspective, since in the latter two conditions the teacher can be seen also from the exo-centric perspective.
+\begin{figure}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/taichi_perspectives.png}
+	\caption{Used perspectives at \cite{Chua}}
+	\label{fig:taichiperspectives}
+\end{figure}
+%---
 \subsection{Conclusion}
 
 \section{Guidance visualisation}
-\subsection{Conclusion}
-
 \subsection{Visual Appearance}
-shape and colour
+%--- shape and colour
+Chua's Tai Chi training scenario takes place in pure VR using a HMD. The lessons are conducted in a virtual pergola standing in a nature or park environment. In condition a to c (compare \ref{fig:taichiperspectives}), the student and the teacher are rendered as non transparent, high realism degree avatars. However, in condition d and e, the visual appearance changes. In condition (d) the student is still rendered normally but the teacher is now represented as a red wireframe. Condition (e) was introduced late in the development of the system based on early subject feedback. The students here are rendered as green wireframe avatars and the teacher as red wireframe avatars.\\
+In terms of guiding technique, the student is presented the pre recorded motion of the teacher. The teacher avatar performs the motion in question and the student tries to mimic this motion. During the mimicking process no feedback is provided to the student. But in condition (d) and (e) the teacher is superimposed on the students avatar. This can be interpreted as feedback since the difference between the students e.g. arm position and the teachers arm position can be seen easily.
+%---
+%---
+%---
+%---
+%---
+%---
+
 \subsection{Feedback}
 \subsection{Degree of Realism}
 \subsection{Guidance Techniques}
 \subsection{Conclusion}
 
 \section{Dependent variables}
+%---
+In the Tai Chi trainer by Chua et al. \cite{Chua}, the students task is to mimic the motion of a pre recorded teacher. While the independent variables are the above mentioned perspectives (conditions a-e) and the motions, the independent variable is the precision of the performed movements. To measure this precision, twelve bones of the students were tracked, namely: upper and lower arms, hands, upper and lower legs, and feet. The bones are hierarchical structured with a parent and child end. After a normalization of the parents position and bone length, an error was calculated:
+\begin{equation}
+	\todo
+\end{equation}
+This error can be seen as the euclidean distance between the teacher's and the student's position of a bone. This error was calculated for every frame of the roughly 20 seconds with a rate of 60 fps:
+\begin{equation}
+	\todo
+\end{equation}
+The last four out of twelve trials were considered. So the measure of precision is described as:
+\begin{equation}
+	\todo
+\end{equation}
+This measure is an implementation of chapter 2 ref \todo.
+Chua et al. found two major faults in this method of precision determination: yaw shift (\todo add in chapter 2 a definition of dofs) and time shift. To overcome the first, the initial position of the student was taken into account, the latter was fixed with a time frame comparison of 120 frames. Eventually this result was normalized with the difficulty (average number of errors per motion) of the motion task. This will be discussed in detail in the Projects Report. In addition, a post questionnaire was conducted where the students were asked to rate the difficulty of the representations. Th results are discussed in the next section.
+%---
+%---
+%---
+%---
+%---
+
 \subsection{Conclusion}
 
 \section{Results}
+%---
+Chua et al. compare different perspectives (conditions a-e) on the teacher and the student. The independent variables are the above mentioned precision of the students performance. By comparing the results they found condition a (One on One), b (Four Teachers), c (Side by Side) and e (Superimposition 2) aim the same precision. Only e (Superimposition 1) aimed significantly worse than the others. At the same time, the questionnaire indicated that the subjective difficulty of condition d and e (Superimposition 1 and 2) was the highest. "In fact, all of the subjects who tried Superimposition 2 thought it was the most difficult. Interestingly, although subjects considered Superimposition 2 very difficult compared to the other layouts, average error on that layout was not significantly greater than the other non-superimposed layouts." \cite{Chua}. The Authors argue this result as following:
+\begin{itemize}
+	\item simultaneously watching the teacher and performing own movements could interfere each other.\\
+	Chua et al. suggests to choose wisely for the task to suit into VR training.
+	\item latency and performance correlates strongly. A lower latency could lead to better performance.\\
+	Since Chua et al. \cite{Chua} was developed in 2003, there is a large improvement in latency nowadays.
+	\item To reduce latency a low polygon count on the high realism degree avatars was used. More polygons could lead to better performance.\\
+	The system was run on a Pentium 3 processor. Today's graphic cards and processors are way above this mark, a higher polygon count is easily achievable.
+	\item The field of view was very small.\\
+	Today's VR HMDs probably provide a higher field of view (e.g. HTC Vive, 110$^\circ$).
+\end{itemize}
+%---
+%---
+%---
+%---
 \subsection{Conclusion}
 
 

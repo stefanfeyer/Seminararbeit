@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  15 AUG 2019 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  19 AUG 2019 20:41
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -730,13 +730,28 @@ LaTeX Warning: Citation `Milgram1994' on page 12 undefined on input line 135.
 ] [15] [16]
 [17] [18]
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 132.
+LaTeX Warning: Citation `chua' on page 19 undefined on input line 122.
 
-) [19]
+<img/taichi_perspectives.png, id=96, 780.66656pt x 415.5525pt>
+File: img/taichi_perspectives.png Graphic file (type png)
+<use img/taichi_perspectives.png>
+Package pdftex.def Info: img/taichi_perspectives.png  used on input line 125.
+(pdftex.def)             Requested size: 418.25368pt x 222.6386pt.
+[19]
+Underfull \vbox (badness 6032) has occurred while \output is active []
+
+ [20 <./img/taichi_perspectives.png>]
+Underfull \vbox (badness 1616) has occurred while \output is active []
+
+ [21]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 195.
+
+) [22] [23]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex [20
+ (study_setting.tex [24
 
 
 
@@ -745,14 +760,14 @@ Overfull \hbox (18.86923pt too wide) in paragraph at lines 23--32
  [] 
  []
 
-[21]) [22]
+[25]) [26]
 \openout2 = `outlook.aux'.
 
- (outlook.tex) [23
+ (outlook.tex) [27
 
 
 
-] (seminar_thesis.bbl [24
+] (seminar_thesis.bbl [28
 
 
 ]
@@ -769,14 +784,14 @@ Overfull \hbox (141.55447pt too wide) in paragraph at lines 3--3
 outube.com/watch?v=1QFMPo5k6p0, 
  []
 
-[25]
+[29]
 
-LaTeX Warning: Citation `Choensawat2015' on page 26 undefined on input line 8.
+LaTeX Warning: Citation `Choensawat2015' on page 30 undefined on input line 8.
 
 
-LaTeX Warning: Citation `Milgram1994' on page 26 undefined on input line 9.
+LaTeX Warning: Citation `Milgram1994' on page 30 undefined on input line 9.
 
-) (seminar_thesis.lot) [26]
+) (seminar_thesis.lot) [30]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -794,11 +809,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6532 strings out of 492895
- 90846 string characters out of 3133480
- 198675 words of memory out of 3000000
- 10309 multiletter control sequences out of 15000+200000
- 15320 words of font info for 58 fonts, out of 3000000 for 9000
+ 6543 strings out of 492895
+ 91057 string characters out of 3133480
+ 198719 words of memory out of 3000000
+ 10317 multiletter control sequences out of 15000+200000
+ 15941 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,30p,1736b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
@@ -813,10 +828,11 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (30 pages, 7252581 bytes).
+fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (34 pages, 7700544 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
+ 184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

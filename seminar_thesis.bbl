@@ -1,5 +1,9 @@
 \begin{thebibliography}{1}
 
+\bibitem{Chua}
+Philo~Tan Chua and Russ Schaaf.
+\newblock {Training for Physical Tasks in Virtual Environments : Tai Chi}.
+
 \bibitem{Hachimura2005}
 Kozaburo Hachimura, Katsumi Takashina, and Mitsu Yoshimura.
 \newblock {Analysis and evaluation of dancing movement based on LMA}.
@@ -9,12 +13,6 @@ Kozaburo Hachimura, Katsumi Takashina, and Mitsu Yoshimura.
 \bibitem{LaViola2017}
 Joseph~J LaViola.
 \newblock {3D user interfaces: theory and practice }, 2017.
-
-\bibitem{Reinoso2016}
-Martin Reinoso.
-\newblock {Onebody : Remote Posture Guidance System using First Person View in
-  Virtual Environment}.
-\newblock 2016.
 
 \bibitem{Schmidt2011}
 Richard Schmidt and Tim Lee.

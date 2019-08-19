@@ -35,27 +35,26 @@
 \contentsline {section}{\numberline {3.2}Study task}{19}% 
 \contentsline {subsection}{Conclusion}{19}% 
 \contentsline {section}{\numberline {3.3}Implemented Perspective}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {section}{\numberline {3.4}Guidance visualisation}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {subsection}{Visual Appearance}{19}% 
-\contentsline {subsection}{Feedback}{19}% 
-\contentsline {subsection}{Degree of Realism}{19}% 
-\contentsline {subsection}{Guidance Techniques}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {section}{\numberline {3.5}Dependent variables}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {section}{\numberline {3.6}Results}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {section}{\numberline {3.7}conclusion}{19}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{21}% 
-\contentsline {section}{\numberline {4.1}Hypothesis}{21}% 
-\contentsline {subsection}{Aim of the Study}{21}% 
-\contentsline {subsection}{process}{21}% 
-\contentsline {subsection}{Independent variables}{22}% 
-\contentsline {subsection}{measures}{22}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{23}% 
-\contentsline {section}{\numberline {5.1}Timetable}{23}% 
-\contentsline {chapter}{Bibliography}{25}% 
-\contentsline {chapter}{List of Figures}{25}% 
-\contentsline {chapter}{List of Tables}{26}% 
+\contentsline {subsection}{Conclusion}{20}% 
+\contentsline {section}{\numberline {3.4}Guidance visualisation}{20}% 
+\contentsline {subsection}{Visual Appearance}{20}% 
+\contentsline {subsection}{Feedback}{21}% 
+\contentsline {subsection}{Degree of Realism}{21}% 
+\contentsline {subsection}{Guidance Techniques}{21}% 
+\contentsline {subsection}{Conclusion}{21}% 
+\contentsline {section}{\numberline {3.5}Dependent variables}{21}% 
+\contentsline {subsection}{Conclusion}{22}% 
+\contentsline {section}{\numberline {3.6}Results}{22}% 
+\contentsline {subsection}{Conclusion}{22}% 
+\contentsline {section}{\numberline {3.7}conclusion}{22}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{25}% 
+\contentsline {section}{\numberline {4.1}Hypothesis}{25}% 
+\contentsline {subsection}{Aim of the Study}{25}% 
+\contentsline {subsection}{process}{25}% 
+\contentsline {subsection}{Independent variables}{26}% 
+\contentsline {subsection}{measures}{26}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{27}% 
+\contentsline {section}{\numberline {5.1}Timetable}{27}% 
+\contentsline {chapter}{Bibliography}{29}% 
+\contentsline {chapter}{List of Figures}{29}% 
+\contentsline {chapter}{List of Tables}{30}% 
