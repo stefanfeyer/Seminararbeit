@@ -35,18 +35,18 @@
 \contentsline {section}{\numberline {3.2}Study task}{19}% 
 \contentsline {subsection}{Conclusion}{19}% 
 \contentsline {section}{\numberline {3.3}Implemented Perspective}{19}% 
-\contentsline {subsection}{Conclusion}{20}% 
-\contentsline {section}{\numberline {3.4}Guidance visualisation}{20}% 
-\contentsline {subsection}{Visual Appearance}{20}% 
-\contentsline {subsection}{Feedback}{21}% 
-\contentsline {subsection}{Degree of Realism}{21}% 
-\contentsline {subsection}{Guidance Techniques}{21}% 
 \contentsline {subsection}{Conclusion}{21}% 
-\contentsline {section}{\numberline {3.5}Dependent variables}{21}% 
+\contentsline {section}{\numberline {3.4}Guidance visualisation}{21}% 
+\contentsline {subsection}{Visual Appearance}{21}% 
+\contentsline {subsection}{Degree of Realism}{22}% 
+\contentsline {subsection}{Guidance Techniques}{22}% 
+\contentsline {subsection}{Feedback}{22}% 
 \contentsline {subsection}{Conclusion}{22}% 
-\contentsline {section}{\numberline {3.6}Results}{22}% 
-\contentsline {subsection}{Conclusion}{22}% 
-\contentsline {section}{\numberline {3.7}conclusion}{22}% 
+\contentsline {section}{\numberline {3.5}Dependent variables}{22}% 
+\contentsline {subsection}{Conclusion}{23}% 
+\contentsline {section}{\numberline {3.6}Results}{23}% 
+\contentsline {subsection}{Conclusion}{24}% 
+\contentsline {section}{\numberline {3.7}conclusion}{24}% 
 \contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{25}% 
 \contentsline {section}{\numberline {4.1}Hypothesis}{25}% 
 \contentsline {subsection}{Aim of the Study}{25}% 

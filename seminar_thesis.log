@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  19 AUG 2019 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  20 AUG 2019 00:01
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -728,39 +728,43 @@ LaTeX Warning: Citation `Milgram1994' on page 12 undefined on input line 135.
 
 
 ] [15] [16]
-[17] [18]
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 108--117
 
-LaTeX Warning: Citation `chua' on page 19 undefined on input line 122.
+ []
+
+[18]
+
+LaTeX Warning: Citation `chua' on page 19 undefined on input line 123.
 
 <img/taichi_perspectives.png, id=96, 780.66656pt x 415.5525pt>
 File: img/taichi_perspectives.png Graphic file (type png)
 <use img/taichi_perspectives.png>
-Package pdftex.def Info: img/taichi_perspectives.png  used on input line 125.
+Package pdftex.def Info: img/taichi_perspectives.png  used on input line 126.
 (pdftex.def)             Requested size: 418.25368pt x 222.6386pt.
 [19]
-Underfull \vbox (badness 6032) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 143--155
 
- [20 <./img/taichi_perspectives.png>]
-Underfull \vbox (badness 1616) has occurred while \output is active []
+ []
 
- [21]
+[20 <./img/taichi_perspectives.png>] [21] [22]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 195.
+               Default added (so using `tbp') on input line 208.
 
-) [22] [23]
+[23]) [24]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex [24
-
-
-
-]
+ (study_setting.tex
 Overfull \hbox (18.86923pt too wide) in paragraph at lines 23--32
  [] 
  []
 
-[25]) [26]
+[25
+
+
+
+]) [26]
 \openout2 = `outlook.aux'.
 
  (outlook.tex) [27
@@ -809,10 +813,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6543 strings out of 492895
- 91057 string characters out of 3133480
- 198719 words of memory out of 3000000
- 10317 multiletter control sequences out of 15000+200000
+ 6544 strings out of 492895
+ 91071 string characters out of 3133480
+ 200722 words of memory out of 3000000
+ 10318 multiletter control sequences out of 15000+200000
  15941 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,30p,1736b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -830,7 +834,7 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (34 pages, 7700544 bytes).
+Output written on seminar_thesis.pdf (34 pages, 7703803 bytes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

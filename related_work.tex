@@ -1,5 +1,5 @@
 \chapter{Related Work}
-In chapter 2 A1, A3, A4, A6, A7, A10, A14 and 15 are already discussed. In this chapter the remaining aspects are analysed by investigating how other researchers decided on them. The remaining aspects are dependent variables (A2), the task (A5), the MR technology to use (A8), the tracking technology (A9), the behaviour of the instructions (A11), the measures to apply (A12) and the considered body parts (A14). These aspects are better discussed at existing systems to make sure the study having a high validity. This chapter is structured by means of the perspective though the independent variables, namely ego-centric, exo-centric and the combination of both. In this subchapters the aspects are discussed and concluded. In the overall conclusion a decision is made for the aspects by comparing them to each other. eg, the task must be suitable for all perspectives.
+\todo: remake! \\ In chapter 2 A1, A3, A4, A6, A7, A10, A14 and 15 are already discussed. In this chapter the remaining aspects are analysed by investigating how other researchers decided on them. The remaining aspects are dependent variables (A2), the task (A5), the MR technology to use (A8), the tracking technology (A9), the behaviour of the instructions (A11), the measures to apply (A12) and the considered body parts (A14). These aspects are better discussed at existing systems to make sure the study having a high validity. This chapter is structured by means of the perspective though the independent variables, namely ego-centric, exo-centric and the combination of both. In this subchapters the aspects are discussed and concluded. In the overall conclusion a decision is made for the aspects by comparing them to each other. eg, the task must be suitable for all perspectives.
 
 \section{Overview}
 aggregated overview
@@ -19,7 +19,7 @@ aggregated overview
 \begin{itemize}
 	\item[Hardware:] Kinect, Oculus Rift
 	\item[Task:] sports, dance, martial arts, yoga
-	\item[Perspectives:] First Person of the teacher
+	\item[Perspectives:] Ego-centric
 	\item[Measures:] Position, completion time, subjective score
 	\item[investigation:] comparing different remote guidance systems: onebody, pre recorded video, video conference, VR third person
 	\item[variables:] Independent: training method, dependent: performance
@@ -41,7 +41,7 @@ aggregated overview
 \begin{itemize}
 	\item[Hardware:] Augmented reality mirror, Kinect
 	\item[Task:] dance moves, sport moves
-	\item[Perspectives:] exo-centric
+	\item[Perspectives:] exo-centric, ego-centric, combined
 	\item[Measures:] position matching
 	\item[investigation:] Comparing video based learning with YouMove
 	\item[variables:] independent: training method, dependent: precision
@@ -105,8 +105,9 @@ aggregated overview
 
 \section{Study task}
 %---
-The task in Chua's \cite{Chua} Tai Chi trainer is \--- as the name indicates \--- a Tai Chi motion. A professional Tai Chi trainer was invited to perform a so called \textit{Tai Chi form} and recorded offline. This \textit{form} was segmented in four ca. 20 seconds long sequences (Motion 1-4). "Motion 1 featured simple hand movements and a 90 degree turn to the right; motion 2 had little hand motion, a 180 degree turn of the feet, and some turning of the upper body; motion 3 featured slow hand motions, large movement of the feet, and some turning of the thorax; and motion 4 featured swift hand movement and turning of the thorax and hips but little movement of the feet." \cite{Chua}. Error measurements indicated that all motion but motion 1 had the same difficulty, being significantly easier. This movements can be classified as \textit{sequential movements} according to chapter 2 \todo ref. 40 volunteers conducted the movements in a study to evaluate their system. They randomized the condition (described in next chapter, compare figure \ref{fig:taichiperspectives} condition a-e) and the motion to minimize learning effects. For each motion and condition pair, the Tai Chi student were asked to match the Tai Chi Teachers demonstration during twelve repetitions.
+The task in Chua's \cite{Chua} \textbf{Tai Chi trainer} is \--- as the name indicates \--- a Tai Chi motion. A professional Tai Chi trainer was invited to perform a so called \textit{Tai Chi form} and recorded offline. This \textit{form} was segmented in four ca. 20 seconds long sequences (Motion 1-4). "Motion 1 featured simple hand movements and a 90 degree turn to the right; motion 2 had little hand motion, a 180 degree turn of the feet, and some turning of the upper body; motion 3 featured slow hand motions, large movement of the feet, and some turning of the thorax; and motion 4 featured swift hand movement and turning of the thorax and hips but little movement of the feet." \cite{Chua}. Error measurements indicated that all motion but motion 1 had the same difficulty, being significantly easier. This movements can be classified as \textit{sequential movements} according to chapter 2 \todo ref. 40 volunteers conducted the movements in a study to evaluate their system. They randomized the condition (described in next chapter, compare figure \ref{fig:taichiperspectives} condition a-e) and the motion to minimize learning effects. For each motion and condition pair, the Tai Chi student were asked to match the Tai Chi teachers demonstration during twelve repetitions.\\ \\
 %---
+\textbf{YouMove} by Anderson et al. \cite{Anderson2013} is a movement training system, suitable for a vast range of moves. A movement can be recorded and then edited by an authoring tool. After the editing, the movement is added to the internal library, from which it can be chosen by a student. For the study itself, an author or the paper \--- though no professional \--- recorded four movements. Two of them from ballet and two abstract movement. The authors decided to variate the difficulty of the task, namely "the ballet movements [...] were easier to conceptualise and required only moderate movement.", while "the abstract movements were more difficult to perform, as they were a series of postures with no clear structure and required substantial movement." The movements consisted of four keyframes. Keyframes are important points during the movements, determined and set by the person recording a movement.
 %---
 %---
 %---
@@ -119,31 +120,43 @@ variation in speed and difficulty
 
 \section{Implemented Perspective}
 %---
-Chua et al. \cite{chua} implemented five different perspectives to teach Tai Chi, compare \ref{fig:taichiperspectives}. There are three exo-centric perspectives (a-c, further called conditions a-c) and two ego-centric perspectives combined with exocentric (d,e, further called conditions d,e). In \textbf{One on One} the student stand next to one teacher, which is closest to a real world training scenario \ref{fig:taichiperspectives}(a). In con \--- \textbf{Four Teachers} \--- the student is surrounded by four teachers, with the student in the middle \ref{fig:taichiperspectives}(b). The \textbf{Side by Side} \ref{fig:taichiperspectives}(c) condition shows four pairs of teacher and student in the same formation as in condition (b). The first ego-centric\&combined condition is called \textbf{Superimposition 1} \ref{fig:taichiperspectives}(d). Here the formation still remains, but the student in the middle is surrounded by four more students. On each of the student a red wireframe teacher is superimposed. \textbf{Superimposition 2} \ref{fig:taichiperspectives}(e), is similar to Superimposition one and differs only in the visual representation: the student is now a green, transparent wireframe. Chua et al. use no pure ego-centric perspective, since in the latter two conditions the teacher can be seen also from the exo-centric perspective.
+Chua et al. \cite{chua} implemented five different perspectives to teach Tai Chi, compare \ref{fig:taichiperspectives}. There are three exo-centric perspectives (a-c, further called conditions a-c) and two ego-centric perspectives combined with exocentric (d,e, further called conditions d,e). In \textbf{One on One} the student stand next to one teacher, which is closest to a real world training scenario \ref{fig:taichiperspectives}(a). In con \--- \textbf{Four Teachers} \--- the student is surrounded by four teachers, with the student in the middle \ref{fig:taichiperspectives}(b). The \textbf{Side by Side} \ref{fig:taichiperspectives}(c) condition shows four pairs of teacher and student in the same formation as in condition (b). The first ego-centric \& combined condition is called \textbf{Superimposition 1} \ref{fig:taichiperspectives}(d). Here the formation still remains, but the student in the middle is surrounded by four more students. On each of the student a red wireframe teacher is superimposed. \textbf{Superimposition 2} \ref{fig:taichiperspectives}(e), is similar to Superimposition one and differs only in the visual representation: the student is now a green, transparent wireframe. Chua et al. use no pure ego-centric perspective, since in the latter two conditions the teacher can be seen also from the exo-centric perspective.
 \begin{figure}
 	\centering
 	\includegraphics[width=1.0\textwidth]{img/taichi_perspectives.png}
 	\caption{Used perspectives at \cite{Chua}}
 	\label{fig:taichiperspectives}
-\end{figure}
+\end{figure}\\
+%---
+YouMove \cite{Anderson2013} provides multiple stages for the learning process: (1) Demonstration, (2) Posture Guide, (3) Movement Guide, (4) Mirror, (5) On your own. In (1) the user sees a video of the movement, though the perspective is exo-centric. In stage 2 \& 3 the user is superimposed by a skeleton, though the perspective changes to ego-centric. Stage 4 \& 5 does not allow a view on the teachers representation. After each stage a feedback is given. This view provides multiple perspectives for the four keyframes: a skeleton of the teacher and student superimposed (ego-centric), a video of the teachers demonstration and a video of the moves of the student (exo-centric) \--- this can be seen as a combination of both perspectives but only in the aftermath of the learning sequence.
+%---
+%---
+%---
+%---
+%---
 %---
 \subsection{Conclusion}
 
 \section{Guidance visualisation}
 \subsection{Visual Appearance}
 %--- shape and colour
-Chua's Tai Chi training scenario takes place in pure VR using a HMD. The lessons are conducted in a virtual pergola standing in a nature or park environment. In condition a to c (compare \ref{fig:taichiperspectives}), the student and the teacher are rendered as non transparent, high realism degree avatars. However, in condition d and e, the visual appearance changes. In condition (d) the student is still rendered normally but the teacher is now represented as a red wireframe. Condition (e) was introduced late in the development of the system based on early subject feedback. The students here are rendered as green wireframe avatars and the teacher as red wireframe avatars.\\
-In terms of guiding technique, the student is presented the pre recorded motion of the teacher. The teacher avatar performs the motion in question and the student tries to mimic this motion. During the mimicking process no feedback is provided to the student. But in condition (d) and (e) the teacher is superimposed on the students avatar. This can be interpreted as feedback since the difference between the students e.g. arm position and the teachers arm position can be seen easily.
+Chua's \textbf{Tai Chi training} scenario takes place in pure VR using a HMD. The lessons are conducted in a virtual pergola standing in a nature or park environment. In condition a to c (compare \ref{fig:taichiperspectives}), the student and the teacher are rendered as non transparent, high realism degree avatars. However, in condition d and e, the visual appearance changes. In condition (d) the student is still rendered normally but the teacher is now represented as a red wireframe. Condition (e) was introduced late in the development of the system based on early subject feedback. The students here are rendered as green wireframe avatars and the teacher as red wireframe avatars.\\
+In terms of guiding technique, the student is presented the pre recorded motion of the teacher. The teacher avatar performs the motion in question and the student tries to mimic this motion. During the mimicking process no feedback is provided to the student. But in condition (d) and (e) the teacher is superimposed on the students avatar. This can be interpreted as feedback since the difference between the students e.g. arm position and the teachers arm position can be seen easily.\\ \\
+%---
+\textbf{YouMove} uses Microsoft Kinect (\todo ref) to record motions and to track the student. The recorded instruction as well as the students movements are projected on an AR mirror. The special about this mirror is, that the degree of reflection can be changed by simply adjusting the light in the room. With this, the student can see his own real body as reflection as well as the projection of a beamer simultaneously. If the room is bright, the student sees only his reflection and in a dark room only the projection is visible.\\
+The visualisation of the teacher itself is rendered in a low degree of realism \--- only a stick figure in yellow. During the feedback screen after each stage, the student is also rendered as a stick figure but in blue.\\
+For teaching, YouMove utilise the above mentioned five training stages. In the first stage (Demonstration), a video of the teacher performing the movements is shown. The student only sees the video and not the reflection of the own body. The second stage (Posture guide) a video and the stick figure of the student are shown, but still not the own reflection. The student is asked to match they postures at specific keyframes, where the demonstration stops. After matching the posture of a keyframe, the demonstration moves on to the next keyframe. In the third stage (Movement Guide) the demonstration no longer stops at the keyframes. Furthermore, the reflection and the projection are visible simultaneously, the student is superimposed by the teachers stick figure. (\todo change skeleton to stick figure). Stage four (Mirror) is like the name indicates: the student stands in front of the mirror seeing only his own reflection but additionally audio queues are provided. In the last stage (On you own) even the mirror is removed and the student performs the movements without any guidance.\\
+In terms of feedback,... during stage and feedback tab.
 %---
 %---
 %---
 %---
 %---
-%---
-
-\subsection{Feedback}
 \subsection{Degree of Realism}
 \subsection{Guidance Techniques}
+\subsection{Feedback}
+
+
 \subsection{Conclusion}
 
 \section{Dependent variables}
