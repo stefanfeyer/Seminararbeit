@@ -22,39 +22,37 @@
 \contentsline {section}{\numberline {2.4}Conclusion}{13}% 
 \contentsline {chapter}{\chapternumberline {3}Related Work}{15}% 
 \contentsline {section}{\numberline {3.1}Overview}{15}% 
-\contentsline {subsection}{Detailed Papers}{15}% 
+\contentsline {section}{\numberline {3.2}Comprehension of the papers analysed}{15}% 
 \contentsline {subsection}{In detail - A VR Dance Training System Using Motion Capture Technology}{15}% 
 \contentsline {subsection}{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{16}% 
 \contentsline {subsection}{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}{16}% 
-\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{17}% 
-\contentsline {subsection}{Generic Heading, input? \leavevmode {\color {red}\textbf {TODO}}}{17}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{17}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{18}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{18}% 
-\contentsline {subsection}{Generic Heading, any ideas? \leavevmode {\color {red}\textbf {TODO}}}{18}% 
-\contentsline {section}{\numberline {3.2}Study task}{19}% 
-\contentsline {subsection}{Conclusion}{19}% 
-\contentsline {section}{\numberline {3.3}Implemented Perspective}{19}% 
-\contentsline {subsection}{Conclusion}{21}% 
-\contentsline {section}{\numberline {3.4}Guidance visualisation}{21}% 
-\contentsline {subsection}{Visual Appearance}{21}% 
-\contentsline {subsection}{Degree of Realism}{22}% 
-\contentsline {subsection}{Guidance Techniques}{22}% 
-\contentsline {subsection}{Feedback}{22}% 
-\contentsline {subsection}{Conclusion}{22}% 
-\contentsline {section}{\numberline {3.5}Dependent variables}{22}% 
-\contentsline {subsection}{Conclusion}{23}% 
-\contentsline {section}{\numberline {3.6}Results}{23}% 
-\contentsline {subsection}{Conclusion}{24}% 
-\contentsline {section}{\numberline {3.7}conclusion}{24}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{25}% 
-\contentsline {section}{\numberline {4.1}Hypothesis}{25}% 
-\contentsline {subsection}{Aim of the Study}{25}% 
-\contentsline {subsection}{process}{25}% 
-\contentsline {subsection}{Independent variables}{26}% 
-\contentsline {subsection}{measures}{26}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{27}% 
-\contentsline {section}{\numberline {5.1}Timetable}{27}% 
-\contentsline {chapter}{Bibliography}{29}% 
-\contentsline {chapter}{List of Figures}{29}% 
-\contentsline {chapter}{List of Tables}{30}% 
+\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{16}% 
+\contentsline {subsection}{Generic Heading}{17}% 
+\contentsline {subsection}{Generic Heading}{17}% 
+\contentsline {subsection}{Generic Heading}{17}% 
+\contentsline {subsection}{Generic Heading}{18}% 
+\contentsline {subsection}{Generic Heading}{18}% 
+\contentsline {section}{\numberline {3.3}Analysis}{19}% 
+\contentsline {subsection}{Study task}{19}% 
+\contentsline {subsubsection}{Conclusion}{19}% 
+\contentsline {subsection}{Implemented Perspective}{19}% 
+\contentsline {subsubsection}{Conclusion}{21}% 
+\contentsline {subsection}{Guidance visualisation}{21}% 
+\contentsline {subsubsection}{Conclusion}{22}% 
+\contentsline {subsection}{Dependent variables}{22}% 
+\contentsline {subsubsection}{Conclusion}{23}% 
+\contentsline {subsection}{Results}{23}% 
+\contentsline {subsubsection}{Conclusion}{24}% 
+\contentsline {section}{\numberline {3.4}in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{24}% 
+\contentsline {section}{\numberline {3.5}conclusion}{26}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{27}% 
+\contentsline {section}{\numberline {4.1}Hypothesises}{27}% 
+\contentsline {section}{\numberline {4.2}Variables}{27}% 
+\contentsline {subsection}{Independent Variables}{27}% 
+\contentsline {subsection}{Dependent variables}{28}% 
+\contentsline {section}{\numberline {4.3}Task}{28}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{29}% 
+\contentsline {section}{\numberline {5.1}Timetable}{29}% 
+\contentsline {chapter}{Bibliography}{31}% 
+\contentsline {chapter}{List of Figures}{31}% 
+\contentsline {chapter}{List of Tables}{32}% 
