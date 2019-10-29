@@ -121,8 +121,9 @@ In contrast to all other systems, Lightguide by Sodhi et al. \cite{Sodhi2012} bu
 	\caption{movements by lightguide \cite{Sodhi2012}}
 	\label{fig:lightguide1}
 \end{figure}\\
-These movements were performed with six conditions resulting in 90 dataset per participant (6 conditions x 5 path x 3 angles).
+\todo These movements were performed with six conditions resulting in 90 dataset per participant (6 conditions x 5 path x 3 angles).\\
 %---
+\textbf{Onebody} by Hoang et al. \cite{Hoang2016} is designed for sports or physical activity training like yoga, dance or martial arts. For the study they used a Martial Arts movement. Each participant started with a training session in which a remote instructor teaches a posture physically and verbally. Verbal feedback was given and the training repeated until the student was confident. After that the final posture was recorded. This applied for four postures with different complexities.\\
 %---
 %---
 %---
@@ -147,6 +148,7 @@ Chan et al. \cite{Chan2011} facilitate a 3D screen for rendering the avatars. Th
 %---
 LightGuide \cite{Sodhi2012} achieved an ego-centric guidance without using a HMD. The student stands under a depth camera and a projector. The depth camera tracks the hand of the student. This position is utilised and the guidance visualisation is projected directly on the users hand. During the evaluation of the system, four conditions used this ego-centric position. The remaining conditions shown exo-centric on a screen or directly on the hand.
 %---
+Onebody \cite{Hoang2016} show the guidance visualisation in an ego-centric perspective, too, but with an HMD. The teacher is projected inside the body of the student. Both, teacher and student are tracked by skeletal tracking, using a Microsoft Kinect \todo. The visualisation of the teacher is attached to the hip of the student. To overcome different body sizes, the avatars are normalised and scaled to the size of the student. For a second condition an exo-centric view is provided with a HMD, too. There the teacher stands in front of the student.
 %---
 %---
 %---
@@ -190,6 +192,22 @@ LightGuide \cite{Sodhi2012} compare six guidance visualisations:
 The main idea behind a guidance visualisation directly on the students body itself, is that the student can concentrate on the bodypart in question and not share the  with a instruction medium. The last condition proofed to be better than the second last, supporting this theses.
 The student gets instant feedback by comparing the indicators with the hand. A larger offset results in increased indication in real time.
 %---
+OneBody \cite{Hoang2016} use low realism degree avatars. Both, the student and the teacher are visualised by stick figures. The teachers avatar is red, the students avatar is blue. For feedback, if the students joints are matching joints of the teacher, these joints turn from blue to green, like shown in figure \ref{fig:ob1} left. Figure \ref{fig:ob1} right shows the scene from the first person perspective.
+\begin{figure}
+	\centering
+	\includegraphics[width=0.225\textwidth]{img/onebody1.png}
+	\includegraphics[width=0.225\textwidth]{img/onebody2.png}
+	\includegraphics[width=0.45\textwidth]{img/onebody3.png}
+	\caption{Left: student avatar (blue) and teacher avatar (red). Green limbs are matching limbs. Right: students view on the scene.\cite{Hoang2016}}
+	\label{fig:ob1}
+\end{figure}
+The guidance itself takes place in real time. The remote teacher can give instructions by performing the postures and additionally verbally. The student mimics the postures and can compare his own joint positions with the positions of the teacher to correct the own joints. Hoang et al. compare the performance of the students achieved in Onebody with the performance in three other systems, namely with traditional video based learning, video conferencing and a 3rd person perspective in VR. The latter is very similar with Onebody but the teacher stands in front of the student. The system differe in exactly one aspect to each other, see figure \ref{fig:ob2}.
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\textwidth]{img/onebody_training_methods.PNG}
+	\caption{Training methods and their differences used in the study to evaluate Onebody \cite{Hoang2016}}
+	\label{fig:ob2}
+\end{figure}
 %---
 %---
 %\subsection{Visual Appearance}
@@ -221,8 +239,9 @@ While Chua et al. calculate the error of the performed movement over all tracked
 %---
 Chan et al. evaluate the students performance with the VR Dance Trainer. Therefore they specified 19 body parts (compare \ref{fig:vrdt} right) and calculate a score between 0 and 100. The average over the 19 numeric indicators results in the overall performance. Before and after the training session of one move this score was calculated. Additionally, a postcourse survey asked the student specific questions about the system. This survey had the aim to evaluate if the "[...] system is interesting and able to motivate subjects to learn." \cite{Chan2011} and if the "[...] the system can provide them an easy way to learn" ibidem.
 %---
-Sodhi et al \cite{Sodhi2012} compare in LightGuides evaluation the five conditions where the instruction in directly on the body of the user with a baseline condition where the instruction is on a screen. To measure the performance of the student, Sodh et al. developed two measures: movement accuracy and movement times. Movement accuracy describes the absolute euclidean distance from the closest point. Movement times is devided in two sections by the reason that half of the conditions were self timed and the half the pace was set by the system. For the self timed conditions the completion time is taken as measure, for system paced conditions the time before or after is taken as measure. Though, independent variable are the conditions, dependet variables are performance.
+Sodhi et al \cite{Sodhi2012} compare in \textbf{LightGuides} evaluation the five conditions where the instruction in directly on the body of the user with a baseline condition where the instruction is on a screen. To measure the performance of the student, Sodh et al. developed two measures: movement accuracy and movement times. Movement accuracy describes the absolute euclidean distance from the closest point. Movement times is devided in two sections by the reason that half of the conditions were self timed and the half the pace was set by the system. For the self timed conditions the completion time is taken as measure, for system paced conditions the time before or after is taken as measure. Though, independent variable are the conditions, dependet variables are performance.
 %---
+Hoang et al. \cite{Hoang2016} use six different measures to evaluate \textbf{Onebody}. \textit{Accuracy}, \textit{completion time}, \textit{instructors score}, \textit{ease to understand}, \textit{perceived precision} and \textit{preference}. For \textit{accuracy} the angles of limbs of the student and teacher were compared. This corresponds to \todo. For \textit{completion time} the time between start and "[...] the student feeling confident" was measured, but caps at 2 minutes. \textit{Instructors score} is a subjective score of the instructor after each posture. The data for the last three measures were gathered by post questionnaires. These scores were calculated for all four independent variables (video, video conference, 3rd person, Onebody)
 %---
 
 \subsubsection{Conclusion}
@@ -248,36 +267,15 @@ Chan et al. investigated three topics with the VR Dance Trainer. First the learn
 Main finding of Sodhi et al. while evaluating LightGuide is an 85\% higher accuracy of ego-centric on body projections compared to a exo-centric video instructions.
 Per student 90 datasets are generated (6 conditions x 5 path x 3 angles). The performance measure they applied, the conditions scored (best to worst): Follow Spot $<$ 3D F-Arrow $<$ 3d G-Arrow $<$ 3D Pathlet $<$ Video Hand $<$ Video Screen. Especially the relation between video on screen and video hand shows the importance of attention during guidance instruction. The instruction on the bodypart it self scored better than seeing the instruction on a screen. In terms of \textit{movement times}, both video conditions lead to lower movement times. Sodhi et al. see the reason therefore, that it makes a difference if the student sees the whole path before hand than or figuring out the movement as they moved along. Additionally, in an interview, participants of the study stated that self paced guidance are subjectivly like more than system paced. For system paced movement speed 30mm per second scored best in an pilot test. Further they suggest to plan regular recovery rests to exclude fatigue effects.
 %---
+Onebody \cite{Hoang2016} proved to be significantly better over the other training measures in terms of \textit{accuracy}. Interestingly, no significant difference was found between the exo-centric 3rd person view and video conference. On the same time Onebody has a higher \textit{completion time} than the other systems. The instructors score showed no significance between the methods. Valuable for this work is, that the ego-centric perspective seems to be slightly better to \textit{understand} than the exo-centric perspective, but not significant. But both, ego and exo centric perspectives, are significantly harder to understand that the video based methods. Furthermore, the \textit{perceived precision} ego-centric perspective is significantly higher than the exo-centric perspective, but nearly on the same level as the video conference method. Eventually, Onebody is more \textit{preferred} by the participants of the study than 3rd person view. Hoang et al. conclude "[...] that synchronous training and 1st person view have a positive effect on posture accuracy." If this applies also to movements could be interesting to investigate.
 \subsubsection{Conclusion}
+video faster than ego
 
 
 
 
 
 
-\section{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}
-(I tried both: split by topic and by paper. This paper is described in one, not split by the aspects above. I will split that soon.)
-Onebody by Hoang et al. \cite{Reinoso2016} is a VR system for remote posture guidance. Onebody is designed for sports or physical activity training like yoga, dance or martial arts. The student and the teacher are both tracked by skeletal tracking. The visualisation of this tracking are shown via a VR headset, allowing the student to follow the instruction of the teacher in first person view of the teacher - which means the student "stands inside the body of the teacher". Both, the student and the teacher are visualised by stick figures. The teachers avatar is red, the students blue and matching joints are green like shown in figure \ref{fig:ob1} left. Figure \ref{fig:ob1} right shows the scene from the first person perspective.
-\begin{figure}
-	\centering
-	\includegraphics[width=0.225\textwidth]{img/onebody1.png}
-	\includegraphics[width=0.225\textwidth]{img/onebody2.png}
-	\includegraphics[width=0.45\textwidth]{img/onebody3.png}
-	\caption{Left: student avatar (blue) and teacher avatar (red). Green limbs are matching limbs. Right: students view on the scene.\cite{Reinoso2016}}
-	\label{fig:ob1}
-\end{figure}
-When the teacher moves his limbs, the student can see the movement emerging from himself. Now the student can move his own limbs to mimic the movement till the teachers posture is matched. The teacher sees the students limbs likewise allowing him to give instant feedback to the student. Thus, "Onebody provides a medium to deliver body movement instructions for non-collocated instructor and learner." \todo. The visualisations are attached to the hip but keeps the mapping between the user and corresponding avatar. To overcome different body sizes, the avatars are normalised and scaled to the size of the person seeing the avatars.\\
-For transfering data, both the teacher and the student are clients in a server-client system. The clients are sending the their tracking data to the server which is broadcasting it to the clients. The comparison of the limbs for colour coding is performed on the client side. The matching of the limbs is calculated by the position of the single limbs (see equation \eqref{eq:constanterror}) with a threshold of 5cm to reduce jitter and tracking errors. Limbs in question are wrist, elbow, shoulder, hip, knee and ankle. The feedback with colour codes is provided in realtime.\\
-With this system hoang et al. designed a user study to evaluate the performance of posture accuracy and user's preference. Their main hypotheses is "\textit{Onebody delivers better posture accuracy than existing remote movement instruction methods}". "Posture accuracy is determined by the extend to which the student can replicate the final posture as instructed and demonstrated by the instructor." In addition, completion time and a subjective score of the instructor are considered.
-To test the hypothesis, Onebody was compared with three other remote posture training methods (independent variables): pre recorded video, video conference (Skype), VR 3rd person perspective. Each of the systems differs to Onebody in terms of synchronous interaction, VR medium and perspective see figure \ref{fig:ob2}.
-\begin{figure}
-	\centering
-	\includegraphics[width=0.5\textwidth]{img/onebody_training_methods.PNG}
-	\caption{Training methods and their differences used in the study to evaluate Onebody \cite{Reinoso2016}}
-	\label{fig:ob2}
-\end{figure}
-The study was a 4x4 within subject. Each participant stated with a training session in which the not collocated instructor teach a posture physically and verbally. Verbal feedback was given the training repeated until the student was confident. After that the final posture was recorded. A set of four of postures with every system were performed with different complexities.\\
-The results show a significant difference in accuracy. Onebody performed significantly better in over video conference, 3rd person VR and pre recorded video. Furthermore, the completion time was significantly higher with Onebody as in the other three systems. The subjective score of the instructor showed no significant differences. A post questionnaire indicated that Onebody is harder to understand and use than the other systems, but at the same time it also indicated that Onebody was perceived to be more exact. Participants rated video conference as their most preferred system over Onebody and 3rd person VR.
 
 \section{conclusion}
 Here will stand an overall conclusion
@@ -293,6 +291,23 @@ Here will stand an overall conclusion
 \begin{comment}
 
 %----------------------------------------------------
+\begin{comment}
+\section{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}
+
+Onebody by Hoang et al. \cite{Reinoso2016} is a VR system for remote posture guidance. 
+%Onebody is designed for sports or physical activity training like yoga, dance or martial arts.
+The student and the teacher are both tracked by skeletal tracking. The visualisation of this tracking are shown via a VR headset, allowing the student to follow the instruction of the teacher in first person view of the teacher - which means the student "stands inside the body of the teacher". 
+
+
+When the teacher moves his limbs, the student can see the movement emerging from himself. Now the student can move his own limbs to mimic the movement till the teachers posture is matched. The teacher sees the students limbs likewise allowing him to give instant feedback to the student. Thus, "Onebody provides a medium to deliver body movement instructions for non-collocated instructor and learner." \todo. %The visualisations are attached to the hip but keeps the mapping between the user and corresponding avatar. To overcome different body sizes, the avatars are normalised and scaled to the size of the person seeing the avatars.\\
+For transfering data, both the teacher and the student are clients in a server-client system. The clients are sending the their tracking data to the server which is broadcasting it to the clients. The comparison of the limbs for colour coding is performed on the client side. The matching of the limbs is calculated by the position of the single limbs (see equation \eqref{eq:constanterror}) with a threshold of 5cm to reduce jitter and tracking errors. Limbs in question are wrist, elbow, shoulder, hip, knee and ankle. The feedback with colour codes is provided in realtime.\\
+With this system hoang et al. designed a user study to evaluate the performance of posture accuracy and user's preference. Their main hypotheses is "\textit{Onebody delivers better posture accuracy than existing remote movement instruction methods}". "Posture accuracy is determined by the extend to which the student can replicate the final posture as instructed and demonstrated by the instructor." In addition, completion time and a subjective score of the instructor are considered.
+To test the hypothesis, Onebody was compared with three other remote posture training methods (independent variables): pre recorded video, video conference (Skype), VR 3rd person perspective. Each of the systems differs to Onebody in terms of synchronous interaction, VR medium and perspective see figure \ref{fig:ob2}.
+
+%The study was a 4x4 within subject. Each participant stated with a training session in which the not collocated instructor teach a posture physically and verbally. Verbal feedback was given the training repeated until the student was confident. After that the final posture was recorded. A set of four of postures with every system were performed with different complexities.\\
+The results show a significant difference in accuracy. Onebody performed significantly better in over video conference, 3rd person VR and pre recorded video. Furthermore, the completion time was significantly higher with Onebody as in the other three systems. The subjective score of the instructor showed no significant differences. A post questionnaire indicated that Onebody is harder to understand and use than the other systems, but at the same time it also indicated that Onebody was perceived to be more exact. Participants rated video conference as their most preferred system over Onebody and 3rd person VR.
+%--------
+
 Researchers utilised the theory of the last chapter to design MR Motor Learning systems in various ways. They differ in the technology, tasks, perspectives measures etc. In this chapter we analyse these systems to extract valuable insights to design a MR Motor learning System. First we analyse the aspects of MRML systems. After that we take a close look on some systems how they conducted their investigation and their outcome.
 
 \section{Aspects of MR Motor Learning systems}

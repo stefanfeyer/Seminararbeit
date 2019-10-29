@@ -38,13 +38,12 @@
 \contentsline {subsection}{Implemented Visual Perspective}{20}% 
 \contentsline {subsubsection}{Conclusion}{22}% 
 \contentsline {subsection}{Guidance visualisation}{22}% 
-\contentsline {subsubsection}{Conclusion}{24}% 
-\contentsline {subsection}{Dependent variables}{24}% 
-\contentsline {subsubsection}{Conclusion}{26}% 
-\contentsline {subsection}{Results}{26}% 
+\contentsline {subsubsection}{Conclusion}{25}% 
+\contentsline {subsection}{Dependent variables}{25}% 
 \contentsline {subsubsection}{Conclusion}{27}% 
-\contentsline {section}{\numberline {3.4}in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{27}% 
-\contentsline {section}{\numberline {3.5}conclusion}{29}% 
+\contentsline {subsection}{Results}{27}% 
+\contentsline {subsubsection}{Conclusion}{29}% 
+\contentsline {section}{\numberline {3.4}conclusion}{29}% 
 \contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{31}% 
 \contentsline {section}{\numberline {4.1}Hypothesises}{31}% 
 \contentsline {section}{\numberline {4.2}Variables}{31}% 
@@ -55,4 +54,4 @@
 \contentsline {section}{\numberline {5.1}Timetable}{33}% 
 \contentsline {chapter}{Bibliography}{35}% 
 \contentsline {chapter}{List of Figures}{36}% 
-\contentsline {chapter}{List of Tables}{36}% 
+\contentsline {chapter}{List of Tables}{37}% 

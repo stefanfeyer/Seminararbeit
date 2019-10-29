@@ -4,7 +4,7 @@ A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: theoreticalbackground.aux
 A level-1 auxiliary file: related_work.aux
 Case mismatch error between cite keys chua and Chua
----line 25 of file related_work.aux
+---line 26 of file related_work.aux
  : \citation{chua
  :               }
 I'm skipping whatever remains of this command
@@ -12,15 +12,16 @@ A level-1 auxiliary file: study_setting.aux
 A level-1 auxiliary file: outlook.aux
 The style file: plain.bst
 Database file #1: bib/lit.bib
-Warning--I didn't find a database entry for "Choensawat2015"
-Warning--I didn't find a database entry for "Yoshimura2005"
-Warning--I didn't find a database entry for "GangQian2005"
-Warning--I didn't find a database entry for "Milgram1994"
+Warning--I didn't find a database entry for "LaViola2017"
+Warning--I didn't find a database entry for "Reinoso2016"
 Warning--empty journal in Anderson2013
 Warning--empty journal in Chan2011
 Warning--empty journal in Chua
 Warning--empty year in Chua
-Warning--empty journal in Reinoso2016
+Warning--empty journal in GangQian2005
+Warning--there's a number but no volume in GangQian2005
+Warning--empty journal in Hoang2016
 Warning--empty publisher in Schmidt2011
 Warning--empty journal in Sodhi2012
+Warning--empty journal in Yoshimura2005
 (There was 1 error message)

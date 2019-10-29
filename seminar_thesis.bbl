@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Anderson2013}
 Fraser Anderson, Tovi Grossman, Justin Matejka, and George Fitzmaurice.
@@ -12,9 +12,20 @@ Jacky C~P Chan, Howard Leung, Jeff K~T Tang, and Taku Komura.
   Technology}.
 \newblock 4(2):187--195, 2011.
 
+\bibitem{Choensawat2015}
+Worawat Choensawat, Minako Nakamura, and Kozaburo Hachimura.
+\newblock {GenLaban: A tool for generating Labanotation from motion capture
+  data}.
+\newblock {\em Multimedia Tools and Applications}, 74(23):10823--10846, 2015.
+
 \bibitem{Chua}
 Philo~Tan Chua and Russ Schaaf.
 \newblock {Training for Physical Tasks in Virtual Environments : Tai Chi}.
+
+\bibitem{GangQian2005}
+{Gang Qian}, {Feng Guo}, T.~Ingalls, L.~Olson, J.~James, and T.~Rikakis.
+\newblock {A gesture-driven multimodal interactive dance system}.
+\newblock (January):1579--1582, 2005.
 
 \bibitem{Hachimura2005}
 Kozaburo Hachimura, Katsumi Takashina, and Mitsu Yoshimura.
@@ -22,15 +33,18 @@ Kozaburo Hachimura, Katsumi Takashina, and Mitsu Yoshimura.
 \newblock {\em Proceedings - IEEE International Workshop on Robot and Human
   Interactive Communication}, 2005:294--299, 2005.
 
-\bibitem{LaViola2017}
-Joseph~J LaViola.
-\newblock {3D user interfaces: theory and practice }, 2017.
-
-\bibitem{Reinoso2016}
-Martin Reinoso.
+\bibitem{Hoang2016}
+Thuong~N Hoang, Martin Reinoso, Farnk Vetere, and Egemen Tanin.
 \newblock {Onebody : Remote Posture Guidance System using First Person View in
   Virtual Environment}.
 \newblock 2016.
+
+\bibitem{Milgram1994}
+Paul Milgram and Fumio Kishino.
+\newblock {A TAXONOMY OF MIXED REALITY VISUAL DISPLAYS. IEICE Transactions on
+  Information Systems, Vol E77-D, No.12}.
+\newblock {\em IEICE Transactions on Information Systems}, E77-D(12):1--15,
+  1994.
 
 \bibitem{Schmidt2011}
 Richard Schmidt and Tim Lee.
@@ -47,5 +61,10 @@ Wenbi Wang and Paul Milgram.
 \newblock {Dynamic Viewpoint Tethering for Navigation in Large-scale Virtual
   Environments}.
 \newblock {\em Human Factors}, pages 1862--1866, 2001.
+
+\bibitem{Yoshimura2005}
+Mitsu Yoshimura, Norio Mine, Tamiko Kai, and Yoshimura Isao.
+\newblock {Quantification of Characteristic Features of Japanese Dance for}.
+\newblock pages 188--193, 2005.
 
 \end{thebibliography}
