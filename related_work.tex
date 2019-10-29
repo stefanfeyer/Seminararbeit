@@ -62,13 +62,13 @@ because I chose to split by topics (task, measures...) here is an overview over 
 
 \subsection{LightGuide}
 \begin{itemize}
-	\item[Hardware:] 
-	\item[Task:] 
-	\item[Perspectives:] 
-	\item[Measures:] 
+	\item[Hardware:] Depth Camera, Projector 
+	\item[Task:] Abstract movement figures
+	\item[Perspectives:] Ego.centric
+	\item[Measures:] Accuracy
 	\item[investigation:] 
-	\item[variables:] 
-	\item[Outcome:] 
+	\item[variables:] independent: guiding technique, dependent accuracy
+	\item[Outcome:] 85\% more accuracy compared to video
 \end{itemize}
 
 \subsection{Generic Heading}
@@ -114,6 +114,14 @@ The task in Chua's \cite{Chua} \textbf{Tai Chi trainer} is \--- as the name indi
 %---
 Jacky Chan et al. developed a \textbf{VR Dance trainer} \cite{Chan2011}. For their system they invited professional Hip-Hop dancers and recorded their movements. The learner of the movement can choose a movement out of a database. One movement lasts around 2 seconds. First, the teacher appears and the student watches the demonstration, while he can adjust the demonstration speed and viewpoint. After that, the student practices the dance moves by mimicking the teachers avatar. Finally the student can see a slow motion replay of the performance. One hole session takes 15 minutes.
 %---
+In contrast to all other systems, Lightguide by Sodhi et al. \cite{Sodhi2012} build on abstract movements to evaluate their system. Sodhi et al. focus on single arm movements, directed by an guidance visualisation on the hand. The participants perform five movements, namely a line, a "N", a square, a circle and a bowed line, compare figure \ref{fig:lightguide1} left. All movements were performed in three different angles, like shown in figure \ref{fig:lightguide1} right.
+\begin{figure}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/lightguide_movements.PNG}
+	\caption{movements by lightguide \cite{Sodhi2012}}
+	\label{fig:lightguide1}
+\end{figure}\\
+These movements were performed with six conditions resulting in 90 dataset per participant (6 conditions x 5 path x 3 angles).
 %---
 %---
 %---
@@ -137,6 +145,7 @@ YouMove \cite{Anderson2013} provides multiple stages for the learning process: (
 %---
 Chan et al. \cite{Chan2011} facilitate a 3D screen for rendering the avatars. The student is tracked by an optical motion capturing system. In the first phase (demonstration) only the teacher is shown on the screen. In the second phase (practise) teacher and student can be seen simultaneously, standing side by side. Additionally, both avatars are mirrored, so the exo centric viewer can observe the avatars from back and the front at the same time, compare figure \ref{fig:vrdt}. In the final phase (feedback) the student sees the teacher and the students performance in slow motion side by side.
 %---
+LightGuide \cite{Sodhi2012} achieved an ego-centric guidance without using a HMD. The student stands under a depth camera and a projector. The depth camera tracks the hand of the student. This position is utilised and the guidance visualisation is projected directly on the users hand. During the evaluation of the system, four conditions used this ego-centric position. The remaining conditions shown exo-centric on a screen or directly on the hand.
 %---
 %---
 %---
@@ -164,8 +173,22 @@ The visualisations in Chan et al. VR Dance Trainer choose two diffrent visual re
 	\caption{\todo \cite{Chan2011}}
 	\label{fig:vrdt}
 \end{figure}
-
 %---
+%visual appearence --- shape and colour
+%gudance technique
+%feedback
+%realism degree
+LightGuide \cite{Sodhi2012} compare six guidance visualisations:
+\begin{itemize}
+	\item Follow Spot: Moving light spot with elevation information. System sets pace.
+	\item 3D F-Arrow: 3D arrow indicates the direction to move. System sets pace.
+	\item 3D SG-Arrow: 3D arrow indicates the direction to move. User sets pace.
+	\item 3D Pathlet: a line indicates the direction to move next. Current position indicated by a red spot.System sets pace.
+	\item Video on hand: Instruction video projected on the hand. User sets pace.
+	\item Video on screen: Traditional instruction video .User sets pace.
+\end{itemize}
+The main idea behind a guidance visualisation directly on the students body itself, is that the student can concentrate on the bodypart in question and not share the  with a instruction medium. The last condition proofed to be better than the second last, supporting this theses.
+The student gets instant feedback by comparing the indicators with the hand. A larger offset results in increased indication in real time.
 %---
 %---
 %---
@@ -198,6 +221,7 @@ While Chua et al. calculate the error of the performed movement over all tracked
 %---
 Chan et al. evaluate the students performance with the VR Dance Trainer. Therefore they specified 19 body parts (compare \ref{fig:vrdt} right) and calculate a score between 0 and 100. The average over the 19 numeric indicators results in the overall performance. Before and after the training session of one move this score was calculated. Additionally, a postcourse survey asked the student specific questions about the system. This survey had the aim to evaluate if the "[...] system is interesting and able to motivate subjects to learn." \cite{Chan2011} and if the "[...] the system can provide them an easy way to learn" ibidem.
 %---
+Sodhi et al \cite{Sodhi2012} compare in LightGuides evaluation the five conditions where the instruction in directly on the body of the user with a baseline condition where the instruction is on a screen. To measure the performance of the student, Sodh et al. developed two measures: movement accuracy and movement times. Movement accuracy describes the absolute euclidean distance from the closest point. Movement times is devided in two sections by the reason that half of the conditions were self timed and the half the pace was set by the system. For the self timed conditions the completion time is taken as measure, for system paced conditions the time before or after is taken as measure. Though, independent variable are the conditions, dependet variables are performance.
 %---
 %---
 
@@ -221,6 +245,8 @@ Anderson et al. compared YouMove with traditional video training, resulting in t
 %---
 Chan et al. investigated three topics with the VR Dance Trainer. First the learning outcome, to proof if the student really got better with the system. Second, the "Arousing Interest" to inversigate weather the system motivates the students to learn. Eventually they compared the system with a traditional Self-leraning method. Comparing the the baseline score befre a training with the VR Dance Trainer with the score after the training session proofed a significant better performance. The post survey is interpreted by the authors with "Overall speaking, the subjects enjoy learning dance with our proposed system." ibidem. To compare the system with a traditional learning method, a control group conducted the same study only with the demonstration and no feedback. The basline scores showed no significant difference between the two groups but the post training scores did. Questionable remains, if a recording of a professional dancer rendered as an high realism degree avatar on a 3D screen can be called a traditional dance learning method.
 %---
+Main finding of Sodhi et al. while evaluating LightGuide is an 85\% higher accuracy of ego-centric on body projections compared to a exo-centric video instructions.
+Per student 90 datasets are generated (6 conditions x 5 path x 3 angles). The performance measure they applied, the conditions scored (best to worst): Follow Spot $<$ 3D F-Arrow $<$ 3d G-Arrow $<$ 3D Pathlet $<$ Video Hand $<$ Video Screen. Especially the relation between video on screen and video hand shows the importance of attention during guidance instruction. The instruction on the bodypart it self scored better than seeing the instruction on a screen. In terms of \textit{movement times}, both video conditions lead to lower movement times. Sodhi et al. see the reason therefore, that it makes a difference if the student sees the whole path before hand than or figuring out the movement as they moved along. Additionally, in an interview, participants of the study stated that self paced guidance are subjectivly like more than system paced. For system paced movement speed 30mm per second scored best in an pilot test. Further they suggest to plan regular recovery rests to exclude fatigue effects.
 %---
 \subsubsection{Conclusion}
 
