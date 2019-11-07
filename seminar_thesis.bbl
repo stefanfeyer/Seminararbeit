@@ -1,10 +1,29 @@
 \begin{thebibliography}{10}
 
+\bibitem{Ahmad2016}
+Akhlaq Ahmad, Mohamed~Abdur Rahman, Fraser Anderson, Tovi Grossman, Justin
+  Matejka, Omid Dehzangi, and Zheng Zhao.
+\newblock {New York, NY, USA, 3272–3276. DOI:}.
+\newblock 2016.
+
 \bibitem{Anderson2013}
 Fraser Anderson, Tovi Grossman, Justin Matejka, and George Fitzmaurice.
 \newblock {YouMove : Enhancing Movement Training with an Augmented Reality
   Mirror}.
 \newblock pages 311--320, 2013.
+
+\bibitem{Bakogianni2007}
+Sophia Bakogianni, Evangelia Kavakli, Vicky Karkou, and Maroussa Tsakogianni.
+\newblock {Teaching traditional dance using e-learning tools: Experience from
+  the WebDance project}.
+\newblock {\em Proceedings DVD of the 21st World Congress on Dance Research},
+  (May 2014):1--16, 2007.
+
+\bibitem{Chan2007}
+Jacky Chan, Howard Leung, Kai~Tai Tang, and Taku Komura.
+\newblock {Immersive Performance Training Tools Using Motion Capture
+  Technology}.
+\newblock {\em Proceedings of the ImmersCom}, 2007.
 
 \bibitem{Chan2011}
 Jacky C~P Chan, Howard Leung, Jeff K~T Tang, and Taku Komura.
@@ -51,10 +70,21 @@ Richard Schmidt and Tim Lee.
 \newblock {\em {Motor Control and Learning: A Behavioral Approach}}.
 \newblock 2011.
 
+\bibitem{Sidharta2005}
+Ronald Sidharta and Carolina Cruz-Neira.
+\newblock {Cyclone Uppercut, a boxing game for an immersive environment}.
+\newblock {\em Ace 2005}, (January 2005):363--364, 2005.
+
 \bibitem{Sodhi2012}
 Rajinder Sodhi.
 \newblock {LightGuide : Projected Visualizations for Hand Movement Guidance}.
 \newblock pages 179--188, 2012.
+
+\bibitem{Tang2015}
+Richard Tang, Anthony Tang, Xing-dong~Yang Scott, and Joaquim Jorge.
+\newblock {Physio @ Home : Exploring visual guidance and feedback techniques
+  for physiotherapy exercises}.
+\newblock 2015.
 
 \bibitem{Wang2001}
 Wenbi Wang and Paul Milgram.

@@ -22,36 +22,27 @@
 \contentsline {section}{\numberline {2.4}Conclusion}{13}% 
 \contentsline {chapter}{\chapternumberline {3}Related Work}{15}% 
 \contentsline {section}{\numberline {3.1}Overview}{15}% 
-\contentsline {section}{\numberline {3.2}Comprehension of the papers analysed}{15}% 
-\contentsline {subsection}{In detail - A VR Dance Training System Using Motion Capture Technology}{15}% 
-\contentsline {subsection}{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}{16}% 
-\contentsline {subsection}{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}{16}% 
-\contentsline {subsection}{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}{16}% 
-\contentsline {subsection}{AR-Arm and tARget}{17}% 
-\contentsline {subsection}{LightGuide}{17}% 
-\contentsline {subsection}{Generic Heading}{17}% 
-\contentsline {subsection}{Generic Heading}{18}% 
-\contentsline {subsection}{Generic Heading}{18}% 
-\contentsline {section}{\numberline {3.3}Analysis}{19}% 
-\contentsline {subsection}{Study task}{19}% 
+\contentsline {section}{\numberline {3.2}Analysis}{15}% 
+\contentsline {subsection}{Study task}{15}% 
+\contentsline {subsubsection}{Conclusion}{18}% 
+\contentsline {subsection}{Implemented Visual Perspective}{18}% 
 \contentsline {subsubsection}{Conclusion}{20}% 
-\contentsline {subsection}{Implemented Visual Perspective}{20}% 
-\contentsline {subsubsection}{Conclusion}{22}% 
-\contentsline {subsection}{Guidance visualisation}{22}% 
-\contentsline {subsubsection}{Conclusion}{25}% 
+\contentsline {subsection}{Guidance visualisation}{21}% 
+\contentsline {subsubsection}{Conclusion}{24}% 
 \contentsline {subsection}{Dependent variables}{25}% 
 \contentsline {subsubsection}{Conclusion}{27}% 
 \contentsline {subsection}{Results}{27}% 
 \contentsline {subsubsection}{Conclusion}{29}% 
-\contentsline {section}{\numberline {3.4}conclusion}{29}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Setting}{31}% 
-\contentsline {section}{\numberline {4.1}Hypothesises}{31}% 
-\contentsline {section}{\numberline {4.2}Variables}{31}% 
-\contentsline {subsection}{Independent Variables}{31}% 
-\contentsline {subsection}{Dependent variables}{32}% 
-\contentsline {section}{\numberline {4.3}Task}{32}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{33}% 
-\contentsline {section}{\numberline {5.1}Timetable}{33}% 
-\contentsline {chapter}{Bibliography}{35}% 
-\contentsline {chapter}{List of Figures}{36}% 
-\contentsline {chapter}{List of Tables}{37}% 
+\contentsline {section}{\numberline {3.3}conclusion}{30}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Design}{33}% 
+\contentsline {section}{\numberline {4.1}Hypothesises}{33}% 
+\contentsline {section}{\numberline {4.2}parameters}{33}% 
+\contentsline {section}{\numberline {4.3}Variables}{33}% 
+\contentsline {subsection}{Independent Variables}{33}% 
+\contentsline {subsection}{Dependent variables}{34}% 
+\contentsline {section}{\numberline {4.4}Task}{34}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{35}% 
+\contentsline {section}{\numberline {5.1}Timetable}{35}% 
+\contentsline {chapter}{Bibliography}{37}% 
+\contentsline {chapter}{List of Figures}{38}% 
+\contentsline {chapter}{List of Tables}{39}% 
