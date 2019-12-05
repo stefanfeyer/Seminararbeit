@@ -1,90 +1,114 @@
 \begin{thebibliography}{10}
 
-\bibitem{Ahmad2016}
-Akhlaq Ahmad, Mohamed~Abdur Rahman, Fraser Anderson, Tovi Grossman, Justin
-  Matejka, Omid Dehzangi, and Zheng Zhao.
-\newblock {New York, NY, USA, 3272–3276. DOI:}.
-\newblock 2016.
-
-\bibitem{Anderson2013}
+\bibitem{Anderson2013a}
 Fraser Anderson, Tovi Grossman, Justin Matejka, and George Fitzmaurice.
-\newblock {YouMove : Enhancing Movement Training with an Augmented Reality
+\newblock {YouMove: Enhancing Movement Training with an Augmented Reality
   Mirror}.
-\newblock pages 311--320, 2013.
+\newblock In {\em Proceedings of the 26th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '13, pages 311--320, New York, NY,
+  USA, 2013. ACM.
 
-\bibitem{Bakogianni2007}
-Sophia Bakogianni, Evangelia Kavakli, Vicky Karkou, and Maroussa Tsakogianni.
-\newblock {Teaching traditional dance using e-learning tools: Experience from
-  the WebDance project}.
-\newblock {\em Proceedings DVD of the 21st World Congress on Dance Research},
-  (May 2014):1--16, 2007.
-
-\bibitem{Chan2007}
-Jacky Chan, Howard Leung, Kai~Tai Tang, and Taku Komura.
-\newblock {Immersive Performance Training Tools Using Motion Capture
-  Technology}.
-\newblock {\em Proceedings of the ImmersCom}, 2007.
-
-\bibitem{Chan2011}
-Jacky C~P Chan, Howard Leung, Jeff K~T Tang, and Taku Komura.
+\bibitem{Chan2011a}
+J~C~P Chan, H~Leung, J~K~T Tang, and T~Komura.
 \newblock {A Virtual Reality Dance Training System Using Motion Capture
   Technology}.
-\newblock 4(2):187--195, 2011.
+\newblock {\em IEEE Transactions on Learning Technologies}, 4(2):187--195, apr
+  2011.
 
 \bibitem{Choensawat2015}
 Worawat Choensawat, Minako Nakamura, and Kozaburo Hachimura.
-\newblock {GenLaban: A tool for generating Labanotation from motion capture
-  data}.
-\newblock {\em Multimedia Tools and Applications}, 74(23):10823--10846, 2015.
+\newblock {GenLaban: A Tool for Generating Labanotation from Motion Capture
+  Data}.
+\newblock {\em Multimedia Tools Appl.}, 74(23):10823--10846, dec 2015.
 
-\bibitem{Chua}
-Philo~Tan Chua and Russ Schaaf.
-\newblock {Training for Physical Tasks in Virtual Environments : Tai Chi}.
+\bibitem{Hachimura2004}
+K~Hachimura, H~Kato, and H~Tamura.
+\newblock {A prototype dance training support system with motion capture and
+  mixed reality technologies}.
+\newblock In {\em RO-MAN 2004. 13th IEEE International Workshop on Robot and
+  Human Interactive Communication (IEEE Catalog No.04TH8759)}, pages 217--222,
+  2004.
 
-\bibitem{GangQian2005}
-{Gang Qian}, {Feng Guo}, T.~Ingalls, L.~Olson, J.~James, and T.~Rikakis.
-\newblock {A gesture-driven multimodal interactive dance system}.
-\newblock (January):1579--1582, 2005.
+\bibitem{Han2016}
+Ping-Hsuan Han, Kuan-Wen Chen, Chen-Hsin Hsieh, Yu-Jie Huang, and Yi-Ping Hung.
+\newblock {AR-Arm: Augmented Visualization for Guiding Arm Movement in the
+  First-Person Perspective}.
+\newblock In {\em Proceedings of the 7th Augmented Human International
+  Conference 2016}, AH '16, pages 31:1----31:4, New York, NY, USA, 2016. ACM.
 
-\bibitem{Hachimura2005}
-Kozaburo Hachimura, Katsumi Takashina, and Mitsu Yoshimura.
-\newblock {Analysis and evaluation of dancing movement based on LMA}.
-\newblock {\em Proceedings - IEEE International Workshop on Robot and Human
-  Interactive Communication}, 2005:294--299, 2005.
+\bibitem{Han2017}
+Ping-Hsuan Han, Yang-Sheng Chen, Yilun Zhong, Han-Lei Wang, and Yi-Ping Hung.
+\newblock {My Tai-Chi Coaches: An Augmented-learning Tool for Practicing
+  Tai-Chi Chuan}.
+\newblock In {\em Proceedings of the 8th Augmented Human International
+  Conference}, AH '17, pages 25:1----25:4, New York, NY, USA, 2017. ACM.
 
 \bibitem{Hoang2016}
-Thuong~N Hoang, Martin Reinoso, Farnk Vetere, and Egemen Tanin.
-\newblock {Onebody : Remote Posture Guidance System using First Person View in
+Thuong~N Hoang, Martin Reinoso, Frank Vetere, and Egemen Tanin.
+\newblock {Onebody: Remote Posture Guidance System Using First Person View in
   Virtual Environment}.
-\newblock 2016.
+\newblock In {\em Proceedings of the 9th Nordic Conference on Human-Computer
+  Interaction}, NordiCHI '16, pages 25:1----25:10, New York, NY, USA, 2016.
+  ACM.
+
+\bibitem{Katzakis2017}
+Nicholas Katzakis, Jonathan Tong, Oscar Ariza, Lihan Chen, Gudrun Klinker,
+  Brigitte R{\"{o}}der, and Frank Steinicke.
+\newblock {Stylo and Handifact: Modulating Haptic Perception Through
+  Visualizations for Posture Training in Augmented Reality}.
+\newblock In {\em Proceedings of the 5th Symposium on Spatial User
+  Interaction}, SUI '17, pages 58--67, New York, NY, USA, 2017. ACM.
+
+\bibitem{LaViola2017}
+Joseph~J LaViola.
+\newblock {3D user interfaces: theory and practice }, 2017.
 
 \bibitem{Milgram1994}
 Paul Milgram and Fumio Kishino.
-\newblock {A TAXONOMY OF MIXED REALITY VISUAL DISPLAYS. IEICE Transactions on
-  Information Systems, Vol E77-D, No.12}.
-\newblock {\em IEICE Transactions on Information Systems}, E77-D(12):1--15,
-  1994.
+\newblock {A Taxonomy of Mixed Reality Visual Displays}.
+\newblock {\em IEICE Trans. Information Systems}, vol. E77-D:1321--1329, 1994.
+
+\bibitem{Chua2003}
+{Philo Tan Chua}, R~Crivella, B~Daly, {Ning Hu}, R~Schaaf, D~Ventura, T~Camill,
+  J~Hodgins, and R~Pausch.
+\newblock {Training for physical tasks in virtual environments: Tai Chi}.
+\newblock In {\em IEEE Virtual Reality, 2003. Proceedings.}, pages 87--94, mar
+  2003.
+
+\bibitem{Portillo2008}
+Otniel Portillo-Rodriguez, Oscar~O Sandoval-Gonzalez, Emanuele Ruffaldi,
+  Rosario Leonardi, Carlo~Alberto Avizzano, and Massimo Bergamasco.
+\newblock {Real-Time Gesture Recognition, Evaluation and Feed-Forward
+  Correction of a Multimodal Tai-Chi Platform}.
+\newblock In Antti Pirhonen and Stephen Brewster, editors, {\em Haptic and
+  Audio Interaction Design}, pages 30--39, Berlin, Heidelberg, 2008. Springer
+  Berlin Heidelberg.
+
+\bibitem{Qian2005}
+Stjepan Rajko and Gang Qian.
+\newblock {A Hybrid HMM/DPA Adaptive Gesture Recognition Method}.
+\newblock In George Bebis, Richard Boyle, Darko Koracin, and Bahram Parvin,
+  editors, {\em Advances in Visual Computing}, pages 227--234, Berlin,
+  Heidelberg, 2005. Springer Berlin Heidelberg.
 
 \bibitem{Schmidt2011}
-Richard Schmidt and Tim Lee.
-\newblock {\em {Motor Control and Learning: A Behavioral Approach}}.
-\newblock 2011.
-
-\bibitem{Sidharta2005}
-Ronald Sidharta and Carolina Cruz-Neira.
-\newblock {Cyclone Uppercut, a boxing game for an immersive environment}.
-\newblock {\em Ace 2005}, (January 2005):363--364, 2005.
+Richard~A. Schmidt and Tim Lee.
+\newblock {\em {Motor Control and Learning}}.
+\newblock Human Kinetics, 5th editio edition, 2011.
 
 \bibitem{Sodhi2012}
-Rajinder Sodhi.
-\newblock {LightGuide : Projected Visualizations for Hand Movement Guidance}.
-\newblock pages 179--188, 2012.
+Rajinder Sodhi, Hrvoje Benko, and Andrew Wilson.
+\newblock {LightGuide: Projected Visualizations for Hand Movement Guidance}.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '12, pages 179--188, New York, NY, USA, 2012. ACM.
 
 \bibitem{Tang2015}
-Richard Tang, Anthony Tang, Xing-dong~Yang Scott, and Joaquim Jorge.
-\newblock {Physio @ Home : Exploring visual guidance and feedback techniques
-  for physiotherapy exercises}.
-\newblock 2015.
+Richard Tang, Xing-Dong Yang, Scott Bateman, Joaquim Jorge, and Anthony Tang.
+\newblock {Physio@Home: Exploring Visual Guidance and Feedback Techniques for
+  Physiotherapy Exercises}.
+\newblock In {\em Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, CHI '15, pages 4123--4132, New York, NY, USA,
+  2015. ACM.
 
 \bibitem{Wang2001}
 Wenbi Wang and Paul Milgram.
@@ -92,9 +116,19 @@ Wenbi Wang and Paul Milgram.
   Environments}.
 \newblock {\em Human Factors}, pages 1862--1866, 2001.
 
-\bibitem{Yoshimura2005}
-Mitsu Yoshimura, Norio Mine, Tamiko Kai, and Yoshimura Isao.
-\newblock {Quantification of Characteristic Features of Japanese Dance for}.
-\newblock pages 188--193, 2005.
+\bibitem{Yan2015}
+Shuo Yan, Gangyi Ding, Zheng Guan, Ningxiao Sun, Hongsong Li, and Longfei
+  Zhang.
+\newblock {OutsideMe: Augmenting Dancer's External Self-Image by Using A Mixed
+  Reality System}.
+\newblock In {\em Proceedings of the 33rd Annual ACM Conference Extended
+  Abstracts on Human Factors in Computing Systems}, CHI EA '15, pages 965--970,
+  New York, NY, USA, 2015. ACM.
+
+\bibitem{Yoshimura2006}
+Mitsu Yoshimura, Hideki Murasato, Tamiko Kai, Akira Kuromiya, Kiyoko Yokoyama,
+  and Kozaburo Hachimura.
+\newblock {Analysis of Japanese dance movements using motion capture system}.
+\newblock {\em Systems and Computers in Japan}, 37(1):71--82, 2006.
 
 \end{thebibliography}

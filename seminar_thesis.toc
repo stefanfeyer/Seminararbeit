@@ -4,45 +4,42 @@
 \contentsline {section}{\numberline {1.2}Outline}{3}% 
 \contentsline {chapter}{\chapternumberline {2}Theory and Scope}{5}% 
 \contentsline {section}{\numberline {2.1}Visual Perspectives}{5}% 
-\contentsline {subsection}{Degree of realism of teacher avatar}{6}% 
-\contentsline {subsection}{Feedback and instruction behaviour}{6}% 
 \contentsline {section}{\numberline {2.2}Motor Learning}{6}% 
 \contentsline {subsection}{Learning movements}{6}% 
 \contentsline {subsection}{Movement classification}{7}% 
 \contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{7}% 
 \contentsline {subsubsection}{Open and Closed Skills}{8}% 
-\contentsline {subsection}{Quantify movements \leavevmode {\color {red}\textbf {TODO}}in measures}{9}% 
-\contentsline {subsection}{Measuring movements}{10}% 
+\contentsline {subsection}{Measuring movements}{9}% 
 \contentsline {subsubsection}{Measures of Error for a Single Subject}{10}% 
 \contentsline {subsubsection}{Measures of Time and Speed}{11}% 
-\contentsline {subsubsection}{Measures of Movement Magnitude}{12}% 
-\contentsline {section}{\numberline {2.3}Mixed Reality}{12}% 
+\contentsline {subsubsection}{Measures of Movement Magnitude}{11}% 
+\contentsline {section}{\numberline {2.3}Mixed Reality}{11}% 
 \contentsline {subsection}{VR Technologies}{12}% 
 \contentsline {subsection}{Motion Tracking Technologies}{12}% 
-\contentsline {section}{\numberline {2.4}Conclusion}{13}% 
-\contentsline {chapter}{\chapternumberline {3}Related Work}{15}% 
-\contentsline {section}{\numberline {3.1}Overview}{15}% 
-\contentsline {section}{\numberline {3.2}Analysis}{15}% 
-\contentsline {subsection}{Study task}{15}% 
-\contentsline {subsubsection}{Conclusion}{18}% 
-\contentsline {subsection}{Implemented Visual Perspective}{18}% 
-\contentsline {subsubsection}{Conclusion}{20}% 
-\contentsline {subsection}{Guidance visualisation}{21}% 
-\contentsline {subsubsection}{Conclusion}{24}% 
-\contentsline {subsection}{Dependent variables}{25}% 
-\contentsline {subsubsection}{Conclusion}{27}% 
-\contentsline {subsection}{Results}{27}% 
-\contentsline {subsubsection}{Conclusion}{29}% 
-\contentsline {section}{\numberline {3.3}conclusion}{30}% 
-\contentsline {chapter}{\chapternumberline {4}Proposed Study Design}{33}% 
-\contentsline {section}{\numberline {4.1}Hypothesises}{33}% 
-\contentsline {section}{\numberline {4.2}parameters}{33}% 
-\contentsline {section}{\numberline {4.3}Variables}{33}% 
-\contentsline {subsection}{Independent Variables}{33}% 
-\contentsline {subsection}{Dependent variables}{34}% 
-\contentsline {section}{\numberline {4.4}Task}{34}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{35}% 
-\contentsline {section}{\numberline {5.1}Timetable}{35}% 
-\contentsline {chapter}{Bibliography}{37}% 
-\contentsline {chapter}{List of Figures}{38}% 
-\contentsline {chapter}{List of Tables}{39}% 
+\contentsline {section}{\numberline {2.4}Conclusion}{12}% 
+\contentsline {chapter}{\chapternumberline {3}Related Work}{13}% 
+\contentsline {section}{\numberline {3.1}Overview}{13}% 
+\contentsline {section}{\numberline {3.2}Analysis}{13}% 
+\contentsline {subsection}{Implemented Visual Perspective}{13}% 
+\contentsline {subsubsection}{Conclusion}{16}% 
+\contentsline {subsection}{Study task}{17}% 
+\contentsline {subsubsection}{Conclusion}{19}% 
+\contentsline {subsection}{Guidance visualisation}{20}% 
+\contentsline {subsubsection}{Conclusion}{23}% 
+\contentsline {subsection}{Dependent variables}{23}% 
+\contentsline {subsubsection}{Conclusion}{25}% 
+\contentsline {subsection}{Results}{26}% 
+\contentsline {subsubsection}{Conclusion}{28}% 
+\contentsline {section}{\numberline {3.3}conclusion}{28}% 
+\contentsline {chapter}{\chapternumberline {4}Proposed Study Design}{31}% 
+\contentsline {section}{\numberline {4.1}Hypothesises}{31}% 
+\contentsline {section}{\numberline {4.2}parameters}{31}% 
+\contentsline {section}{\numberline {4.3}Variables}{31}% 
+\contentsline {subsection}{Independent Variables}{31}% 
+\contentsline {subsection}{Dependent variables}{32}% 
+\contentsline {section}{\numberline {4.4}Task}{32}% 
+\contentsline {chapter}{\chapternumberline {5}Outlook}{33}% 
+\contentsline {section}{\numberline {5.1}Timetable}{33}% 
+\contentsline {chapter}{Bibliography}{35}% 
+\contentsline {chapter}{List of Figures}{37}% 
+\contentsline {chapter}{List of Tables}{38}% 

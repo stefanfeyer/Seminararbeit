@@ -4,134 +4,60 @@ Define study parameters by analysing related work.
 %In chapter 2 A1, A3, A4, A6, A7, A10, A14 and 15 are already discussed. In this chapter the remaining aspects are analysed by investigating how other researchers decided on them. The remaining aspects are dependent variables (A2), the task (A5), the MR technology to use (A8), the tracking technology (A9), the behaviour of the instructions (A11), the measures to apply (A12) and the considered body parts (A14). These aspects are better discussed at existing systems to make sure the study having a high validity. This chapter is structured by means of the perspective though the independent variables, namely ego-centric, exo-centric and the combination of both. In this subchapters the aspects are discussed and concluded. In the overall conclusion a decision is made for the aspects by comparing them to each other. eg, the task must be suitable for all perspectives.
 
 \section{Overview}
-aggregated overview over the rest of the papers goes here.
-%Computer aided Motor learning proved to be vast topic in recent research. Systems exist e.g. for learning dancing with web technologies \cite{Bakogianni2007},
-%dancing with motion capturing \cite{Chan2007}
-%dancing kinect CAVE \cite{Ahmad2016}
-%boxing game \cite{Sidharta2005}
-%rehab \cite{Holden1999}
-
-
-
-table with overall conclusion
-\begin{table}[H]
-	\begin{tabular}{|l|l|l|l|l|l|}
-		\hline
-		Study Task & Implemented Perspective & Guidance Visualisation & Dependent Variables & Results & \\ \hline
-		&  &  &  &  & \\ \hline
-	\end{tabular}
-	\caption{Table of the conclusion}
+Table \ref{tbl:overviewTable} shows previous work of researchers connected with motor learning in MR. In total there five classes of tasks they used for evaluation. The most common task is \textit{arts}, like Martial Arts or Tai Chi \cite{Han2016}, \cite{Yan2015}, \cite{Katzakis2017}, \cite{Han2017}, \cite{Portillo2008}, \cite{Hoang2016}, \cite{Chua2003} \cite{Anderson2013a}
+\begin{table}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/overview_table.png}
+	\caption{overview all papers \todo ref as table}
+	\label{tbl:overviewTable}
 \end{table}
-\begin{comment}
+\begin{table}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/detail_paper_overview.png}
+	\caption{detail paper overview \todo ref as table}
+	\label{tbl:detailOverviewTable}
+\end{table}
 
-\subsection{In detail - A VR Dance Training System Using Motion Capture Technology}
-\begin{itemize}
-	\item[Hardware:] Optical Motion tracking, 3D screen
-	\item[Task:] Dance moves
-	\item[Perspectives:] exo-centric
-	\item[Measures:] position
-	\item[investigation:] Comparing video based learning with VR learning with feedback
-	\item[variables:] independent: training method, dependent: precision
-	\item[Outcome:] better assists in learning compared to traditional video approach, as well as more motivation an fun
-\end{itemize}
 
-\subsection{in detail - Onebody: Remote Posture Guidance System using First Person View in Virtual Environment}
-\begin{itemize}
-	\item[Hardware:] Kinect, Oculus Rift
-	\item[Task:] sports, dance, martial arts, yoga
-	\item[Perspectives:] Ego-centric
-	\item[Measures:] Position, completion time, subjective score
-	\item[investigation:] comparing different remote guidance systems: onebody, pre recorded video, video conference, VR third person
-	\item[variables:] Independent: training method, dependent: performance
-	\item[Outcome:] Onebody offers better posture accuracy in delivering movement instructions
-\end{itemize}
-
-\subsection{In detail - Training for Physical Tasks in Virtual Environments: Tai Chi}
-\begin{itemize}
-	\item[Hardware:] HMD, Optical motion tracking
-	\item[Task:] Tai Chi
-	\item[Perspectives:] Ego-centric, exo-centric \& egocentric combined
-	\item[Measures:] position
-	\item[investigation:] different perspectives on virtual avatar(s)
-	\item[variables:] independent: perspectives, dependent: precision
-	\item[Outcome:] None representation proved to be significantly better than the other representations
-\end{itemize}
-
-\subsection{YouMove: Enhancing Movement Training with an Augmented Reality Mirror}
-\begin{itemize}
-	\item[Hardware:] Augmented reality mirror, Kinect
-	\item[Task:] dance moves, sport moves
-	\item[Perspectives:] exo-centric, ego-centric, combined
-	\item[Measures:] position matching
-	\item[investigation:] Comparing video based learning with YouMove
-	\item[variables:] independent: training method, dependent: precision
-	\item[Outcome:] learning and short-term retention better than traditional video representation
-\end{itemize}
-
-\subsection{AR-Arm and tARget}
-\begin{itemize}
-	\item[Hardware:] 
-	\item[Task:] 
-	\item[Perspectives:] 
-	\item[Measures:] 
-	\item[investigation:] 
-	\item[variables:] 
-	\item[Outcome:] 
-\end{itemize}
-
-\subsection{LightGuide}
-\begin{itemize}
-	\item[Hardware:] Depth Camera, Projector 
-	\item[Task:] Abstract movement figures
-	\item[Perspectives:] Ego.centric
-	\item[Measures:] Accuracy
-	\item[investigation:] 
-	\item[variables:] independent: guiding technique, dependent accuracy
-	\item[Outcome:] 85\% more accuracy compared to video
-\end{itemize}
-
-\subsection{Generic Heading}
-\begin{itemize}
-	\item[Hardware:] 
-	\item[Task:] 
-	\item[Perspectives:] 
-	\item[Measures:] 
-	\item[investigation:] 
-	\item[variables:] 
-	\item[Outcome:] 
-\end{itemize}
-
-\subsection{Generic Heading}
-\begin{itemize}
-	\item[Hardware:] 
-	\item[Task:] 
-	\item[Perspectives:] 
-	\item[Measures:] 
-	\item[investigation:] 
-	\item[variables:] 
-	\item[Outcome:] 
-\end{itemize}
-
-\subsection{Generic Heading}
-\begin{itemize}
-	\item[Hardware:] 
-	\item[Task:] 
-	\item[Perspectives:] 
-	\item[Measures:] 
-	\item[investigation:] 
-	\item[variables:] 
-	\item[Outcome:] 
-\end{itemize}
-\end{comment}
 \section{Analysis}
+\subsection{Implemented Visual Perspective}
+%how are they implemented and technology
+%---
+Chua et al. \cite{Chua2003} implemented five different perspectives to teach with \textbf{Tai Chi Trainer}, compare \ref{fig:taichiperspectives}. There are three exo-centric perspectives (a-c, further called conditions a-c) and two ego-centric perspectives combined with exocentric (d,e, further called conditions d,e). In \textbf{One on One} the student stand next to one teacher, which is closest to a real world training scenario \ref{fig:taichiperspectives}(a). In con \--- \textbf{Four Teachers} \--- the student is surrounded by four teachers, with the student in the middle \ref{fig:taichiperspectives}(b). The \textbf{Side by Side} \ref{fig:taichiperspectives}(c) condition shows four pairs of teacher and student in the same formation as in condition (b). The first ego-centric \& combined condition is called \textbf{Superimposition 1} \ref{fig:taichiperspectives}(d). Here the formation still remains, but the student in the middle is surrounded by four more students. On each of the student a red wireframe teacher is superimposed. \textbf{Superimposition 2} \ref{fig:taichiperspectives}(e), is similar to Superimposition 1 and differs only in the visual representation: the student is now a green, transparent wireframe. Chua et al. use no pure ego-centric perspective, since in the latter two conditions the teacher can be seen also from the exo-centric perspective.
+\begin{figure}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/taichi_perspectives.png}
+	\caption{Used perspectives at \cite{Chua2003}}
+	\label{fig:taichiperspectives}
+\end{figure}\\
+%---
+$ $\\
+\textbf{YouMove} uses Microsoft Kinect (\todo ref) to record motions and to track the student. The recorded instruction as well as the students movements are projected on an AR mirror. The special about this mirror is, that the degree of reflection can be changed by simply adjusting the light in the room. With this, the student can see his own real body as reflection as well as the projection of a beamer simultaneously. If the room is bright, the student sees only his reflection and in a dark room only the projection is visible.\\ 
+YouMove provides multiple stages for the learning process: (1) Demonstration, (2) Posture Guide, (3) Movement Guide, (4) Mirror, (5) On your own. In stages 1-3, the student sees the guidance visualisation in the exo-centric perspective. In (1) the user sees a video of the movement. In stage 2 \& 3 the user is superimposed by a skeleton. Stage 4 \& 5 does not allow a view on the teachers representation. After each stage a feedback is given. This view provides multiple views for the four keyframes: a skeleton of the teacher and student superimposed, a video of the teachers demonstration and a video of the moves of the student.\\ \\
+%---
+\textbf{VR Dance Trainer}. Chan et al. \cite{Chan2011a} facilitate a 3D screen for rendering the avatars. The student is tracked by an optical motion capturing system. In the first phase (demonstration) only the teacher is shown on the screen. In the second phase (practise) teacher and student can be seen simultaneously, standing side by side. Additionally, both avatars are mirrored, so the exo centric viewer can observe the avatars from back and the front at the same time, compare figure \ref{fig:vrdt}. In the final phase (feedback) the student sees the teacher and the students performance in slow motion side by side.\\ \\
+%---
+\textbf{LightGuide} \cite{Sodhi2012} achieved an ego-centric guidance without using a HMD. The student stands under a depth camera and a projector. The depth camera tracks the hand of the student. This position is utilised and the guidance visualisation is projected directly on the users hand. During the evaluation of the system, four conditions used this ego-centric position. The remaining conditions shown exo-centric on a screen or directly on the hand.\\ \\
+%---
+\textbf{Onebody} \cite{Hoang2016} show the guidance visualisation in an ego-centric perspective, too, but with an HMD. The teacher is projected inside the body of the student. Both, teacher and student are tracked by skeletal tracking, using a Microsoft Kinect \todo. The visualisation of the teacher is attached to the hip of the student. To overcome different body sizes, the avatars are normalised and scaled to the size of the student. For a second condition an exo-centric view is provided with a HMD, too. There the teacher stands in front of the student.\\ \\
+%---
+\textbf{Physio@Home} by Tang et al. \cite{Tang2015} used a Microsoft Kinect in combination with a screen forming together an augmented reality mirror. The participant stands in front of the screen and is tracked by the Kinect. On the screen the participant is augmented by moving instructions. The perpective on the guidance visualisation is exo-centric. Tang et al. faced the problem, that the front facing projection lacks of 3D queues. Their solution was the multi camera views. A second view is provided from above, aiming to help the participant to maintain a correct angle of the arm. In the study, four conditions were examined: videoSingle, videoMulti, wedgeSingle and wedgeMulti. Here, video and wedge indicate the guidance visualisation, single and multi indicate the numbers of visualisations.
+%---
+%---
+%how are they implemented and technology
+\subsubsection{Conclusion}
+There are multiple ways of realising ego-centric, exo-centric or combination perspectives on guidance visualisations. Ego-centric views are realised through superimposition of the teacher and the student like seen in Tai Chi Trainer and OneBody or projected movement instructions directly on the student like in LightGuide. The first two use an HMD to realise the ego-centric perspective. For the exo-centric perspective more possibilities exist like an augmented reality mirror (YouMove), screens or 3D screens (Tai Chi Trainer, Physio@Home) or projectors (LightGuide). Exo-centric perspective can also be achieved with HMD's (OneBody, Tai Chi Trainer). One main benefit of HMD's is the easy visualisation of ego-centric and exo-centric perspectives simultaneously. Because of this I decide to use an HMD for my study. The Tai Chi Trainer achieved the simultaneous perspective by placing the teacher inside the student and outside the student, but did not achiev any significant differences in learning performance; but this could be overcome by today's technology. This representation is chosen for the study. In addition, the authors of the paper state the importance of multiple view (Physio@Home, Tai Chi Trainer, YouMove), if the avatar is rendered on 2D screens, because of missing 3D queues. This can be partly overcome within a VE. But to provide multiple angles on the guidance visualisation could still be necessary. Therefore I decide to let the student moving freely around the guidance visualisation. Since other factors like feedback play also a role for the perspective, the exact definition of the perspective to implement is given in the conclusion of this chapter.
+
+
+
 \subsection{Study task}
 %only Task
 %---
-The task in Chua's \cite{Chua} \textbf{Tai Chi trainer} is \--- as the name indicates \--- a Tai Chi motion. A professional Tai Chi trainer was invited to perform a so called \textit{Tai Chi form} and recorded offline. This \textit{form} was segmented in four ca. 20 seconds long sequences (Motion 1-4). "Motion 1 featured simple hand movements and a 90 degree turn to the right; motion 2 had little hand motion, a 180 degree turn of the feet, and some turning of the upper body; motion 3 featured slow hand motions, large movement of the feet, and some turning of the thorax; and motion 4 featured swift hand movement and turning of the thorax and hips but little movement of the feet." \cite{Chua}. Error measurements indicated that all motion but motion 1 had the same difficulty, being significantly easier. This movements can be classified as \textit{sequential movements} according to chapter 2 \todo ref. 40 volunteers conducted the movements in a study to evaluate their system. They randomized the condition (described in next chapter, compare figure \ref{fig:taichiperspectives} condition a-e) and the motion to minimize learning effects. For each motion and condition pair, the Tai Chi student were asked to match the Tai Chi teachers demonstration during twelve repetitions.\\ \\
+The task in Chua's \cite{Chua2003} \textbf{Tai Chi trainer} is \--- as the name indicates \--- a Tai Chi motion. A professional Tai Chi trainer was invited to perform a so called \textit{Tai Chi form} and recorded offline. This \textit{form} was segmented in four ca. 20 seconds long sequences (Motion 1-4). "Motion 1 featured simple hand movements and a 90 degree turn to the right; motion 2 had little hand motion, a 180 degree turn of the feet, and some turning of the upper body; motion 3 featured slow hand motions, large movement of the feet, and some turning of the thorax; and motion 4 featured swift hand movement and turning of the thorax and hips but little movement of the feet." \cite{Chua2003}. Error measurements indicated that all motion but motion 1 had the same difficulty, being significantly easier. This movements can be classified as \textit{sequential movements} according to chapter 2 \todo ref. 40 volunteers conducted the movements in a study to evaluate their system. They randomized the condition (described in next chapter, compare figure \ref{fig:taichiperspectives} condition a-e) and the motion to minimize learning effects. For each motion and condition pair, the Tai Chi student were asked to match the Tai Chi teachers demonstration during twelve repetitions.\\ \\
 %---
-\textbf{YouMove} by Anderson et al. \cite{Anderson2013} is a movement training system, suitable for a vast range of moves. A movement can be recorded and then edited by an authoring tool. After the editing, the movement is added to the internal library, from which it can be chosen by a student. For the study itself, an author or the paper \--- though no professional \--- recorded four movements. Two of them from ballet and two abstract movement. The authors decided to variate the difficulty of the task, namely "the ballet movements [...] were easier to conceptualise and required only moderate movement.", while "the abstract movements were more difficult to perform, as they were a series of postures with no clear structure and required substantial movement." The movements consisted of four keyframes. Keyframes are important points during the movements, determined and set by the person recording a movement.\\ \\
+\textbf{YouMove} by Anderson et al. \cite{Anderson2013a} is a movement training system, suitable for a vast range of moves. A movement can be recorded and then edited by an authoring tool. After the editing, the movement is added to the internal library, from which it can be chosen by a student. For the study itself, an author or the paper \--- though no professional \--- recorded four movements. Two of them from ballet and two abstract movement. The authors decided to variate the difficulty of the task, namely "the ballet movements [...] were easier to conceptualise and required only moderate movement.", while "the abstract movements were more difficult to perform, as they were a series of postures with no clear structure and required substantial movement." The movements consisted of four keyframes. Keyframes are important points during the movements, determined and set by the person recording a movement.\\ \\
 %---
-Jacky Chan et al. developed a \textbf{VR Dance trainer} \cite{Chan2011}. For their system they invited professional Hip-Hop dancers and recorded their movements. The learner of the movement can choose a movement out of a database. One movement lasts around 2 seconds. First, the teacher appears and the student watches the demonstration, while he can adjust the demonstration speed and viewpoint. After that, the student practices the dance moves by mimicking the teachers avatar. Finally the student can see a slow motion replay of the performance. One hole session takes 15 minutes.\\ \\
+Jacky Chan et al. developed a \textbf{VR Dance trainer} \cite{Chan2011a}. For their system they invited professional Hip-Hop dancers and recorded their movements. The learner of the movement can choose a movement out of a database. One movement lasts around 2 seconds. First, the teacher appears and the student watches the demonstration, while he can adjust the demonstration speed and viewpoint. After that, the student practices the dance moves by mimicking the teachers avatar. Finally the student can see a slow motion replay of the performance. One hole session takes 15 minutes.\\ \\
 %---
 In contrast to all other systems, \textbf{Lightguide} by Sodhi et al. \cite{Sodhi2012} build on abstract movements to evaluate their system. Sodhi et al. focus on single arm movements, directed by an guidance visualisation on the hand. The participants perform five movements, namely a line, a "N", a square, a circle and a bowed line, compare figure \ref{fig:lightguide1} left. All movements were performed in three different angles, like shown in figure \ref{fig:lightguide1} right.
 \begin{figure}
@@ -157,35 +83,8 @@ $ $\\
 %---
 
 \subsubsection{Conclusion}
-As we see in this section, there is a verity of tasks to evaluate movement learning. Namely a Tai Chi form (Tai Chi Trainer \cite{Chua}), dance movements (YouMove \cite{Anderson2013} and VR Dance Trainer \cite{Chan2011}), physiological rehab movements (Physio@home \cite{Tang2015}), abstract movements (YouMove, LightGuide \cite{Sodhi2012}) and Matial Arts (OneBody \cite{Hoang2016}). For the latter is to mention that the evaluation aimed for postures and not movements. To gain valid data some choose to have tasks with comparable complexity (\cite{Chua}, \cite{Anderson2013} inside Ballet tasks and inside abstract tasks, \cite{Sodhi2012}), therefore eg. one Tai Chi form was taken and split into four sub forms. Physio@home and YouMove (between ballet and abstract) chose to have different complexities of tasks. All but Tai Chi Trainer proofed to be valid for evaluation of movements. But the authors of Tai Chi Trainer see the reason in the hardware performance, what could be overcome with today's technology. All systems but LightGuide aim to be a teaching system for real world tasks. The aim of this thesis is to evaluate the influence of the perspective on guidance visualisations itself, though, both tasks \--- abstract and real world tasks \--- seem suitable for our system. Max, hier dann entscheiden ob was für tasks.
+As we see in this section, there is a verity of tasks to evaluate movement learning. Namely a Tai Chi form (Tai Chi Trainer \cite{Chua2003}), dance movements (YouMove \cite{Anderson2013a} and VR Dance Trainer \cite{Chan2011a}), physiological rehab movements (Physio@home \cite{Tang2015}), abstract movements (YouMove, LightGuide \cite{Sodhi2012}) and Matial Arts (OneBody \cite{Hoang2016}). For the latter is to mention that the evaluation aimed for postures and not movements. To gain valid data some choose to have tasks with comparable complexity (\cite{Chua2003}, \cite{Anderson2013a} inside Ballet tasks and inside abstract tasks, \cite{Sodhi2012}), therefore eg. one Tai Chi form was taken and split into four sub forms. Physio@home and YouMove (between ballet and abstract) chose to have different complexities of tasks. All but Tai Chi Trainer proofed to be valid for evaluation of movements. But the authors of Tai Chi Trainer see the reason in the hardware performance, what could be overcome with today's technology. All systems but LightGuide aim to be a teaching system for real world tasks. The aim of this thesis is to evaluate the influence of the perspective on guidance visualisations itself, though, both tasks \--- abstract and real world tasks \--- seem suitable for our system. Max, hier dann entscheiden ob was für tasks.
 
-\subsection{Implemented Visual Perspective}
-%how are they implemented and technology
-%---
-Chua et al. \cite{Chua} implemented five different perspectives to teach with \textbf{Tai Chi Trainer}, compare \ref{fig:taichiperspectives}. There are three exo-centric perspectives (a-c, further called conditions a-c) and two ego-centric perspectives combined with exocentric (d,e, further called conditions d,e). In \textbf{One on One} the student stand next to one teacher, which is closest to a real world training scenario \ref{fig:taichiperspectives}(a). In con \--- \textbf{Four Teachers} \--- the student is surrounded by four teachers, with the student in the middle \ref{fig:taichiperspectives}(b). The \textbf{Side by Side} \ref{fig:taichiperspectives}(c) condition shows four pairs of teacher and student in the same formation as in condition (b). The first ego-centric \& combined condition is called \textbf{Superimposition 1} \ref{fig:taichiperspectives}(d). Here the formation still remains, but the student in the middle is surrounded by four more students. On each of the student a red wireframe teacher is superimposed. \textbf{Superimposition 2} \ref{fig:taichiperspectives}(e), is similar to Superimposition 1 and differs only in the visual representation: the student is now a green, transparent wireframe. Chua et al. use no pure ego-centric perspective, since in the latter two conditions the teacher can be seen also from the exo-centric perspective.
-\begin{figure}
-	\centering
-	\includegraphics[width=1.0\textwidth]{img/taichi_perspectives.png}
-	\caption{Used perspectives at \cite{Chua}}
-	\label{fig:taichiperspectives}
-\end{figure}\\
-%---
-$ $\\
-\textbf{YouMove} uses Microsoft Kinect (\todo ref) to record motions and to track the student. The recorded instruction as well as the students movements are projected on an AR mirror. The special about this mirror is, that the degree of reflection can be changed by simply adjusting the light in the room. With this, the student can see his own real body as reflection as well as the projection of a beamer simultaneously. If the room is bright, the student sees only his reflection and in a dark room only the projection is visible.\\ 
-YouMove provides multiple stages for the learning process: (1) Demonstration, (2) Posture Guide, (3) Movement Guide, (4) Mirror, (5) On your own. In stages 1-3, the student sees the guidance visualisation in the exo-centric perspective. In (1) the user sees a video of the movement. In stage 2 \& 3 the user is superimposed by a skeleton. Stage 4 \& 5 does not allow a view on the teachers representation. After each stage a feedback is given. This view provides multiple views for the four keyframes: a skeleton of the teacher and student superimposed, a video of the teachers demonstration and a video of the moves of the student.\\ \\
-%---
-\textbf{Tai Chi Trainer}. Chan et al. \cite{Chan2011} facilitate a 3D screen for rendering the avatars. The student is tracked by an optical motion capturing system. In the first phase (demonstration) only the teacher is shown on the screen. In the second phase (practise) teacher and student can be seen simultaneously, standing side by side. Additionally, both avatars are mirrored, so the exo centric viewer can observe the avatars from back and the front at the same time, compare figure \ref{fig:vrdt}. In the final phase (feedback) the student sees the teacher and the students performance in slow motion side by side.\\ \\
-%---
-\textbf{LightGuide} \cite{Sodhi2012} achieved an ego-centric guidance without using a HMD. The student stands under a depth camera and a projector. The depth camera tracks the hand of the student. This position is utilised and the guidance visualisation is projected directly on the users hand. During the evaluation of the system, four conditions used this ego-centric position. The remaining conditions shown exo-centric on a screen or directly on the hand.\\ \\
-%---
-\textbf{Onebody} \cite{Hoang2016} show the guidance visualisation in an ego-centric perspective, too, but with an HMD. The teacher is projected inside the body of the student. Both, teacher and student are tracked by skeletal tracking, using a Microsoft Kinect \todo. The visualisation of the teacher is attached to the hip of the student. To overcome different body sizes, the avatars are normalised and scaled to the size of the student. For a second condition an exo-centric view is provided with a HMD, too. There the teacher stands in front of the student.\\ \\
-%---
-\textbf{Physio@Home} by Tang et al. \cite{Tang2015} used a Microsoft Kinect in combination with a screen forming together an augmented reality mirror. The participant stands in front of the screen and is tracked by the Kinect. On the screen the participant is augmented by moving instructions. The perpective on the guidance visualisation is exo-centric. Tang et al. faced the problem, that the front facing projection lacks of 3D queues. Their solution was the multi camera views. A second view is provided from above, aiming to help the participant to maintain a correct angle of the arm. In the study, four conditions were examined: videoSingle, videoMulti, wedgeSingle and wedgeMulti. Here, video and wedge indicate the guidance visualisation, single and multi indicate the numbers of visualisations.
-%---
-%---
-%how are they implemented and technology
-\subsubsection{Conclusion}
-There are multiple ways of realising ego-centric, exo-centric or combination perspectives on guidance visualisations. Ego-centric views are realised through superimposition of the teacher and the student like seen in Tai Chi Trainer and OneBody or projected movement instructions directly on the student like in LightGuide. The first two use an HMD to realise the ego-centric perspective. For the exo-centric perspective more possibilities exist like an augmented reality mirror (YouMove), screens or 3D screens (Tai Chi Trainer, Physio@Home) or projectors (LightGuide). Exo-centric perspective can also be achieved with HMD's (OneBody, Tai Chi Trainer). One main benefit of HMD's is the easy visualisation of ego-centric and exo-centric perspectives simultaneously. Because of this I decide to use an HMD for my study. The Tai Chi Trainer achieved the simultaneous perspective by placing the teacher inside the student and outside the student, but did not achiev any significant differences in learning performance; but this could be overcome by today's technology. This representation is chosen for the study. In addition, the authors of the paper state the importance of multiple view (Physio@Home, Tai Chi Trainer, YouMove), if the avatar is rendered on 2D screens, because of missing 3D queues. This can be partly overcome within a VE. But to provide multiple angles on the guidance visualisation could still be necessary. Therefore I decide to let the student moving freely around the guidance visualisation. Since other factors like feedback play also a role for the perspective, the exact definition of the perspective to implement is given in the conclusion of this chapter.
 
 \subsection{Guidance visualisation}
 %visual appearence --- shape and colour
@@ -203,7 +102,7 @@ The visualisations in Chan et al. \textbf{VR Dance Trainer} choose two different
 	\centering
 	\includegraphics[width=0.45\textwidth]{img/VRDanceTrainerPractice.png}
 	\includegraphics[width=0.5\textwidth]{img/VRDanceTrainerScoreBoard.png}
-	\caption{\todo \cite{Chan2011}}
+	\caption{\todo \cite{Chan2011a}}
 	\label{fig:vrdt}
 \end{figure}
 %---
@@ -254,7 +153,7 @@ The visual appearance of the guidance visualisations differ. The Tai Chi Trainer
 
 \subsection{Dependent variables}
 %---
-In the Tai Chi trainer by Chua et al. \cite{Chua}, the students task is to mimic the motion of a pre recorded teacher. While the independent variables are the above mentioned perspectives (conditions a-e) and the motions, the independent variable is the precision of the performed movements. To measure this precision, twelve bones of the students were tracked, namely: upper and lower arms, hands, upper and lower legs, and feet. The bones are hierarchical structured with a parent and child end. After a normalization of the parents position and bone length, an error was calculated:
+In the Tai Chi trainer by Chua et al. \cite{Chua2003}, the students task is to mimic the motion of a pre recorded teacher. While the independent variables are the above mentioned perspectives (conditions a-e) and the motions, the independent variable is the precision of the performed movements. To measure this precision, twelve bones of the students were tracked, namely: upper and lower arms, hands, upper and lower legs, and feet. The bones are hierarchical structured with a parent and child end. After a normalization of the parents position and bone length, an error was calculated:
 \begin{equation}
 	\todo
 \end{equation}
@@ -271,7 +170,7 @@ Chua et al. found two major faults in this method of precision determination: ya
 %---
 While Chua et al. calculate the error of the performed movement over all tracked limbs, Anderson et al. take one single joint with the greatest error and \--- even more constricting \--- only the keyframe joints (important joints, specified by the teacher) are taken into consideration. The dependent variable is a score between 0 and 10. An offset 15 cm results in a score of 7.5 and no error results in a score of 10. The offset is imply the eucledean distance. This error measurement corresponds to chapter 2 \todo. To overcome time shift errors, a window of 0.5 seconds is added. If the teacher specified that timing is important, this window is halved, if precision is set as important, 15cm offset results in a score of 7.5. "[]This values are determined by experimentation".\\ \\
 %---
-Chan et al. evaluate the students performance with the VR Dance Trainer. Therefore they specified 19 body parts (compare \ref{fig:vrdt} right) and calculate a score between 0 and 100. The average over the 19 numeric indicators results in the overall performance. Before and after the training session of one move this score was calculated. Additionally, a postcourse survey asked the student specific questions about the system. This survey had the aim to evaluate if the "[...] system is interesting and able to motivate subjects to learn." \cite{Chan2011} and if the "[...] the system can provide them an easy way to learn" ibidem.\\ \\
+Chan et al. evaluate the students performance with the VR Dance Trainer. Therefore they specified 19 body parts (compare \ref{fig:vrdt} right) and calculate a score between 0 and 100. The average over the 19 numeric indicators results in the overall performance. Before and after the training session of one move this score was calculated. Additionally, a postcourse survey asked the student specific questions about the system. This survey had the aim to evaluate if the "[...] system is interesting and able to motivate subjects to learn." \cite{Chan2011a} and if the "[...] the system can provide them an easy way to learn" ibidem.\\ \\
 %---
 Sodhi et al \cite{Sodhi2012} compare in \textbf{LightGuides} evaluation the five conditions where the instruction in directly on the body of the user with a baseline condition where the instruction is on a screen. To measure the performance of the student, Sodh et al. developed two measures: movement accuracy and movement times. Movement accuracy describes the absolute euclidean distance from the closest point. Movement times is devided in two sections by the reason that half of the conditions were self timed and the half the pace was set by the system. For the self timed conditions the completion time is taken as measure, for system paced conditions the time before or after is taken as measure. Though, independent variable are the conditions, dependet variables are performance.\\ \\
 %---
@@ -284,12 +183,12 @@ All previous works use a performance measurement. These measurent varies but hav
 
 \subsection{Results}
 %---
-\textbf{Tai Chi Trainer}. Chua et al. compare different perspectives (conditions a-e) on the teacher and the student. The independent variables are the above mentioned precision of the students performance. By comparing the results they found condition a (One on One), b (Four Teachers), c (Side by Side) and e (Superimposition 2) aim the same precision. Only e (Superimposition 1) aimed significantly worse than the others. At the same time, the questionnaire indicated that the subjective difficulty of condition d and e (Superimposition 1 and 2) was the highest. "In fact, all of the subjects who tried Superimposition 2 thought it was the most difficult. Interestingly, although subjects considered Superimposition 2 very difficult compared to the other layouts, average error on that layout was not significantly greater than the other non-superimposed layouts." \cite{Chua}. The Authors argue this result as following:
+\textbf{Tai Chi Trainer}. Chua et al. compare different perspectives (conditions a-e) on the teacher and the student. The independent variables are the above mentioned precision of the students performance. By comparing the results they found condition a (One on One), b (Four Teachers), c (Side by Side) and e (Superimposition 2) aim the same precision. Only e (Superimposition 1) aimed significantly worse than the others. At the same time, the questionnaire indicated that the subjective difficulty of condition d and e (Superimposition 1 and 2) was the highest. "In fact, all of the subjects who tried Superimposition 2 thought it was the most difficult. Interestingly, although subjects considered Superimposition 2 very difficult compared to the other layouts, average error on that layout was not significantly greater than the other non-superimposed layouts." \cite{Chua2003}. The Authors argue this result as following:
 \begin{itemize}
 	\item simultaneously watching the teacher and performing own movements could interfere each other.\\
 	Chua et al. suggests to choose wisely for the task to suit into VR training.
 	\item latency and performance correlates strongly. A lower latency could lead to better performance.\\
-	Since Chua et al. \cite{Chua} was developed in 2003, there is a large improvement in latency nowadays.
+	Since Chua et al. \cite{Chua2003} was developed in 2003, there is a large improvement in latency nowadays.
 	\item To reduce latency a low polygon count on the high realism degree avatars was used. More polygons could lead to better performance.\\
 	The system was run on a Pentium 3 processor. Today's graphic cards and processors are way above this mark, a higher polygon count is easily achievable.
 	\item The field of view was very small.\\
