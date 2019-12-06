@@ -15,11 +15,35 @@ J~C~P Chan, H~Leung, J~K~T Tang, and T~Komura.
 \newblock {\em IEEE Transactions on Learning Technologies}, 4(2):187--195, apr
   2011.
 
+\bibitem{Chan2007}
+Jacky Chan, Howard Leung, Kai~Tai Tang, and Taku Komura.
+\newblock {Immersive Performance Training Tools Using Motion Capture
+  Technology}.
+\newblock In {\em Proceedings of the First International Conference on
+  Immersive Telecommunications}, ImmersCom '07, pages 7:1----7:6, ICST,
+  Brussels, Belgium, Belgium, 2007. ICST (Institute for Computer Sciences,
+  Social-Informatics and Telecommunications Engineering).
+
+\bibitem{Chinthammit2014}
+Winyu Chinthammit, Troy Merritt, Pedersen Scott, Williams Andrew, Visentin
+  Denis, Robert Rowe, and Furness Thomas.
+\newblock {Ghostman: Augmented Reality Application for Telerehabilitation and
+  Remote Instruction of a Novel Motor Skill}.
+\newblock {\em BioMed Research International}, 2014, 2014.
+
 \bibitem{Choensawat2015}
 Worawat Choensawat, Minako Nakamura, and Kozaburo Hachimura.
 \newblock {GenLaban: A Tool for Generating Labanotation from Motion Capture
   Data}.
 \newblock {\em Multimedia Tools Appl.}, 74(23):10823--10846, dec 2015.
+
+\bibitem{Covaci2014}
+Alexandra Covaci, Anne-H{\'{e}}l{\`{e}}ne Olivier, and Franck Multon.
+\newblock {Third Person View and Guidance for More Natural Motor Behaviour in
+  Immersive Basketball Playing}.
+\newblock In {\em Proceedings of the 20th ACM Symposium on Virtual Reality
+  Software and Technology}, VRST '14, pages 55--64, New York, NY, USA, 2014.
+  ACM.
 
 \bibitem{Hachimura2004}
 K~Hachimura, H~Kato, and H~Tamura.
@@ -59,9 +83,23 @@ Nicholas Katzakis, Jonathan Tong, Oscar Ariza, Lihan Chen, Gudrun Klinker,
 \newblock In {\em Proceedings of the 5th Symposium on Spatial User
   Interaction}, SUI '17, pages 58--67, New York, NY, USA, 2017. ACM.
 
+\bibitem{Kojima2014}
+Taihei Kojima, Atsushi Hiyama, Takahiro Miura, and Michitaka Hirose.
+\newblock {Training Archived Physical Skill through Immersive Virtual
+  Environment}.
+\newblock In Sakae Yamamoto, editor, {\em Human Interface and the Management of
+  Information. Information and Knowledge in Applications and Services}, pages
+  51--58, Cham, 2014. Springer International Publishing.
+
 \bibitem{LaViola2017}
 Joseph~J LaViola.
 \newblock {3D user interfaces: theory and practice }, 2017.
+
+\bibitem{Lieberman2007}
+J~Lieberman and C~Breazeal.
+\newblock {TIKL: Development of a Wearable Vibrotactile Feedback Suit for
+  Improved Human Motor Learning}.
+\newblock {\em IEEE Transactions on Robotics}, 23(5):919--926, oct 2007.
 
 \bibitem{Milgram1994}
 Paul Milgram and Fumio Kishino.
@@ -84,6 +122,13 @@ Otniel Portillo-Rodriguez, Oscar~O Sandoval-Gonzalez, Emanuele Ruffaldi,
   Audio Interaction Design}, pages 30--39, Berlin, Heidelberg, 2008. Springer
   Berlin Heidelberg.
 
+\bibitem{Rajanna2015}
+Vijay Rajanna, Patrick Vo, Jerry Barth, Matthew Mjelde, Trevor Grey, Cassandra
+  Oduola, and Tracy Hammond.
+\newblock {KinoHaptics: An Automated, Wearable, Haptic Assisted,
+  Physio-therapeutic System for Post-surgery Rehabilitation and Self-care}.
+\newblock {\em Journal of Medical Systems}, 40(3):60, dec 2015.
+
 \bibitem{Qian2005}
 Stjepan Rajko and Gang Qian.
 \newblock {A Hybrid HMM/DPA Adaptive Gesture Recognition Method}.
@@ -102,6 +147,15 @@ Rajinder Sodhi, Hrvoje Benko, and Andrew Wilson.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, CHI '12, pages 179--188, New York, NY, USA, 2012. ACM.
 
+\bibitem{Sousa2016}
+Maur$\backslash$'$\backslash$icio Sousa, Jo{\~{a}}o Vieira, Daniel Medeiros,
+  Artur Arsenio, and Joaquim Jorge.
+\newblock {SleeveAR: Augmented Reality for Rehabilitation Using Realtime
+  Feedback}.
+\newblock In {\em Proceedings of the 21st International Conference on
+  Intelligent User Interfaces}, IUI '16, pages 175--185, New York, NY, USA,
+  2016. ACM.
+
 \bibitem{Tang2015}
 Richard Tang, Xing-Dong Yang, Scott Bateman, Joaquim Jorge, and Anthony Tang.
 \newblock {Physio@Home: Exploring Visual Guidance and Feedback Techniques for
@@ -109,6 +163,12 @@ Richard Tang, Xing-Dong Yang, Scott Bateman, Joaquim Jorge, and Anthony Tang.
 \newblock In {\em Proceedings of the 33rd Annual ACM Conference on Human
   Factors in Computing Systems}, CHI '15, pages 4123--4132, New York, NY, USA,
   2015. ACM.
+
+\bibitem{Velloso2013}
+Eduardo Velloso, Andreas Bulling, and Hans Gellersen.
+\newblock {MotionMA: Motion Modelling and Analysis by Demonstration}.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '13, pages 1309--1318, New York, NY, USA, 2013. ACM.
 
 \bibitem{Wang2001}
 Wenbi Wang and Paul Milgram.

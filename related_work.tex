@@ -1,22 +1,21 @@
 \chapter{Related Work}
-\todo: remake description! \\
-Define study parameters by analysing related work.
 %In chapter 2 A1, A3, A4, A6, A7, A10, A14 and 15 are already discussed. In this chapter the remaining aspects are analysed by investigating how other researchers decided on them. The remaining aspects are dependent variables (A2), the task (A5), the MR technology to use (A8), the tracking technology (A9), the behaviour of the instructions (A11), the measures to apply (A12) and the considered body parts (A14). These aspects are better discussed at existing systems to make sure the study having a high validity. This chapter is structured by means of the perspective though the independent variables, namely ego-centric, exo-centric and the combination of both. In this subchapters the aspects are discussed and concluded. In the overall conclusion a decision is made for the aspects by comparing them to each other. eg, the task must be suitable for all perspectives.
 
-\section{Overview}
-Table \ref{tbl:overviewTable} shows previous work of researchers connected with motor learning in MR. In total there five classes of tasks they used for evaluation. The most common task is \textit{arts}, like Martial Arts or Tai Chi \cite{Han2016}, \cite{Yan2015}, \cite{Katzakis2017}, \cite{Han2017}, \cite{Portillo2008}, \cite{Hoang2016}, \cite{Chua2003} \cite{Anderson2013a}
+Table \ref{tbl:overviewTable} shows previous work of researchers connected with motor learning in MR. In total there five classes of tasks they used for evaluation. The most common task is \textit{arts}, like Martial Arts or Tai Chi \cite{Han2016}, \cite{Yan2002}, \cite{Katzakis2017}, \cite{Han2017}, \cite{Portillo2008}, \cite{Hoang2016}, \cite{Chua2003} \cite{Komura2006}. But also dance movements \cite{Anderson2013a}\cite{Yan2015}\cite{Chan2007}\cite{Hachimura2004}, Sports \cite{Covaci2014}\cite{Kojima2014} and rehabilitation tasks \cite{Velloso2013}\cite{Chinthammit2014}\cite{Tang2015}\cite{Rajanna2015}\cite{Sousa2016} can be found in literature. Finally, some researchers decided to use abstract movements \cite{Sodhi2012}\cite{Lieberman2007} to evaluate their system like Anderson et al. \cite{Anderson2013a} who also compared abstract with real world movements.
 \begin{table}
 	\centering
 	\includegraphics[width=1.0\textwidth]{img/overview_table.png}
 	\caption{overview all papers \todo ref as table}
 	\label{tbl:overviewTable}
-\end{table}
+\end{table}\\ $ $\\
+During the literature research became clear that five aspects of designing a study for motor learning are very important. First, how the perspective is implemented and what technology will be used. Second, what task is suitable for such a study. Third, what type of guidance visualisation to use, how the guidance visualisation looks like, what degree of realism is suitable for a person shaped avatar as guidance visualisation or if even feedback is necessary. Fourth, what measures to use and what to measure and finally, five, what are the implication of the results of other studies for the study here in question. To analyse these five topics, we dive deeply into six works of other researchers, on overview of this works is given in table \ref{tbl:overviewTable}.
 \begin{table}
 	\centering
 	\includegraphics[width=1.0\textwidth]{img/detail_paper_overview.png}
 	\caption{detail paper overview \todo ref as table}
 	\label{tbl:detailOverviewTable}
 \end{table}
+In the next section, each of these topics are discussed by means of the related work. After each topic a conclusion is drawn and the parameters for the study are set. With the scope and the parameters for the study in mind, the study design can be found in the next Chapter.
 
 
 \section{Analysis}
@@ -83,7 +82,8 @@ $ $\\
 %---
 
 \subsubsection{Conclusion}
-As we see in this section, there is a verity of tasks to evaluate movement learning. Namely a Tai Chi form (Tai Chi Trainer \cite{Chua2003}), dance movements (YouMove \cite{Anderson2013a} and VR Dance Trainer \cite{Chan2011a}), physiological rehab movements (Physio@home \cite{Tang2015}), abstract movements (YouMove, LightGuide \cite{Sodhi2012}) and Matial Arts (OneBody \cite{Hoang2016}). For the latter is to mention that the evaluation aimed for postures and not movements. To gain valid data some choose to have tasks with comparable complexity (\cite{Chua2003}, \cite{Anderson2013a} inside Ballet tasks and inside abstract tasks, \cite{Sodhi2012}), therefore eg. one Tai Chi form was taken and split into four sub forms. Physio@home and YouMove (between ballet and abstract) chose to have different complexities of tasks. All but Tai Chi Trainer proofed to be valid for evaluation of movements. But the authors of Tai Chi Trainer see the reason in the hardware performance, what could be overcome with today's technology. All systems but LightGuide aim to be a teaching system for real world tasks. The aim of this thesis is to evaluate the influence of the perspective on guidance visualisations itself, though, both tasks \--- abstract and real world tasks \--- seem suitable for our system. Max, hier dann entscheiden ob was für tasks.
+As we see in this section, there is a verity of tasks to evaluate movement learning. Namely a Tai Chi form (Tai Chi Trainer \cite{Chua2003}), dance movements (YouMove \cite{Anderson2013a} and VR Dance Trainer \cite{Chan2011a}), physiological rehab movements (Physio@home \cite{Tang2015}), abstract movements (YouMove, LightGuide \cite{Sodhi2012}) and Matial Arts (OneBody \cite{Hoang2016}). For the latter is to mention that the evaluation aimed for postures and not movements. To gain valid data some choose to have tasks with comparable complexity (\cite{Chua2003}, \cite{Anderson2013a} inside Ballet tasks and inside abstract tasks, \cite{Sodhi2012}), therefore eg. one Tai Chi form was taken and split into four sub forms. Physio@home and YouMove (between ballet and abstract) chose to have different complexities of tasks. All but Tai Chi Trainer proofed to be valid for evaluation of movements. But the authors of Tai Chi Trainer see the reason in the hardware performance, what could be overcome with today's technology. All systems but LightGuide aim to be a teaching system for real world tasks. The aim of this thesis is to evaluate the influence of the perspective on guidance visualisations itself, though, both tasks \--- abstract and real world tasks \--- seem suitable for our system. 
+\todo quelle, generalisable task
 
 
 \subsection{Guidance visualisation}
@@ -281,40 +281,4 @@ Onebody \todo uses skeletal of the instructor and the student
 	\item you move: in each keyframe, score based on the joint with the maximum error, measured in euclidean distance. but only "important joints" are measured. timing errors: 0.5s error on each side of the frame for matching posture. is timing important, the window is reduced to 0.25s. max eucl. distance is linear mapped to a score. 0 error is 10 (max), 10cm is 7.5 what is the score to pass. if precision is important, 10cm needed for pass.
 \end{itemize}
 
-\subsection{Considered Body Parts}
-scientific work, how to measure movements: hachimura et al, yoshimura et al, qian et al, kwon et al, all use joint angles
-
-error prevention \todo
-
-\section{Detailed description of 6-10 papers incl. Table}
-%hier werden die paper detailiert vorgestellt von denen ich dann meine tasks, measures, methode und variablen ableite. am ende zusammenfassung in einer tabelle
-
-
-
-
-
-
-\section{Research Gap}
-lücken in der aktuellen forschung die sich lohnen zu untersuchen. \todo
-
-\subsection{Conclusion of VR motor learning systems}
-to conclude we have a look a Table \ref{table:ConclusionVRSystems}
-\begin{table}[]
-	\begin{tabular}{|l|l|l|l|l|l|}
-		\hline
-		Name & Hardware & Perspectives & Task & Measures & Variables \\ \hline
-		Onebody &  &  &  &  &  \\ \hline
-		VR dance trainer &  &  &  &  &  \\ \hline
-		&  &  &  &  &  \\ \hline
-		&  &  &  &  &  \\ \hline
-		&  &  &  &  &  \\ \hline
-		&  &  &  &  &  \\ \hline
-	\end{tabular}
-	\caption{Summary of proposed MR learning systems}
-	\label{table:ConclusionVRSystems}
-\end{table}
-
-
-Research questions?\\
-Hypothesis?\\
 \end{comment}

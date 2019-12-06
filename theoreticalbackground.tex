@@ -1,6 +1,5 @@
 \chapter{Theory and Scope}
-
-Motor learning in MR builds on many aspects, eg. suitable technology for MR representations and what perspectives to use. Furthermore, human motor learning must be suitably transfered in the digital world. And eventually, we need to match movements and measure the error correctly to derive adequate from the performance of a learner. In this chapter we take a look into these topics. If not other indicated, adopted from the book Motor Learning and Skills\cite{Schmidt2011}.
+In this Chapter the scope for the study will be set.  We dig into visual perspectives and defined by a continuum from ego-centric to exo-centric. Movements will be classified and investigated how to measure movements. Eventually, a definition of mixed reality is provided. If not other indicated, adopted from the book Motor Learning and Skills\cite{Schmidt2011}.
 
 \section{Visual Perspectives}
 Wang and Milgram \cite{Wang2001} describe the perspectives on the centricity continuum see figure \ref{fig:ego-exo-cont}. On the most left hand side of the continuum the egocentric perspective is located. Egocentric means that the anchor of the viewport camera is located inside the object to control - for simplicity, this object in question is referred as avatar. On the right hand side the exocentric perspective is located. This viewport camera is a fixed camera in the scene not to be controllable. The exocentric perspective gives the user the possibility to examine the scene from a bird's-eye view. The movement or angle of the avatar has no influence on the cameras position or angle. So the main difference is the so called tether distance and the degree of freedom of the camera. Milgarm and Wang investigated on tethered cameras and define it as the distance between the eyes of the avatar and the camera which is following the avatar. This describes the middle part of the continuum. Zero-distance camera describes the egocentric perspective. The longer the tether distance the more the perspective is located on the right of the scale to the exocentric perspective. They also distinguish between dynamic and rigid tethering relationships. A dynamic tethered camera is controlled by the user in all six degree of freedoms (dof) while a rigid stands like a pole and can only be controlled in 3 dofs. Rigid tethered cameras are common in modern 3rd person computer games.
@@ -71,13 +70,9 @@ Kwon et al. \cite{Kwon2005} \todo
 
 \subsection{Measuring movements}
 %Welche messmethoden gibt es um bewegungen zu messen
-Judging motions and matching them to a given motion is not a trivial task. Since eg. dancing is a pure physical task, movements must be recognised, digitalised and judged. One approach is to use a analog descriptions for dancing and translate them in the digital world. Choensawat \cite{Choensawat2015} began with Rudolph von Laban - a professional dancer. Von Laban developed a broadly used dance notation. His work lead to the \textit{Laban Movement Analysis} with which human movements could be quantized.\footnote{Brockhaus, Rudolf Laban. http://www.brockhaus.de/ecs/enzy/article/laban-rudolf (accessed 2018-10-25)} There are four main components to systematically describe movements in the \textit{Laban Movement Analysis}: body, effort, shape and space. Each component can describe movements independently or combined. Hachimura et al. \cite{Hachimura2004} used the methodology  of \textit{Laban Movement Analysis} and adopted it to for digital movements.\\
-Yoshimura et al. \cite{Yoshimura2006} followed a similar approach from another dance movement description theory called \textit{furi}. \textit{Furi} is also described by four so called \textit{indices}: \textit{kamae}, \textit{jyu-shin}, \textit{koshi}, \textit{uchiwa}. Yoshimura at all could map these indices to concrete markers on the body of a performer.
-%They showed that there was a significant difference between movements by an expert and a beginner.
-Qian et al. \cite{Qian2005} developed a gesture recognition system for performing arts. To match the motions ten body parts were defined: head, torso, upper arms, forearms, upper legs and lower legs. For each body part the Mahalanobis distance is calculated to an ideal point. The Mahalonobis distance describes the distance between point \textit{p} and distribution \textit{D}.\\
-So the takeaway message is, there is a need to digitalise movement and then apply suitable algorithms to judge these movements. The algorithms will be discussed in the Masters project.\\
-
-In order to judge if a movement is performed correctly methods need to be applied to measure the error of a performed action. In literature, three main categories are listed: \textit{error of a single subject}, \textit{measures of time and speed} and \textit{measures of movement magnitude}. As chapter 3 will show, \textit{error of a single object} is most commonly used, the latter two are only discussed in short. 
+To measure a movement and matching it to a given motion is not a trivial task. Since eg. dancing is a pure physical task, movements must be recognised, digitalised and judged. One approach is to use a analogue descriptions for dancing and translate them in the digital world. Choensawat \cite{Choensawat2015} began with Rudolph von Laban - a professional dancer. Von Laban developed a broadly used dance notation. His work lead to the \textit{Laban Movement Analysis} with which human movements could be quantized.\footnote{Brockhaus, Rudolf Laban. \hyperlink{http://www.brockhaus.de/ecs/enzy/article/laban-rudolf}{http://www.brockhaus.de/ecs/enzy/article/laban-rudolf (accessed 2018-10-25)}} There are four main components to systematically describe movements in the \textit{Laban Movement Analysis}: body, effort, shape and space. Each component can describe movements independently or combined. Hachimura et al. \cite{Hachimura2004} used the methodology  of \textit{Laban Movement Analysis} and adopted it to for digital movements.\\
+Yoshimura et al. \cite{Yoshimura2006} followed a similar approach from another dance movement description theory called \textit{furi}. \textit{Furi} is also described by four so called \textit{indices}: \textit{kamae}, \textit{jyu-shin}, \textit{koshi}, \textit{uchiwa}. Yoshimura at all could map these indices to concrete markers on the body of a performer. Qian et al. \cite{Qian2005} developed a gesture recognition system for performing arts. To match the motions ten body parts were defined: head, torso, upper arms, forearms, upper legs and lower legs. For each body part the Mahalanobis distance is calculated to an ideal point. The Mahalonobis distance describes the distance between point \textit{p} and distribution \textit{D}.\\
+To measure a movement, often single point during the movement measured repeatedly and then calculated a whole score. In literature, three main categories of those point measures are listed: \textit{error of a single subject}, \textit{measures of time and speed} and \textit{measures of movement magnitude}. As chapter 3 will show, \textit{error of a single object} is most commonly used, the latter two are only discussed in short. \ul{For this reason, measures for single error will be used to evaluate the movements in the study presented in Chapter 4.}
 \subsubsection{Measures of Error for a Single Subject}
 Measures of error for a single subject represent the degree to which the target was not achieved. A target can be to perform an act at a particular time (time stamp), move with a certain force (amount of force) or hit a spatial target (a point in spatial volume). The attribute of the target serves as the variable in question, see braces behind the examples. The error itself describes the distance - in regard to the dimension - from the target. The following list gives an insight to the most important error measures.
 \begin{itemize}
@@ -108,6 +103,7 @@ Measures of error for a single subject represent the degree to which the target 
 \end{itemize}
 
 
+
 \subsubsection{Measures of Time and Speed}
 Basic to this idea is, a performer who can accomplish more in a given amount of time or who can accomplish a given amount of behaviour in less time is  more skillful. Measures here are
 $\frac{time}{unit}$ or $\frac{units}{time}$.\\
@@ -119,7 +115,8 @@ The two most common examples are \textit{reaction time} (RT) and \textit{movemen
 To measure a skill, the produced magnitude of a behaviour can used. Eg. the distance a discus is thrown. A famous example is the "ski simulator". Rubber bands hold a plated centred between two poles. The magnitude in this case is the the dislocation of the board from the centre by using full body movements.
 
 \section{Mixed Reality}
-Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is better. \ref{fig:MRcont} \todo 
+\todo
+Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is better. \ref{fig:MRcont} \ref{fig:sh_cont}\todo 
 
 \begin{figure}
 	\centering
@@ -128,14 +125,15 @@ Mixed reality continuum \cite{Milgram1994} and something about when AR or VR is 
 	\label{fig:MRcont}
 \end{figure}
 
-
-\subsection{VR Technologies}
-HMD,3D screens, tablets.... \todo or in project
-
-\subsection{Motion Tracking Technologies}
-External vs. internal tracking. Drift problem, accuracy... \todo or in project.
+\begin{figure}
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/mr_cont_sh.jpg}
+	\caption{Mixed reality continuum by Schmalstieg \& Höllerer \cite{Schmalstieg}}
+	\label{fig:sh_cont}
+\end{figure}
+\todo VR reason and compare next chapter
 
 
 
 \section{Conclusion}
-we dicided for A1 A2 ... will be used in study ... some aspects missing, lets have a look how other researchers choose there, what we do in the next chapter.
+In this Chapter the scope was set. \textbf{Measures for single error} will be applied in the study to measure the movements in the study proposed in Chapter 4. The task will be a \textbf{serial task} and also only for \textbf{closed skills}.
