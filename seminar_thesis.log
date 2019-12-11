@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  6 DEC 2019 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  11 DEC 2019 23:57
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -620,16 +620,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 (seminar_thesis.toc) [2
 
+] [3] [4
+
 ]
 \openout2 = `introduction.aux'.
 
  (introduction.tex
-<img/eonreality.PNG, id=17, 900.36375pt x 688.07062pt>
+<img/eonreality.PNG, id=24, 900.36375pt x 688.07062pt>
 File: img/eonreality.PNG Graphic file (type png)
 <use img/eonreality.PNG>
 Package pdftex.def Info: img/eonreality.PNG  used on input line 8.
 (pdftex.def)             Requested size: 418.25368pt x 319.63455pt.
-<img/fraunhofer.PNG, id=19, 892.83563pt x 462.22687pt>
+<img/fraunhofer.PNG, id=26, 892.83563pt x 462.22687pt>
 File: img/fraunhofer.PNG Graphic file (type png)
 <use img/fraunhofer.PNG>
 Package pdftex.def Info: img/fraunhofer.PNG  used on input line 15.
@@ -655,9 +657,8 @@ Underfull \hbox (badness 4660) in paragraph at lines 16--16
 [1
 
 
-
 ]
-<img/overallProcess.png, id=26, 967.4544pt x 545.8794pt>
+<img/overallProcess.png, id=34, 967.4544pt x 545.8794pt>
 File: img/overallProcess.png Graphic file (type png)
 <use img/overallProcess.png>
 Package pdftex.def Info: img/overallProcess.png  used on input line 32.
@@ -672,22 +673,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--36
 \openout2 = `theoreticalbackground.aux'.
 
  (theoreticalbackground.tex
-<img/ego_exo_continuum_bigger.PNG, id=41, 1178.68929pt x 480.50946pt>
+<img/ego_exo_continuum_bigger.PNG, id=47, 1178.68929pt x 480.50946pt>
 File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
 <use img/ego_exo_continuum_bigger.PNG>
 Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 8
 .
 (pdftex.def)             Requested size: 418.25368pt x 170.50507pt.
-<img/laban.png, id=42, 711.4078pt x 712.91344pt>
+<img/laban.png, id=48, 711.4078pt x 712.91344pt>
 File: img/laban.png Graphic file (type png)
 <use img/laban.png>
 Package pdftex.def Info: img/laban.png  used on input line 18.
 (pdftex.def)             Requested size: 209.12683pt x 209.56792pt.
-
-Overfull \hbox (552.24269pt too wide) in paragraph at lines 15--24
-[]$ 
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--24
 
@@ -704,20 +700,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./img/ego_exo_continuum_bigger.PNG>]
-<img/movement_classification.png, id=51, 818.0964pt x 361.35pt>
+<img/movement_classification.png, id=57, 818.0964pt x 361.35pt>
 File: img/movement_classification.png Graphic file (type png)
 <use img/movement_classification.png>
 Package pdftex.def Info: img/movement_classification.png  used on input line 31
 .
 (pdftex.def)             Requested size: 418.25368pt x 184.73819pt.
-
-Overfull \hbox (141.2807pt too wide) in paragraph at lines 35--40
-\OT1/cmr/m/n/12 searchers use \OT1/cmr/m/it/12 se-rial move-ments \OT1/cmr/m/n/
-12 as study task. $[]$ 
- []
-
-[7 <./img/laban.png>] [8 <./img/movement_classification.png>]
-<img/movement_classification2.png, id=60, 817.6146pt x 361.35pt>
+ [7 <./img/laban.png>] [8 <./img/movement_classification.png>]
+<img/movement_classification2.png, id=67, 817.6146pt x 361.35pt>
 File: img/movement_classification2.png Graphic file (type png)
 <use img/movement_classification2.png>
 Package pdftex.def Info: img/movement_classification2.png  used on input line 4
@@ -725,274 +715,267 @@ Package pdftex.def Info: img/movement_classification2.png  used on input line 4
 (pdftex.def)             Requested size: 418.25368pt x 184.85397pt.
  [9 <./img/movement_classification2.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
  [10]
-<img/milgram_continuum.png, id=73, 340.27126pt x 81.30376pt>
+<img/milgram_continuum.png, id=79, 340.27126pt x 81.30376pt>
 File: img/milgram_continuum.png Graphic file (type png)
 <use img/milgram_continuum.png>
-Package pdftex.def Info: img/milgram_continuum.png  used on input line 123.
+Package pdftex.def Info: img/milgram_continuum.png  used on input line 122.
 (pdftex.def)             Requested size: 418.25368pt x 99.94221pt.
-<img/mr_cont_sh.jpg, id=74, 1490.56876pt x 1336.995pt>
-File: img/mr_cont_sh.jpg Graphic file (type jpg)
-<use img/mr_cont_sh.jpg>
-Package pdftex.def Info: img/mr_cont_sh.jpg  used on input line 130.
-(pdftex.def)             Requested size: 418.25368pt x 375.15169pt.
-
-
-LaTeX Warning: Citation `Schmalstieg' on page 11 undefined on input line 131.
-
-
-LaTeX Warning: Citation `Schmalstieg' on page 11 undefined on input line 131.
-
-) [11] [12 <./img/milgram_continuum.png> <./img/mr_cont_sh.jpg>] [13]
+ [11]) [12 <./img/milgram_continuum.png>]
 \openout2 = `related_work.aux'.
 
-
-(related_work.tex [14
-
-
-
-]
-
-LaTeX Warning: Citation `Yan2002' on page 15 undefined on input line 4.
-
-
-LaTeX Warning: Citation `Komura2006' on page 15 undefined on input line 4.
-
-<img/overview_table.png, id=87, 964.5636pt x 357.4956pt>
+ (related_work.tex
+<img/overview_table.png, id=86, 964.5636pt x 357.4956pt>
 File: img/overview_table.png Graphic file (type png)
 <use img/overview_table.png>
-Package pdftex.def Info: img/overview_table.png  used on input line 7.
+Package pdftex.def Info: img/overview_table.png  used on input line 8.
 (pdftex.def)             Requested size: 418.25368pt x 155.01837pt.
-<img/detail_paper_overview.png, id=88, 891.33pt x 450.0012pt>
+<img/detail_paper_overview.png, id=87, 891.33pt x 450.0012pt>
 File: img/detail_paper_overview.png Graphic file (type png)
 <use img/detail_paper_overview.png>
-Package pdftex.def Info: img/detail_paper_overview.png  used on input line 14.
+Package pdftex.def Info: img/detail_paper_overview.png  used on input line 15.
 (pdftex.def)             Requested size: 418.25368pt x 211.16412pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--19
+Underfull \hbox (badness 10000) in paragraph at lines 4--20
 
  []
 
-[15 <./img/overview_table.png>]
-<img/taichi_perspectives.png, id=94, 780.66656pt x 415.5525pt>
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+ [13
+
+
+
+ <./img/overview_table.png>]
+<img/taichi_perspectives.png, id=93, 780.66656pt x 415.5525pt>
 File: img/taichi_perspectives.png Graphic file (type png)
 <use img/taichi_perspectives.png>
 Package pdftex.def Info: img/taichi_perspectives.png  used on input line 28.
 (pdftex.def)             Requested size: 418.25368pt x 222.6386pt.
+<img/YouMove.png, id=94, 633.567pt x 356.0502pt>
+File: img/YouMove.png Graphic file (type png)
+<use img/YouMove.png>
+Package pdftex.def Info: img/YouMove.png  used on input line 37.
+(pdftex.def)             Requested size: 418.25368pt x 235.04817pt.
+<img/VRDanceTrainerPerspective.png, id=95, 1081.79156pt x 609.02531pt>
+File: img/VRDanceTrainerPerspective.png Graphic file (type png)
+<use img/VRDanceTrainerPerspective.png>
+Package pdftex.def Info: img/VRDanceTrainerPerspective.png  used on input line 
+46.
+(pdftex.def)             Requested size: 418.25368pt x 235.46516pt.
+<img/OneBody_ego_persp.png, id=96, 1399.47844pt x 743.02594pt>
+File: img/OneBody_ego_persp.png Graphic file (type png)
+<use img/OneBody_ego_persp.png>
+Package pdftex.def Info: img/OneBody_ego_persp.png  used on input line 54.
+(pdftex.def)             Requested size: 418.25368pt x 222.05917pt.
+<img/LightGuide_Persp.png, id=97, 726.46407pt x 720.44156pt>
+File: img/LightGuide_Persp.png Graphic file (type png)
+<use img/LightGuide_Persp.png>
+Package pdftex.def Info: img/LightGuide_Persp.png  used on input line 62.
+(pdftex.def)             Requested size: 418.25368pt x 414.80032pt.
+<img/physioPersp.png, id=98, 1358.82657pt x 596.98032pt>
+File: img/physioPersp.png Graphic file (type png)
+<use img/physioPersp.png>
+Package pdftex.def Info: img/physioPersp.png  used on input line 70.
+(pdftex.def)             Requested size: 418.25368pt x 183.75026pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--47
+Underfull \hbox (badness 10000) in paragraph at lines 25--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--47
+Underfull \hbox (badness 10000) in paragraph at lines 25--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--47
+Underfull \hbox (badness 10000) in paragraph at lines 25--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--47
+Underfull \hbox (badness 10000) in paragraph at lines 25--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--47
+Underfull \hbox (badness 10000) in paragraph at lines 25--76
 
  []
 
-[16 <./img/detail_paper_overview.png>] [17 <./img/taichi_perspectives.png>]
-[18]
-<img/lightguide_movements.PNG, id=106, 1183.42125pt x 540.51938pt>
+[14 <./img/detail_paper_overview.png>] [15 <./img/taichi_perspectives.png>]
+[16 <./img/YouMove.png>]
+<img/perspectives.png, id=111, 721.2546pt x 424.4658pt>
+File: img/perspectives.png Graphic file (type png)
+<use img/perspectives.png>
+Package pdftex.def Info: img/perspectives.png  used on input line 79.
+(pdftex.def)             Requested size: 418.25368pt x 246.14499pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./img/VRDanceTrainerPerspective.png>]
+Underfull \vbox (badness 1642) has occurred while \output is active []
+
+ [18 <./img/OneBody_ego_persp.png>] [19 <./img/LightGuide_Persp.png>] [20 <./im
+g/physioPersp.png> <./img/perspectives.png>]
+<img/lightguide_movements.PNG, id=127, 1183.42125pt x 540.51938pt>
 File: img/lightguide_movements.PNG Graphic file (type png)
 <use img/lightguide_movements.PNG>
-Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 64.
+Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 102.
 (pdftex.def)             Requested size: 418.25368pt x 191.03209pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--75
+Underfull \hbox (badness 10000) in paragraph at lines 91--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--75
+Underfull \hbox (badness 10000) in paragraph at lines 91--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--75
+Underfull \hbox (badness 10000) in paragraph at lines 91--110
 
  []
 
 
-Overfull \hbox (2.71732pt too wide) in paragraph at lines 55--75
-[]\OT1/cmr/bx/n/12 TODO[]\OT1/cmr/m/n/12 These move-ments were per-formed with 
-six con-di-tions re-sult-ing in 90 dataset
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--75
+Underfull \hbox (badness 10000) in paragraph at lines 91--110
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--75
-
- []
-
-[19] [20 <./img/lightguide_movements.PNG>] [21]
-<img/VRDanceTrainerPractice.png, id=119, 765.6103pt x 472.01344pt>
+[21] [22 <./img/lightguide_movements.PNG>] [23]
+<img/VRDanceTrainerPractice.png, id=139, 765.6103pt x 472.01344pt>
 File: img/VRDanceTrainerPractice.png Graphic file (type png)
 <use img/VRDanceTrainerPractice.png>
-Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 103
+Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 135
 .
 (pdftex.def)             Requested size: 188.21288pt x 116.03682pt.
-<img/VRDanceTrainerScoreBoard.png, id=120, 1445.4pt x 789.70032pt>
+<img/VRDanceTrainerScoreBoard.png, id=140, 1445.4pt x 789.70032pt>
 File: img/VRDanceTrainerScoreBoard.png Graphic file (type png)
 <use img/VRDanceTrainerScoreBoard.png>
 Package pdftex.def Info: img/VRDanceTrainerScoreBoard.png  used on input line 1
-04.
+36.
 (pdftex.def)             Requested size: 209.12683pt x 114.25659pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--116
-
- []
-
-[22] [23 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrainerScoreBoard.png
->]
-<img/onebody1.png, id=127, 215.08928pt x 215.08928pt>
+<img/onebody1.png, id=141, 215.08928pt x 215.08928pt>
 File: img/onebody1.png Graphic file (type png)
 <use img/onebody1.png>
-Package pdftex.def Info: img/onebody1.png  used on input line 129.
+Package pdftex.def Info: img/onebody1.png  used on input line 149.
 (pdftex.def)             Requested size: 94.10962pt x 94.10788pt.
-<img/onebody2.png, id=128, 151.85304pt x 179.81464pt>
+<img/onebody2.png, id=142, 151.85304pt x 179.81464pt>
 File: img/onebody2.png Graphic file (type png)
 <use img/onebody2.png>
-Package pdftex.def Info: img/onebody2.png  used on input line 130.
+Package pdftex.def Info: img/onebody2.png  used on input line 150.
 (pdftex.def)             Requested size: 94.10962pt x 111.43727pt.
-<img/onebody3.png, id=129, 285.20839pt x 166.04893pt>
+<img/onebody3.png, id=143, 285.20839pt x 166.04893pt>
 File: img/onebody3.png Graphic file (type png)
 <use img/onebody3.png>
-Package pdftex.def Info: img/onebody3.png  used on input line 131.
+Package pdftex.def Info: img/onebody3.png  used on input line 151.
 (pdftex.def)             Requested size: 188.21288pt x 109.57742pt.
-<img/onebody_training_methods.PNG, id=130, 557.08125pt x 231.11343pt>
+<img/onebody_training_methods.PNG, id=144, 557.08125pt x 231.11343pt>
 File: img/onebody_training_methods.PNG Graphic file (type png)
 <use img/onebody_training_methods.PNG>
 Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 1
-38.
+58.
 (pdftex.def)             Requested size: 209.12683pt x 86.759pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--149
-
- []
-
-[24 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png>] [25 <./img/
-onebody_training_methods.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 167--180
+Underfull \hbox (badness 10000) in paragraph at lines 126--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--180
+Underfull \hbox (badness 10000) in paragraph at lines 126--165
+
+ []
+
+[24]
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [25 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrainerScoreBoard.png>] [
+26 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png> <./img/onebod
+y_training_methods.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--180
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 196--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--180
-
- []
-
-[26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 198--208
+Underfull \hbox (badness 10000) in paragraph at lines 196--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--208
+Underfull \hbox (badness 10000) in paragraph at lines 196--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--208
+Underfull \hbox (badness 10000) in paragraph at lines 196--208
+
+ []
+
+[28] [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 226--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--208
-
- []
-
-[29]
-<img/perspectives.png, id=151, 832.0686pt x 546.3612pt>
-File: img/perspectives.png Graphic file (type png)
-<use img/perspectives.png>
-Package pdftex.def Info: img/perspectives.png  used on input line 217.
-(pdftex.def)             Requested size: 418.25368pt x 274.63885pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--222
+Underfull \hbox (badness 10000) in paragraph at lines 226--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--222
+Underfull \hbox (badness 10000) in paragraph at lines 226--236
 
  []
 
 
-Underfull \vbox (badness 1688) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 226--236
 
- [30])
-[31] [32 <./img/perspectives.png>]
+ []
+
+[31] [32]) [33]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex [33
+ (study_setting.tex [34
 
 
 
-]) [34]
+] [35]) [36]
 \openout2 = `outlook.aux'.
 
- (outlook.tex)
-[35
+ (outlook.tex) [37
 
 
 
-] (seminar_thesis.bbl [36
+]
+(seminar_thesis.bbl [38
 
 
 ]
 bibitemlist
-[37] [38] [39]) (seminar_thesis.lof
+[39] [40] [41]) (seminar_thesis.lof
 Overfull \hbox (150.10577pt too wide) in paragraph at lines 3--3
  \OT1/cmr/m/n/12 green hints to re-solve a miss-wiring, taken from https://www.
 youtube.com/watch?v=1QFMPo5k6p0, 
  []
 
-
-LaTeX Warning: Citation `Schmalstieg' on page 40 undefined on input line 11.
-
-[40]) (seminar_thesis.lot) [41]
+[42]) (seminar_thesis.lot) [43]
 \tf@toc=\write4
 \openout4 = `seminar_thesis.toc'.
 
@@ -1004,35 +987,31 @@ LaTeX Warning: Citation `Schmalstieg' on page 40 undefined on input line 11.
 
  (seminar_thesis.aux (abstract.aux)
 (introduction.aux) (theoreticalbackground.aux) (related_work.aux)
-(study_setting.aux) (outlook.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(study_setting.aux) (outlook.aux)) ) 
 Here is how much of TeX's memory you used:
- 6845 strings out of 492895
- 95781 string characters out of 3133480
- 207153 words of memory out of 3000000
- 10599 multiletter control sequences out of 15000+200000
- 15946 words of font info for 60 fonts, out of 3000000 for 9000
+ 6863 strings out of 492895
+ 96382 string characters out of 3133480
+ 211536 words of memory out of 3000000
+ 10616 multiletter control sequences out of 15000+200000
+ 15325 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,27p,2386b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (45 pages, 5463158 bytes).
+ 43i,12n,27p,1740b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (49 pages, 10678806 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
+ 256 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
