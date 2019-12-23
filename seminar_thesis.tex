@@ -9,13 +9,12 @@
 \usepackage{cite}
 \usepackage{float}
 \usepackage{soul}
+\usepackage{tcolorbox}
+\usepackage[marginparsep=-1.8cm]{geometry}
 \chapterstyle{section}
 %\setcounter{chapter}{+1}
 %\counterwithout{section}{chapter}
 \newcommand{\todo}{\textcolor{red}{\textbf{TODO}}}
-\newcommand{\UB}{\textit{upper body}}
-\newcommand{\LB}{\textit{lower body}}
-\newcommand{\FB}{\textit{full body}}
 
 \newcommand{\markIt}{\strut\vadjust{\domark}}
 \newcommand{\domark}{%
@@ -26,19 +25,35 @@
 	}
 }
 
+%\title{Investigating Visual Perspectives on Guidance Visualisations for Motor Learning}
+%\date{December 2019}
+%\author{Stefan Paul Feyer}
+%\author{Supervisor Maximilian Dürr}
 
-\usepackage[marginparsep=-1.8cm]{geometry}
-%alt: Investigating the influence of perspectives on a virtual avatar for motor learning
-%\title{Investigating the influence of avatar positioning on motor learning in MR}
-\title{Motor learning in Mixed Reality}
-\date{\today}
-\author{Stefan Paul Feyer\\ HCI Group, University of Konstanz}
+\title{Investigating Visual Perspectives on Guidance Visualisations for Motor Learning}
+\author{Stefan Paul Feyer\\
+	\textit{HCI Group, University of Konstanz}
+	\and
+	Maximilian Dürr\\
+	\textit{Supervisor}
+	\and
+	Prof. Dr. Harald Reiterer\\
+	\textit{Examiner}
+}
+\date{Seminar to the Master's Project \\December 2019}
+
+
 \begin{document}
-	%\reversemarginpar%maring left
 	\maketitle
+	\thispagestyle{empty}
+	%\reversemarginpar%maring left
 	\frontmatter
 	\include{abstract}
-	\tableofcontents
+	\begin{KeepFromToc}
+		\tableofcontents
+	\end{KeepFromToc}
+	\listoffigures
+	\listoftables
 	\mainmatter
 	\include{introduction}
 	\include{theoreticalbackground}
@@ -47,8 +62,6 @@
 	\include{outlook}
 	\bibliography{bib/lit}
 	\bibliographystyle{plain}
-	\listoffigures
-	\listoftables
 	%\include{scope}
 	%\include{theory}
 	%\include{motivation}

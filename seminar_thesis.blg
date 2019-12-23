@@ -7,3 +7,32 @@ A level-1 auxiliary file: study_setting.aux
 A level-1 auxiliary file: outlook.aux
 The style file: plain.bst
 Database file #1: bib/lit.bib
+Repeated entry---line 384 of file bib/lit.bib
+ : @book{Schmidt2011
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 508 of file bib/lit.bib
+ : @article{Chan2007
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 533 of file bib/lit.bib
+ : @article{Hachimura2004
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 666 of file bib/lit.bib
+ : @article{Yan2015
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 674 of file bib/lit.bib
+ : @article{Chan2010
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 684 of file bib/lit.bib
+ : @article{Han2016
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 721 of file bib/lit.bib
+ : @article{Sodhi2012
+ :                   ,
+I'm skipping whatever remains of this entry
+(There were 7 error messages)

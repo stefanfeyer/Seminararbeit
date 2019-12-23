@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  11 DEC 2019 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  23 DEC 2019 23:05
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -470,6 +470,295 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@uldp=\dimen159
 \SOUL@ulht=\dimen160
 )
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2019/11/15 version 4.22 text color boxes
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box36
+ (C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfrcs.cod
+e.tex
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2019/05/09 v3.1.3 (3.1.3)
+))
+Package: pgf 2019/05/09 v3.1.3 (3.1.3)
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/basiclayer\pgfcore.sty
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/systemlayer\pgfsys.sty
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2019/05/09 v3.1.3 (3.1.3)
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks40
+))
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count151
+\c@pgf@countb=\count152
+\c@pgf@countc=\count153
+\c@pgf@countd=\count154
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count155
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2019/05/09 v3.1.3 (3.1.3)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2019/05/09 v3.1.3 (3.1.3)
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2019/05/09 v3.1.3 (3.1.3)
+)))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfsyssoftpath@smallbuffer@items=\count156
+\pgfsyssoftpath@bigbuffer@items=\count157
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2019/05/09 v3.1.3 (3.1.3)
+))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2019/05/09 v3.1.3 (3.1.3)
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.te
+x
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathcalc.cod
+e.tex
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathutil.cod
+e.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count158
+\pgfmath@box=\box37
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.code.tex
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count159
+))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfint.code.tex
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count160
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgflinewidth=\dimen192
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen256
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfarrowsep=\dimen257
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@max=\dimen258
+\pgf@sys@shading@range@num=\count161
+\pgf@shadingcount=\count162
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfexternal@startupbox=\box41
+))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfnodeparttextbox=\box42
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2019/05/09 v3.1.3 (3.1.3)
+\pgf@nodesepstart=\dimen259
+\pgf@nodesepend=\dimen260
+)
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2019/05/09 v3.1.3 (3.1.3)
+))
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)) (C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count163
+)
+\tcb@titlebox=\box43
+\tcb@upperbox=\box44
+\tcb@lowerbox=\box45
+\tcb@phantombox=\box46
+\c@tcbbreakpart=\count164
+\c@tcblayer=\count165
+\tcolorbox@number=\count166
+\tcb@temp=\box47
+\tcb@temp=\box48
+\tcb@temp=\box49
+\tcb@temp=\box50
+\tcb@out=\write5
+\tcb@record@out=\write6
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
@@ -477,18 +766,18 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count151
-\Gm@cntv=\count152
-\c@Gm@tempcnt=\count153
-\Gm@bindingoffset=\dimen161
-\Gm@wd@mp=\dimen162
-\Gm@odd@mp=\dimen163
-\Gm@even@mp=\dimen164
-\Gm@layoutwidth=\dimen165
-\Gm@layoutheight=\dimen166
-\Gm@layouthoffset=\dimen167
-\Gm@layoutvoffset=\dimen168
-\Gm@dimlist=\toks37
+\Gm@cnth=\count167
+\Gm@cntv=\count168
+\c@Gm@tempcnt=\count169
+\Gm@bindingoffset=\dimen261
+\Gm@wd@mp=\dimen262
+\Gm@odd@mp=\dimen263
+\Gm@even@mp=\dimen264
+\Gm@layoutwidth=\dimen265
+\Gm@layoutheight=\dimen266
+\Gm@layouthoffset=\dimen267
+\Gm@layoutvoffset=\dimen268
+\Gm@dimlist=\toks47
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
 
@@ -496,36 +785,42 @@ LaTeX Warning: Unused global option(s):
     [titlepage].
 
 (seminar_thesis.aux (abstract.aux) (introduction.aux)
-(theoreticalbackground.aux) (related_work.aux) (study_setting.aux) (outlook.aux
-))
+(theoreticalbackground.aux) (related_work.aux
+
+LaTeX Warning: Label `fig:tbl1' multiply defined.
+
+
+LaTeX Warning: Label `fig:tbl1' multiply defined.
+
+) (study_setting.aux) (outlook.aux))
 \openout1 = `seminar_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 (C:\Users\stefa\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count154
-\scratchdimen=\dimen169
-\scratchbox=\box36
-\nofMPsegments=\count155
-\nofMParguments=\count156
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count157
-\MPscratchDim=\dimen170
-\MPnumerator=\count158
-\makeMPintoPDFobject=\count159
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count170
+\scratchdimen=\dimen269
+\scratchbox=\box51
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count173
+\MPscratchDim=\dimen270
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks49
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -565,6 +860,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -599,11 +895,11 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -618,125 +914,132 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-(seminar_thesis.toc) [2
+(seminar_thesis.toc) (seminar_thesis.lof
+Overfull \hbox (18.58073pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/12 green hints to re-solve a miss-wiring, taken from https://www.
+youtube.com/ 
+ []
 
-] [3] [4
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
 
 ]
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+ [3])
+(seminar_thesis.lot) [4]
 \openout2 = `introduction.aux'.
 
  (introduction.tex
-<img/eonreality.PNG, id=24, 900.36375pt x 688.07062pt>
-File: img/eonreality.PNG Graphic file (type png)
-<use img/eonreality.PNG>
-Package pdftex.def Info: img/eonreality.PNG  used on input line 8.
-(pdftex.def)             Requested size: 418.25368pt x 319.63455pt.
-<img/fraunhofer.PNG, id=26, 892.83563pt x 462.22687pt>
+<img/fraunhofer.PNG, id=28, 892.83563pt x 462.22687pt>
 File: img/fraunhofer.PNG Graphic file (type png)
 <use img/fraunhofer.PNG>
-Package pdftex.def Info: img/fraunhofer.PNG  used on input line 15.
+Package pdftex.def Info: img/fraunhofer.PNG  used on input line 11.
 (pdftex.def)             Requested size: 418.25368pt x 216.5343pt.
+ [1
 
-Underfull \hbox (badness 4726) in paragraph at lines 16--16
-[]\OT1/cmr/m/n/12 Figure 1.2: Re-mote main-te-nance with Hololens by Smart Glas
-s Ex-
+
+
+] [2 <./img/fraunhofer.PNG>]
+<img/overallProcess_new.png, id=41, 967.4544pt x 545.8794pt>
+File: img/overallProcess_new.png Graphic file (type png)
+<use img/overallProcess_new.png>
+Package pdftex.def Info: img/overallProcess_new.png  used on input line 28.
+(pdftex.def)             Requested size: 418.25368pt x 235.99796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
  []
 
+) [3 <./img/overallProcess_new.png>]
+\openout2 = `theoreticalbackground.aux'.
 
-Underfull \hbox (badness 3668) in paragraph at lines 16--16
-\OT1/cmr/m/n/12 pe-ri-ence Lab. The on site worker wears a Hololens, while the 
-re-
- []
+ (theoreticalbackground.tex [4
 
-
-Underfull \hbox (badness 4660) in paragraph at lines 16--16
-\OT1/cmr/m/n/12 mote trainer draws green hints to re-solve a miss-wiring, taken
- from
- []
-
-[1
 
 
 ]
-<img/overallProcess.png, id=34, 967.4544pt x 545.8794pt>
-File: img/overallProcess.png Graphic file (type png)
-<use img/overallProcess.png>
-Package pdftex.def Info: img/overallProcess.png  used on input line 32.
-(pdftex.def)             Requested size: 418.25368pt x 235.99796pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
-
- []
-
-[2 <./img/eonreality.PNG>]) [3 <./img/fraunhofer.PNG>] [4 <./img/overallProcess
-.png>]
-\openout2 = `theoreticalbackground.aux'.
-
- (theoreticalbackground.tex
-<img/ego_exo_continuum_bigger.PNG, id=47, 1178.68929pt x 480.50946pt>
+<img/ego_exo_continuum_bigger.PNG, id=49, 1178.68929pt x 480.50946pt>
 File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
 <use img/ego_exo_continuum_bigger.PNG>
 Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 8
 .
 (pdftex.def)             Requested size: 418.25368pt x 170.50507pt.
-<img/laban.png, id=48, 711.4078pt x 712.91344pt>
+<img/laban.png, id=50, 711.4078pt x 712.91344pt>
 File: img/laban.png Graphic file (type png)
 <use img/laban.png>
 Package pdftex.def Info: img/laban.png  used on input line 18.
 (pdftex.def)             Requested size: 209.12683pt x 209.56792pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--24
+Underfull \vbox (badness 5161) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./img/ego_exo_continuum_bigger.PNG>]
+<img/movement_classification.png, id=58, 818.0964pt x 361.35pt>
+File: img/movement_classification.png Graphic file (type png)
+<use img/movement_classification.png>
+Package pdftex.def Info: img/movement_classification.png  used on input line 35
+.
+(pdftex.def)             Requested size: 418.25368pt x 184.73819pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+[7 <./img/laban.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5
-
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./img/ego_exo_continuum_bigger.PNG>]
-<img/movement_classification.png, id=57, 818.0964pt x 361.35pt>
-File: img/movement_classification.png Graphic file (type png)
-<use img/movement_classification.png>
-Package pdftex.def Info: img/movement_classification.png  used on input line 31
-.
-(pdftex.def)             Requested size: 418.25368pt x 184.73819pt.
- [7 <./img/laban.png>] [8 <./img/movement_classification.png>]
-<img/movement_classification2.png, id=67, 817.6146pt x 361.35pt>
+ [8 <./img/movement_classification.png>]
+<img/movement_classification2.png, id=68, 817.6146pt x 361.35pt>
 File: img/movement_classification2.png Graphic file (type png)
 <use img/movement_classification2.png>
-Package pdftex.def Info: img/movement_classification2.png  used on input line 4
-8.
+Package pdftex.def Info: img/movement_classification2.png  used on input line 5
+6.
 (pdftex.def)             Requested size: 418.25368pt x 184.85397pt.
- [9 <./img/movement_classification2.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./img/movement_classification2.png>] [10]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
- [10]
-<img/milgram_continuum.png, id=79, 340.27126pt x 81.30376pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+ [11]
+<img/milgram_continuum.png, id=83, 340.27126pt x 81.30376pt>
 File: img/milgram_continuum.png Graphic file (type png)
 <use img/milgram_continuum.png>
-Package pdftex.def Info: img/milgram_continuum.png  used on input line 122.
+Package pdftex.def Info: img/milgram_continuum.png  used on input line 135.
 (pdftex.def)             Requested size: 418.25368pt x 99.94221pt.
- [11]) [12 <./img/milgram_continuum.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12])
+[13 <./img/milgram_continuum.png>]
 \openout2 = `related_work.aux'.
 
- (related_work.tex
-<img/overview_table.png, id=86, 964.5636pt x 357.4956pt>
+ (related_work.tex [14
+
+
+
+]
+<img/overview_table.png, id=94, 964.5636pt x 357.4956pt>
 File: img/overview_table.png Graphic file (type png)
 <use img/overview_table.png>
 Package pdftex.def Info: img/overview_table.png  used on input line 8.
 (pdftex.def)             Requested size: 418.25368pt x 155.01837pt.
-<img/detail_paper_overview.png, id=87, 891.33pt x 450.0012pt>
+<img/detail_paper_overview.png, id=95, 891.33pt x 450.0012pt>
 File: img/detail_paper_overview.png Graphic file (type png)
 <use img/detail_paper_overview.png>
 Package pdftex.def Info: img/detail_paper_overview.png  used on input line 15.
@@ -746,272 +1049,310 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--20
 
  []
 
-
-Underfull \vbox (badness 1102) has occurred while \output is active []
-
- [13
-
-
-
- <./img/overview_table.png>]
-<img/taichi_perspectives.png, id=93, 780.66656pt x 415.5525pt>
+[15 <./img/overview_table.png>] [16 <./img/detail_paper_overview.png>]
+<img/tbl1.png, id=104, 891.33pt x 168.63pt>
+File: img/tbl1.png Graphic file (type png)
+<use img/tbl1.png>
+Package pdftex.def Info: img/tbl1.png  used on input line 27.
+(pdftex.def)             Requested size: 418.25368pt x 79.13002pt.
+<img/taichi_perspectives.png, id=105, 780.66656pt x 415.5525pt>
 File: img/taichi_perspectives.png Graphic file (type png)
 <use img/taichi_perspectives.png>
-Package pdftex.def Info: img/taichi_perspectives.png  used on input line 28.
+Package pdftex.def Info: img/taichi_perspectives.png  used on input line 34.
 (pdftex.def)             Requested size: 418.25368pt x 222.6386pt.
-<img/YouMove.png, id=94, 633.567pt x 356.0502pt>
+<img/YouMove.png, id=106, 633.567pt x 356.0502pt>
 File: img/YouMove.png Graphic file (type png)
 <use img/YouMove.png>
-Package pdftex.def Info: img/YouMove.png  used on input line 37.
+Package pdftex.def Info: img/YouMove.png  used on input line 43.
 (pdftex.def)             Requested size: 418.25368pt x 235.04817pt.
-<img/VRDanceTrainerPerspective.png, id=95, 1081.79156pt x 609.02531pt>
+<img/VRDanceTrainerPerspective.png, id=107, 1081.79156pt x 609.02531pt>
 File: img/VRDanceTrainerPerspective.png Graphic file (type png)
 <use img/VRDanceTrainerPerspective.png>
 Package pdftex.def Info: img/VRDanceTrainerPerspective.png  used on input line 
-46.
+52.
 (pdftex.def)             Requested size: 418.25368pt x 235.46516pt.
-<img/OneBody_ego_persp.png, id=96, 1399.47844pt x 743.02594pt>
+<img/OneBody_ego_persp.png, id=108, 1399.47844pt x 743.02594pt>
 File: img/OneBody_ego_persp.png Graphic file (type png)
 <use img/OneBody_ego_persp.png>
-Package pdftex.def Info: img/OneBody_ego_persp.png  used on input line 54.
-(pdftex.def)             Requested size: 418.25368pt x 222.05917pt.
-<img/LightGuide_Persp.png, id=97, 726.46407pt x 720.44156pt>
+Package pdftex.def Info: img/OneBody_ego_persp.png  used on input line 60.
+(pdftex.def)             Requested size: 292.77629pt x 155.43915pt.
+<img/LightGuide_Persp.png, id=109, 726.46407pt x 720.44156pt>
 File: img/LightGuide_Persp.png Graphic file (type png)
 <use img/LightGuide_Persp.png>
-Package pdftex.def Info: img/LightGuide_Persp.png  used on input line 62.
-(pdftex.def)             Requested size: 418.25368pt x 414.80032pt.
-<img/physioPersp.png, id=98, 1358.82657pt x 596.98032pt>
+Package pdftex.def Info: img/LightGuide_Persp.png  used on input line 68.
+(pdftex.def)             Requested size: 209.12683pt x 207.39467pt.
+<img/physioPersp.png, id=110, 1358.82657pt x 596.98032pt>
 File: img/physioPersp.png Graphic file (type png)
 <use img/physioPersp.png>
-Package pdftex.def Info: img/physioPersp.png  used on input line 70.
+Package pdftex.def Info: img/physioPersp.png  used on input line 75.
 (pdftex.def)             Requested size: 418.25368pt x 183.75026pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--76
+Underfull \hbox (badness 10000) in paragraph at lines 31--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--76
+Underfull \hbox (badness 10000) in paragraph at lines 31--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--76
+Underfull \hbox (badness 10000) in paragraph at lines 31--80
 
  []
 
+[17 <./img/tbl1.png>] [18 <./img/taichi_perspectives.png> <./img/YouMove.png>]
+[19 <./img/VRDanceTrainerPerspective.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--76
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--76
-
- []
-
-[14 <./img/detail_paper_overview.png>] [15 <./img/taichi_perspectives.png>]
-[16 <./img/YouMove.png>]
-<img/perspectives.png, id=111, 721.2546pt x 424.4658pt>
+[20 <./img/OneBody_ego_persp.png> <./img/LightGuide_Persp.png>] [21 <./img/phys
+ioPersp.png>]
+<img/perspectives.png, id=131, 721.2546pt x 424.4658pt>
 File: img/perspectives.png Graphic file (type png)
 <use img/perspectives.png>
-Package pdftex.def Info: img/perspectives.png  used on input line 79.
+Package pdftex.def Info: img/perspectives.png  used on input line 87.
 (pdftex.def)             Requested size: 418.25368pt x 246.14499pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <./img/VRDanceTrainerPerspective.png>]
-Underfull \vbox (badness 1642) has occurred while \output is active []
-
- [18 <./img/OneBody_ego_persp.png>] [19 <./img/LightGuide_Persp.png>] [20 <./im
-g/physioPersp.png> <./img/perspectives.png>]
-<img/lightguide_movements.PNG, id=127, 1183.42125pt x 540.51938pt>
+<img/cond_detail.png, id=132, 655.248pt x 206.6922pt>
+File: img/cond_detail.png Graphic file (type png)
+<use img/cond_detail.png>
+Package pdftex.def Info: img/cond_detail.png  used on input line 88.
+(pdftex.def)             Requested size: 418.25368pt x 131.93877pt.
+ [22 <./img/perspectives.png> <./img/cond_detail.png>]
+<img/tbl2.png, id=138, 891.33pt x 132.9768pt>
+File: img/tbl2.png Graphic file (type png)
+<use img/tbl2.png>
+Package pdftex.def Info: img/tbl2.png  used on input line 105.
+(pdftex.def)             Requested size: 418.25368pt x 62.39967pt.
+<img/lightguide_movements.PNG, id=139, 1183.42125pt x 540.51938pt>
 File: img/lightguide_movements.PNG Graphic file (type png)
 <use img/lightguide_movements.PNG>
-Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 102.
+Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 122.
 (pdftex.def)             Requested size: 418.25368pt x 191.03209pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--130
 
  []
 
-[21] [22 <./img/lightguide_movements.PNG>] [23]
-<img/VRDanceTrainerPractice.png, id=139, 765.6103pt x 472.01344pt>
+[23 <./img/tbl2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+[25 <./img/lightguide_movements.PNG>] [26]
+<img/tbl3.png, id=156, 891.33pt x 146.949pt>
+File: img/tbl3.png Graphic file (type png)
+<use img/tbl3.png>
+Package pdftex.def Info: img/tbl3.png  used on input line 147.
+(pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
+<img/VRDanceTrainerPractice.png, id=157, 765.6103pt x 472.01344pt>
 File: img/VRDanceTrainerPractice.png Graphic file (type png)
 <use img/VRDanceTrainerPractice.png>
-Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 135
+Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 164
 .
 (pdftex.def)             Requested size: 188.21288pt x 116.03682pt.
-<img/VRDanceTrainerScoreBoard.png, id=140, 1445.4pt x 789.70032pt>
+<img/VRDanceTrainerScoreBoard.png, id=158, 1445.4pt x 789.70032pt>
 File: img/VRDanceTrainerScoreBoard.png Graphic file (type png)
 <use img/VRDanceTrainerScoreBoard.png>
 Package pdftex.def Info: img/VRDanceTrainerScoreBoard.png  used on input line 1
-36.
+65.
 (pdftex.def)             Requested size: 209.12683pt x 114.25659pt.
-<img/onebody1.png, id=141, 215.08928pt x 215.08928pt>
+<img/onebody1.png, id=159, 215.08928pt x 215.08928pt>
 File: img/onebody1.png Graphic file (type png)
 <use img/onebody1.png>
-Package pdftex.def Info: img/onebody1.png  used on input line 149.
+Package pdftex.def Info: img/onebody1.png  used on input line 178.
 (pdftex.def)             Requested size: 94.10962pt x 94.10788pt.
-<img/onebody2.png, id=142, 151.85304pt x 179.81464pt>
+<img/onebody2.png, id=160, 151.85304pt x 179.81464pt>
 File: img/onebody2.png Graphic file (type png)
 <use img/onebody2.png>
-Package pdftex.def Info: img/onebody2.png  used on input line 150.
+Package pdftex.def Info: img/onebody2.png  used on input line 179.
 (pdftex.def)             Requested size: 94.10962pt x 111.43727pt.
-<img/onebody3.png, id=143, 285.20839pt x 166.04893pt>
+<img/onebody3.png, id=161, 285.20839pt x 166.04893pt>
 File: img/onebody3.png Graphic file (type png)
 <use img/onebody3.png>
-Package pdftex.def Info: img/onebody3.png  used on input line 151.
+Package pdftex.def Info: img/onebody3.png  used on input line 180.
 (pdftex.def)             Requested size: 188.21288pt x 109.57742pt.
-<img/onebody_training_methods.PNG, id=144, 557.08125pt x 231.11343pt>
+<img/onebody_training_methods.PNG, id=162, 557.08125pt x 231.11343pt>
 File: img/onebody_training_methods.PNG Graphic file (type png)
 <use img/onebody_training_methods.PNG>
 Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 1
-58.
+87.
 (pdftex.def)             Requested size: 209.12683pt x 86.759pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--165
+Underfull \hbox (badness 10000) in paragraph at lines 155--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--165
+Underfull \hbox (badness 10000) in paragraph at lines 155--194
 
  []
 
-[24]
-Underfull \vbox (badness 2065) has occurred while \output is active []
+[27 <./img/tbl3.png>]
+Underfull \vbox (badness 2913) has occurred while \output is active []
 
- [25 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrainerScoreBoard.png>] [
-26 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png> <./img/onebod
+ [28 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrainerScoreBoard.png>] [
+29 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png> <./img/onebod
 y_training_methods.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--175
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--175
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 196--208
+[30]
+<img/tbl4.png, id=177, 891.33pt x 146.949pt>
+File: img/tbl4.png Graphic file (type png)
+<use img/tbl4.png>
+Package pdftex.def Info: img/tbl4.png  used on input line 229.
+(pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--208
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--208
+Underfull \hbox (badness 10000) in paragraph at lines 234--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--208
-
- []
-
-[28] [29] [30]
-Underfull \hbox (badness 10000) in paragraph at lines 226--236
+Underfull \hbox (badness 10000) in paragraph at lines 234--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--236
+Underfull \hbox (badness 10000) in paragraph at lines 234--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--236
+Underfull \hbox (badness 10000) in paragraph at lines 234--246
+
+ []
+
+[31 <./img/tbl4.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33]
+<img/tbl5.png, id=189, 891.33pt x 146.949pt>
+File: img/tbl5.png Graphic file (type png)
+<use img/tbl5.png>
+Package pdftex.def Info: img/tbl5.png  used on input line 257.
+(pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--236
+Underfull \hbox (badness 10000) in paragraph at lines 274--284
 
  []
 
-[31] [32]) [33]
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--284
+
+ []
+
+[34 <./img/tbl5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36])
+[37]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex [34
+ (study_setting.tex [38
 
 
 
-] [35]) [36]
+] [39]
+<img/studySetting.png, id=210, 769.9164pt x 68.4156pt>
+File: img/studySetting.png Graphic file (type png)
+<use img/studySetting.png>
+Package pdftex.def Info: img/studySetting.png  used on input line 15.
+(pdftex.def)             Requested size: 418.25368pt x 37.16621pt.
+) [40 <./img/studySetting.png>]
 \openout2 = `outlook.aux'.
 
- (outlook.tex) [37
+ (outlook.tex
+<img/outlook.png, id=215, 831.5868pt x 370.0224pt>
+File: img/outlook.png Graphic file (type png)
+<use img/outlook.png>
+Package pdftex.def Info: img/outlook.png  used on input line 7.
+(pdftex.def)             Requested size: 418.25368pt x 186.10608pt.
+)
+[41
 
 
 
-]
-(seminar_thesis.bbl [38
+ <./img/outlook.png>] (seminar_thesis.bbl [42
 
 
 ]
 bibitemlist
-[39] [40] [41]) (seminar_thesis.lof
-Overfull \hbox (150.10577pt too wide) in paragraph at lines 3--3
- \OT1/cmr/m/n/12 green hints to re-solve a miss-wiring, taken from https://www.
-youtube.com/watch?v=1QFMPo5k6p0, 
- []
+[43] [44] [45]) [46]
+\tf@toc=\write7
+\openout7 = `seminar_thesis.toc'.
 
-[42]) (seminar_thesis.lot) [43]
-\tf@toc=\write4
-\openout4 = `seminar_thesis.toc'.
+\tf@lof=\write8
+\openout8 = `seminar_thesis.lof'.
 
-\tf@lof=\write5
-\openout5 = `seminar_thesis.lof'.
+\tf@lot=\write9
+\openout9 = `seminar_thesis.lot'.
 
-\tf@lot=\write6
-\openout6 = `seminar_thesis.lot'.
+ (seminar_thesis.aux (abstract.aux) (introduction.aux)
+(theoreticalbackground.aux) (related_work.aux) (study_setting.aux) (outlook.aux
+))
 
- (seminar_thesis.aux (abstract.aux)
-(introduction.aux) (theoreticalbackground.aux) (related_work.aux)
-(study_setting.aux) (outlook.aux)) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6863 strings out of 492895
- 96382 string characters out of 3133480
- 211536 words of memory out of 3000000
- 10616 multiletter control sequences out of 15000+200000
- 15325 words of font info for 58 fonts, out of 3000000 for 9000
+ 16696 strings out of 492895
+ 307109 string characters out of 3133480
+ 398676 words of memory out of 3000000
+ 20247 multiletter control sequences out of 15000+200000
+ 15672 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,27p,1740b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (49 pages, 10678806 bytes).
+ 59i,12n,73p,1740b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (52 pages, 9066315 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
+ 282 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 
