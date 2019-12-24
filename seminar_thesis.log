@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  23 DEC 2019 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  24 DEC 2019 03:50
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -785,14 +785,7 @@ LaTeX Warning: Unused global option(s):
     [titlepage].
 
 (seminar_thesis.aux (abstract.aux) (introduction.aux)
-(theoreticalbackground.aux) (related_work.aux
-
-LaTeX Warning: Label `fig:tbl1' multiply defined.
-
-
-LaTeX Warning: Label `fig:tbl1' multiply defined.
-
-) (study_setting.aux) (outlook.aux))
+(theoreticalbackground.aux) (related_work.aux) (study_setting.aux))
 \openout1 = `seminar_thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -967,48 +960,46 @@ File: img/ego_exo_continuum_bigger.PNG Graphic file (type png)
 Package pdftex.def Info: img/ego_exo_continuum_bigger.PNG  used on input line 8
 .
 (pdftex.def)             Requested size: 418.25368pt x 170.50507pt.
-<img/laban.png, id=50, 711.4078pt x 712.91344pt>
-File: img/laban.png Graphic file (type png)
-<use img/laban.png>
-Package pdftex.def Info: img/laban.png  used on input line 18.
-(pdftex.def)             Requested size: 209.12683pt x 209.56792pt.
 
-Underfull \vbox (badness 5161) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./img/ego_exo_continuum_bigger.PNG>]
-<img/movement_classification.png, id=58, 818.0964pt x 361.35pt>
+<img/movement_classification.png, id=57, 818.0964pt x 361.35pt>
 File: img/movement_classification.png Graphic file (type png)
 <use img/movement_classification.png>
-Package pdftex.def Info: img/movement_classification.png  used on input line 35
+Package pdftex.def Info: img/movement_classification.png  used on input line 28
 .
 (pdftex.def)             Requested size: 418.25368pt x 184.73819pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--45
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
 
  []
 
-[7 <./img/laban.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./img/movement_classification.png>]
-<img/movement_classification2.png, id=68, 817.6146pt x 361.35pt>
+[7 <./img/movement_classification.png>]
+<img/movement_classification2.png, id=64, 817.6146pt x 361.35pt>
 File: img/movement_classification2.png Graphic file (type png)
 <use img/movement_classification2.png>
-Package pdftex.def Info: img/movement_classification2.png  used on input line 5
-6.
+Package pdftex.def Info: img/movement_classification2.png  used on input line 4
+3.
 (pdftex.def)             Requested size: 418.25368pt x 184.85397pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
- [9 <./img/movement_classification2.png>] [10]
+ []
+
+[8 <./img/movement_classification2.png>]
+<img/laban.png, id=69, 711.4078pt x 712.91344pt>
+File: img/laban.png Graphic file (type png)
+<use img/laban.png>
+Package pdftex.def Info: img/laban.png  used on input line 84.
+(pdftex.def)             Requested size: 209.12683pt x 209.56792pt.
+
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+ [9]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
@@ -1016,17 +1007,13 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
- [11]
+ [10 <./img/laban.png>] [11]
 <img/milgram_continuum.png, id=83, 340.27126pt x 81.30376pt>
 File: img/milgram_continuum.png Graphic file (type png)
 <use img/milgram_continuum.png>
-Package pdftex.def Info: img/milgram_continuum.png  used on input line 135.
+Package pdftex.def Info: img/milgram_continuum.png  used on input line 136.
 (pdftex.def)             Requested size: 418.25368pt x 99.94221pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12])
-[13 <./img/milgram_continuum.png>]
+) [12 <./img/milgram_continuum.png>] [13]
 \openout2 = `related_work.aux'.
 
  (related_work.tex [14
@@ -1293,21 +1280,13 @@ File: img/studySetting.png Graphic file (type png)
 <use img/studySetting.png>
 Package pdftex.def Info: img/studySetting.png  used on input line 15.
 (pdftex.def)             Requested size: 418.25368pt x 37.16621pt.
-) [40 <./img/studySetting.png>]
-\openout2 = `outlook.aux'.
-
- (outlook.tex
-<img/outlook.png, id=215, 831.5868pt x 370.0224pt>
+<img/outlook.png, id=211, 831.5868pt x 370.0224pt>
 File: img/outlook.png Graphic file (type png)
 <use img/outlook.png>
-Package pdftex.def Info: img/outlook.png  used on input line 7.
+Package pdftex.def Info: img/outlook.png  used on input line 36.
 (pdftex.def)             Requested size: 418.25368pt x 186.10608pt.
-)
-[41
-
-
-
- <./img/outlook.png>] (seminar_thesis.bbl [42
+) [40 <./img/studySetting.png>] [41 <./img/outlook.png>] (seminar_thesis.bbl [4
+2
 
 
 ]
@@ -1323,34 +1302,30 @@ bibitemlist
 \openout9 = `seminar_thesis.lot'.
 
  (seminar_thesis.aux (abstract.aux) (introduction.aux)
-(theoreticalbackground.aux) (related_work.aux) (study_setting.aux) (outlook.aux
-))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+(theoreticalbackground.aux) (related_work.aux) (study_setting.aux)) ) 
 Here is how much of TeX's memory you used:
- 16696 strings out of 492895
- 307109 string characters out of 3133480
- 398676 words of memory out of 3000000
- 20247 multiletter control sequences out of 15000+200000
+ 16689 strings out of 492895
+ 306818 string characters out of 3133480
+ 397834 words of memory out of 3000000
+ 20246 multiletter control sequences out of 15000+200000
  15672 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,12n,73p,1740b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (52 pages, 9066315 bytes).
+<C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb>
+Output written on seminar_thesis.pdf (52 pages, 9066205 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

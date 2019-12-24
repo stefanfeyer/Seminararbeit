@@ -9,10 +9,10 @@
 \contentsline {subsection}{Learning Movements}{6}% 
 \contentsline {subsection}{Movement Classification}{7}% 
 \contentsline {subsubsection}{Discrete, Continuous and Serial Movements}{7}% 
-\contentsline {subsubsection}{Open and Closed Skills}{9}% 
-\contentsline {subsection}{Measuring Movements}{10}% 
+\contentsline {subsubsection}{Open and Closed Skills}{8}% 
+\contentsline {subsection}{Measuring Movements}{9}% 
 \contentsline {subsubsection}{Measures of Error for a Single Subject}{10}% 
-\contentsline {subsubsection}{Measures of Time and Speed}{12}% 
+\contentsline {subsubsection}{Measures of Time and Speed}{11}% 
 \contentsline {subsubsection}{Measures of Movement Magnitude}{12}% 
 \contentsline {section}{\numberline {2.3}Mixed Reality}{12}% 
 \contentsline {section}{\numberline {2.4}Summary}{13}% 
@@ -31,5 +31,5 @@
 \contentsline {chapter}{\chapternumberline {4}Proposed Study Design}{39}% 
 \contentsline {section}{\numberline {4.1}Setup}{39}% 
 \contentsline {section}{\numberline {4.2}Procedure}{39}% 
-\contentsline {chapter}{\chapternumberline {5}Outlook}{41}% 
+\contentsline {section}{\numberline {4.3}Outlook}{40}% 
 \contentsline {chapter}{Bibliography}{43}% 
