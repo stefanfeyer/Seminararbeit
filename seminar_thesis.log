@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  24 DEC 2019 03:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.4)  24 DEC 2019 14:30
 entering extended mode
 **./seminar_thesis.tex
 (seminar_thesis.tex
@@ -1024,71 +1024,78 @@ Package pdftex.def Info: img/milgram_continuum.png  used on input line 136.
 <img/overview_table.png, id=94, 964.5636pt x 357.4956pt>
 File: img/overview_table.png Graphic file (type png)
 <use img/overview_table.png>
-Package pdftex.def Info: img/overview_table.png  used on input line 8.
+Package pdftex.def Info: img/overview_table.png  used on input line 5.
 (pdftex.def)             Requested size: 418.25368pt x 155.01837pt.
 <img/detail_paper_overview.png, id=95, 891.33pt x 450.0012pt>
 File: img/detail_paper_overview.png Graphic file (type png)
 <use img/detail_paper_overview.png>
-Package pdftex.def Info: img/detail_paper_overview.png  used on input line 15.
+Package pdftex.def Info: img/detail_paper_overview.png  used on input line 14.
 (pdftex.def)             Requested size: 418.25368pt x 211.16412pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--20
-
- []
-
-[15 <./img/overview_table.png>] [16 <./img/detail_paper_overview.png>]
+ [15 <./img/overview_table.png>] [16 <./img/detail_paper_overview.png>]
 <img/tbl1.png, id=104, 891.33pt x 168.63pt>
 File: img/tbl1.png Graphic file (type png)
 <use img/tbl1.png>
-Package pdftex.def Info: img/tbl1.png  used on input line 27.
+Package pdftex.def Info: img/tbl1.png  used on input line 26.
 (pdftex.def)             Requested size: 418.25368pt x 79.13002pt.
 <img/taichi_perspectives.png, id=105, 780.66656pt x 415.5525pt>
 File: img/taichi_perspectives.png Graphic file (type png)
 <use img/taichi_perspectives.png>
-Package pdftex.def Info: img/taichi_perspectives.png  used on input line 34.
+Package pdftex.def Info: img/taichi_perspectives.png  used on input line 33.
 (pdftex.def)             Requested size: 418.25368pt x 222.6386pt.
 <img/YouMove.png, id=106, 633.567pt x 356.0502pt>
 File: img/YouMove.png Graphic file (type png)
 <use img/YouMove.png>
-Package pdftex.def Info: img/YouMove.png  used on input line 43.
+Package pdftex.def Info: img/YouMove.png  used on input line 42.
 (pdftex.def)             Requested size: 418.25368pt x 235.04817pt.
 <img/VRDanceTrainerPerspective.png, id=107, 1081.79156pt x 609.02531pt>
 File: img/VRDanceTrainerPerspective.png Graphic file (type png)
 <use img/VRDanceTrainerPerspective.png>
 Package pdftex.def Info: img/VRDanceTrainerPerspective.png  used on input line 
-52.
+51.
 (pdftex.def)             Requested size: 418.25368pt x 235.46516pt.
 <img/OneBody_ego_persp.png, id=108, 1399.47844pt x 743.02594pt>
 File: img/OneBody_ego_persp.png Graphic file (type png)
 <use img/OneBody_ego_persp.png>
-Package pdftex.def Info: img/OneBody_ego_persp.png  used on input line 60.
+Package pdftex.def Info: img/OneBody_ego_persp.png  used on input line 59.
 (pdftex.def)             Requested size: 292.77629pt x 155.43915pt.
 <img/LightGuide_Persp.png, id=109, 726.46407pt x 720.44156pt>
 File: img/LightGuide_Persp.png Graphic file (type png)
 <use img/LightGuide_Persp.png>
-Package pdftex.def Info: img/LightGuide_Persp.png  used on input line 68.
+Package pdftex.def Info: img/LightGuide_Persp.png  used on input line 67.
 (pdftex.def)             Requested size: 209.12683pt x 207.39467pt.
 <img/physioPersp.png, id=110, 1358.82657pt x 596.98032pt>
 File: img/physioPersp.png Graphic file (type png)
 <use img/physioPersp.png>
-Package pdftex.def Info: img/physioPersp.png  used on input line 75.
+Package pdftex.def Info: img/physioPersp.png  used on input line 74.
 (pdftex.def)             Requested size: 418.25368pt x 183.75026pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--80
+Underfull \hbox (badness 10000) in paragraph at lines 30--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--80
+Underfull \hbox (badness 10000) in paragraph at lines 30--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--80
+Underfull \hbox (badness 10000) in paragraph at lines 30--79
 
  []
 
-[17 <./img/tbl1.png>] [18 <./img/taichi_perspectives.png> <./img/YouMove.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./img/tbl1.png>]
+Underfull \vbox (badness 2277) has occurred while \output is active []
+
+ [18 <./img/taichi_perspectives.png> <./img/YouMove.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [19 <./img/VRDanceTrainerPerspective.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1098,41 +1105,46 @@ ioPersp.png>]
 <img/perspectives.png, id=131, 721.2546pt x 424.4658pt>
 File: img/perspectives.png Graphic file (type png)
 <use img/perspectives.png>
-Package pdftex.def Info: img/perspectives.png  used on input line 87.
+Package pdftex.def Info: img/perspectives.png  used on input line 86.
 (pdftex.def)             Requested size: 418.25368pt x 246.14499pt.
 <img/cond_detail.png, id=132, 655.248pt x 206.6922pt>
 File: img/cond_detail.png Graphic file (type png)
 <use img/cond_detail.png>
-Package pdftex.def Info: img/cond_detail.png  used on input line 88.
+Package pdftex.def Info: img/cond_detail.png  used on input line 87.
 (pdftex.def)             Requested size: 418.25368pt x 131.93877pt.
  [22 <./img/perspectives.png> <./img/cond_detail.png>]
 <img/tbl2.png, id=138, 891.33pt x 132.9768pt>
 File: img/tbl2.png Graphic file (type png)
 <use img/tbl2.png>
-Package pdftex.def Info: img/tbl2.png  used on input line 105.
+Package pdftex.def Info: img/tbl2.png  used on input line 104.
 (pdftex.def)             Requested size: 418.25368pt x 62.39967pt.
 <img/lightguide_movements.PNG, id=139, 1183.42125pt x 540.51938pt>
 File: img/lightguide_movements.PNG Graphic file (type png)
 <use img/lightguide_movements.PNG>
-Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 122.
+Package pdftex.def Info: img/lightguide_movements.PNG  used on input line 121.
 (pdftex.def)             Requested size: 418.25368pt x 191.03209pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--130
+Underfull \hbox (badness 10000) in paragraph at lines 110--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--130
+Underfull \hbox (badness 10000) in paragraph at lines 110--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--130
+Underfull \hbox (badness 10000) in paragraph at lines 110--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--130
+Underfull \hbox (badness 10000) in paragraph at lines 110--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--125
 
  []
 
@@ -1144,137 +1156,135 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <img/tbl3.png, id=156, 891.33pt x 146.949pt>
 File: img/tbl3.png Graphic file (type png)
 <use img/tbl3.png>
-Package pdftex.def Info: img/tbl3.png  used on input line 147.
+Package pdftex.def Info: img/tbl3.png  used on input line 146.
 (pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
 <img/VRDanceTrainerPractice.png, id=157, 765.6103pt x 472.01344pt>
 File: img/VRDanceTrainerPractice.png Graphic file (type png)
 <use img/VRDanceTrainerPractice.png>
-Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 164
+Package pdftex.def Info: img/VRDanceTrainerPractice.png  used on input line 163
 .
 (pdftex.def)             Requested size: 188.21288pt x 116.03682pt.
 <img/VRDanceTrainerScoreBoard.png, id=158, 1445.4pt x 789.70032pt>
 File: img/VRDanceTrainerScoreBoard.png Graphic file (type png)
 <use img/VRDanceTrainerScoreBoard.png>
 Package pdftex.def Info: img/VRDanceTrainerScoreBoard.png  used on input line 1
-65.
+64.
 (pdftex.def)             Requested size: 209.12683pt x 114.25659pt.
-<img/onebody1.png, id=159, 215.08928pt x 215.08928pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--173
+
+ []
+
+[27 <./img/tbl3.png>] [28 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrai
+nerScoreBoard.png>]
+<img/onebody1.png, id=166, 215.08928pt x 215.08928pt>
 File: img/onebody1.png Graphic file (type png)
 <use img/onebody1.png>
-Package pdftex.def Info: img/onebody1.png  used on input line 178.
+Package pdftex.def Info: img/onebody1.png  used on input line 176.
 (pdftex.def)             Requested size: 94.10962pt x 94.10788pt.
-<img/onebody2.png, id=160, 151.85304pt x 179.81464pt>
+<img/onebody2.png, id=167, 151.85304pt x 179.81464pt>
 File: img/onebody2.png Graphic file (type png)
 <use img/onebody2.png>
-Package pdftex.def Info: img/onebody2.png  used on input line 179.
+Package pdftex.def Info: img/onebody2.png  used on input line 177.
 (pdftex.def)             Requested size: 94.10962pt x 111.43727pt.
-<img/onebody3.png, id=161, 285.20839pt x 166.04893pt>
+<img/onebody3.png, id=168, 285.20839pt x 166.04893pt>
 File: img/onebody3.png Graphic file (type png)
 <use img/onebody3.png>
-Package pdftex.def Info: img/onebody3.png  used on input line 180.
+Package pdftex.def Info: img/onebody3.png  used on input line 178.
 (pdftex.def)             Requested size: 188.21288pt x 109.57742pt.
-<img/onebody_training_methods.PNG, id=162, 557.08125pt x 231.11343pt>
+<img/onebody_training_methods.PNG, id=169, 557.08125pt x 231.11343pt>
 File: img/onebody_training_methods.PNG Graphic file (type png)
 <use img/onebody_training_methods.PNG>
 Package pdftex.def Info: img/onebody_training_methods.PNG  used on input line 1
 87.
 (pdftex.def)             Requested size: 209.12683pt x 86.759pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--194
+ [29 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png> <./img/oneb
+ody_training_methods.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 
  []
 
-[27 <./img/tbl3.png>]
-Underfull \vbox (badness 2913) has occurred while \output is active []
-
- [28 <./img/VRDanceTrainerPractice.png> <./img/VRDanceTrainerScoreBoard.png>] [
-29 <./img/onebody1.png> <./img/onebody2.png> <./img/onebody3.png> <./img/onebod
-y_training_methods.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 201--204
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--204
-
- []
-
-[30]
-<img/tbl4.png, id=177, 891.33pt x 146.949pt>
+[30] [31]
+<img/tbl4.png, id=181, 891.33pt x 146.949pt>
 File: img/tbl4.png Graphic file (type png)
 <use img/tbl4.png>
-Package pdftex.def Info: img/tbl4.png  used on input line 229.
+Package pdftex.def Info: img/tbl4.png  used on input line 236.
 (pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--246
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--246
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--246
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--246
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
-[31 <./img/tbl4.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
+
+ []
+
+[32 <./img/tbl4.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
-[33]
-<img/tbl5.png, id=189, 891.33pt x 146.949pt>
+ [33]
+[34]
+<img/tbl5.png, id=192, 891.33pt x 146.949pt>
 File: img/tbl5.png Graphic file (type png)
 <use img/tbl5.png>
-Package pdftex.def Info: img/tbl5.png  used on input line 257.
+Package pdftex.def Info: img/tbl5.png  used on input line 264.
 (pdftex.def)             Requested size: 418.25368pt x 68.95616pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--284
+Underfull \hbox (badness 10000) in paragraph at lines 281--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--284
+Underfull \hbox (badness 10000) in paragraph at lines 281--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--284
+Underfull \hbox (badness 10000) in paragraph at lines 281--291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--284
+Underfull \hbox (badness 10000) in paragraph at lines 281--291
 
  []
 
-[34 <./img/tbl5.png>]
+[35 <./img/tbl5.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
+ [36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36])
-[37]
+ [37])
+[38]
 \openout2 = `study_setting.aux'.
 
- (study_setting.tex [38
+ (study_setting.tex [39
 
 
 
-] [39]
+]
 <img/studySetting.png, id=210, 769.9164pt x 68.4156pt>
 File: img/studySetting.png Graphic file (type png)
 <use img/studySetting.png>
@@ -1304,10 +1314,10 @@ bibitemlist
  (seminar_thesis.aux (abstract.aux) (introduction.aux)
 (theoreticalbackground.aux) (related_work.aux) (study_setting.aux)) ) 
 Here is how much of TeX's memory you used:
- 16689 strings out of 492895
- 306818 string characters out of 3133480
- 397834 words of memory out of 3000000
- 20246 multiletter control sequences out of 15000+200000
+ 16688 strings out of 492895
+ 306785 string characters out of 3133480
+ 397843 words of memory out of 3000000
+ 20245 multiletter control sequences out of 15000+200000
  15672 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,12n,73p,1740b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1325,7 +1335,7 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb>
-Output written on seminar_thesis.pdf (52 pages, 9066205 bytes).
+Output written on seminar_thesis.pdf (52 pages, 9067109 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

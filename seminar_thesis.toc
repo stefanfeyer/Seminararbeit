@@ -23,11 +23,11 @@
 \contentsline {subsection}{Conclusion}{26}% 
 \contentsline {section}{\numberline {3.3}Guidance Visualisation}{27}% 
 \contentsline {subsection}{Conclusion}{30}% 
-\contentsline {section}{\numberline {3.4}Variables}{31}% 
-\contentsline {subsection}{Conclusion}{33}% 
-\contentsline {section}{\numberline {3.5}Results}{34}% 
-\contentsline {subsection}{Conclusion}{36}% 
-\contentsline {section}{\numberline {3.6}Summary}{37}% 
+\contentsline {section}{\numberline {3.4}Variables}{32}% 
+\contentsline {subsection}{Conclusion}{34}% 
+\contentsline {section}{\numberline {3.5}Results}{35}% 
+\contentsline {subsection}{Conclusion}{37}% 
+\contentsline {section}{\numberline {3.6}Summary}{38}% 
 \contentsline {chapter}{\chapternumberline {4}Proposed Study Design}{39}% 
 \contentsline {section}{\numberline {4.1}Setup}{39}% 
 \contentsline {section}{\numberline {4.2}Procedure}{39}% 
